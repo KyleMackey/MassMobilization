@@ -1,0 +1,3637 @@
+ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remove,social,nonviolent,protester_violence,state_violence,both_violence
+20,1990,"Canada","North America",63,1,1,1,4,0,0,0,3,2,1,1
+20,1991,"Canada","North America",13,2,0,0,0,0,0,0,2,0,0,0
+20,1992,"Canada","North America",2,0,0,1,0,0,0,0,0,1,0,0
+20,1993,"Canada","North America",63,0,0,0,2,0,0,0,2,0,0,0
+20,1994,"Canada","North America",2,0,0,0,1,1,0,0,2,0,0,0
+20,1995,"Canada","North America",2,0,1,0,0,1,0,0,1,0,1,1
+20,1996,"Canada","North America",1,0,0,0,0,1,0,0,1,0,0,0
+20,1997,"Canada","North America",29,2,0,0,1,0,0,0,2,0,0,0
+20,1998,"Canada","North America",0,0,0,0,0,0,0,0,0,0,0,0
+20,1999,"Canada","North America",0,0,0,0,0,0,0,0,0,0,0,0
+20,2000,"Canada","North America",5,0,0,1,3,0,0,0,2,2,0,0
+20,2001,"Canada","North America",0,0,0,0,0,0,0,0,0,0,0,0
+20,2002,"Canada","North America",0,0,0,0,0,0,0,0,0,0,0,0
+20,2003,"Canada","North America",1,0,0,0,1,0,0,0,0,1,0,0
+20,2004,"Canada","North America",0,0,0,0,0,0,0,0,0,0,0,0
+20,2005,"Canada","North America",33,0,0,0,2,0,0,0,1,1,0,0
+20,2006,"Canada","North America",178,0,0,1,1,0,0,0,0,1,0,0
+20,2007,"Canada","North America",1,0,0,0,1,0,0,0,1,0,0,0
+20,2008,"Canada","North America",1,0,0,1,0,0,0,0,0,1,0,0
+20,2009,"Canada","North America",2,0,0,0,2,0,0,0,1,1,0,0
+20,2010,"Canada","North America",2,0,0,0,1,0,0,0,0,1,0,0
+20,2011,"Canada","North America",1,0,0,0,1,0,0,0,1,0,0,0
+20,2012,"Canada","North America",118,0,0,0,0,1,0,0,0,1,0,0
+20,2013,"Canada","North America",0,0,0,0,0,0,0,0,0,0,0,0
+20,2014,"Canada","North America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1990,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1991,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1992,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1993,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1994,"Cuba","Central America",1,0,0,0,1,0,0,0,0,1,0,0
+40,1995,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1996,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1997,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1998,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,1999,"Cuba","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+40,2000,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2001,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2002,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2003,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2004,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2005,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2006,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2007,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2008,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2009,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2010,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2011,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2012,"Cuba","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+40,2013,"Cuba","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+40,2014,"Cuba","Central America",2,1,0,0,1,0,0,0,1,0,1,0
+41,1990,"Haiti","Central America",5,0,0,1,1,0,1,0,1,0,1,1
+41,1991,"Haiti","Central America",3,0,0,0,3,0,0,0,1,0,2,1
+41,1992,"Haiti","Central America",2,0,0,1,2,0,0,0,1,0,1,1
+41,1993,"Haiti","Central America",5,0,0,0,5,0,0,0,2,3,0,0
+41,1994,"Haiti","Central America",10,1,0,2,9,0,0,0,3,2,5,4
+41,1995,"Haiti","Central America",2,0,0,1,1,0,0,0,1,1,0,0
+41,1996,"Haiti","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+41,1997,"Haiti","Central America",6,0,0,1,2,1,0,0,1,2,1,1
+41,1998,"Haiti","Central America",3,0,0,2,1,0,0,0,0,2,0,1
+41,1999,"Haiti","Central America",23,0,0,3,3,0,0,0,1,3,2,2
+41,2000,"Haiti","Central America",6,0,0,0,4,0,0,0,0,4,0,0
+41,2001,"Haiti","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+41,2002,"Haiti","Central America",6,0,0,0,1,0,4,0,2,2,0,0
+41,2003,"Haiti","Central America",28,0,0,0,0,0,2,0,0,0,2,2
+41,2004,"Haiti","Central America",8,0,0,0,4,0,4,0,5,1,2,2
+41,2005,"Haiti","Central America",2,0,0,0,2,0,0,0,1,0,1,1
+41,2006,"Haiti","Central America",5,0,0,1,3,0,0,0,3,1,0,0
+41,2007,"Haiti","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+41,2008,"Haiti","Central America",4,0,0,0,0,3,0,0,1,2,0,0
+41,2009,"Haiti","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+41,2010,"Haiti","Central America",7,0,0,0,4,0,0,0,1,3,0,0
+41,2011,"Haiti","Central America",2,0,0,0,1,0,1,0,1,0,1,1
+41,2012,"Haiti","Central America",4,0,1,0,2,0,0,0,3,0,0,0
+41,2013,"Haiti","Central America",7,0,0,0,6,3,0,0,4,2,1,1
+41,2014,"Haiti","Central America",9,0,0,0,6,0,5,0,4,5,0,0
+42,1990,"Dominican Republic","Central America",6,0,0,0,1,3,0,0,2,0,2,2
+42,1991,"Dominican Republic","Central America",4,0,0,0,0,3,0,0,2,0,1,1
+42,1992,"Dominican Republic","Central America",1,0,0,0,1,0,0,0,0,0,1,1
+42,1993,"Dominican Republic","Central America",2,1,0,0,0,0,0,0,0,1,0,0
+42,1994,"Dominican Republic","Central America",3,0,0,0,2,0,0,0,0,2,0,0
+42,1995,"Dominican Republic","Central America",10,1,0,1,2,2,0,0,0,3,3,3
+42,1996,"Dominican Republic","Central America",3,0,0,1,2,0,0,0,2,1,0,0
+42,1997,"Dominican Republic","Central America",12,1,0,0,2,4,0,0,0,2,3,3
+42,1998,"Dominican Republic","Central America",6,0,0,0,4,1,0,0,0,2,2,2
+42,1999,"Dominican Republic","Central America",6,0,0,0,2,1,0,0,1,0,1,1
+42,2000,"Dominican Republic","Central America",1,1,0,0,1,0,0,0,0,1,0,0
+42,2001,"Dominican Republic","Central America",3,0,0,1,2,0,0,0,3,0,0,0
+42,2002,"Dominican Republic","Central America",1,0,0,0,1,0,0,0,0,0,1,1
+42,2003,"Dominican Republic","Central America",2,0,0,0,2,1,0,0,0,2,0,0
+42,2004,"Dominican Republic","Central America",1,0,0,0,0,1,0,0,0,0,1,1
+42,2005,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+42,2006,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+42,2007,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+42,2008,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+42,2009,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+42,2010,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+42,2011,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+42,2012,"Dominican Republic","Central America",2,0,0,1,1,2,0,0,1,0,1,1
+42,2013,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+42,2014,"Dominican Republic","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,1990,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,1991,"Jamaica","Central America",2,1,0,0,0,1,0,0,2,0,0,0
+51,1992,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,1993,"Jamaica","Central America",90,0,0,1,0,0,0,0,1,0,0,0
+51,1994,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,1995,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,1996,"Jamaica","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+51,1997,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,1998,"Jamaica","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+51,1999,"Jamaica","Central America",5,0,0,1,0,1,0,0,0,1,1,1
+51,2000,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,2001,"Jamaica","Central America",1,0,0,1,0,0,0,0,1,0,0,0
+51,2002,"Jamaica","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+51,2003,"Jamaica","Central America",6,1,0,3,0,1,0,0,1,2,2,2
+51,2004,"Jamaica","Central America",2,0,0,2,0,0,0,0,0,1,1,1
+51,2005,"Jamaica","Central America",2,0,0,0,1,1,0,0,2,0,0,0
+51,2006,"Jamaica","Central America",1,0,0,1,0,0,0,0,0,1,0,0
+51,2007,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,2008,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,2009,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,2010,"Jamaica","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+51,2011,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,2012,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,2013,"Jamaica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+51,2014,"Jamaica","Central America",7,1,0,4,1,1,0,0,6,1,0,0
+70,1990,"Mexico","North America",65,0,0,0,5,0,0,0,2,0,3,3
+70,1991,"Mexico","North America",59,0,0,0,4,0,0,0,4,0,0,0
+70,1992,"Mexico","North America",80,0,0,0,4,1,0,0,2,3,0,0
+70,1993,"Mexico","North America",1,0,0,0,1,0,0,0,1,0,0,0
+70,1994,"Mexico","North America",16,0,0,0,12,0,1,0,10,2,0,0
+70,1995,"Mexico","North America",33,0,1,0,8,1,0,0,8,2,0,0
+70,1996,"Mexico","North America",24,0,0,0,6,0,0,0,6,0,0,0
+70,1997,"Mexico","North America",9,0,0,1,3,0,0,0,3,0,0,0
+70,1998,"Mexico","North America",9,0,0,2,7,0,1,0,6,1,1,1
+70,1999,"Mexico","North America",4,0,0,1,3,0,0,0,1,1,1,2
+70,2000,"Mexico","North America",8,4,0,2,3,0,0,0,4,4,0,0
+70,2001,"Mexico","North America",4,0,0,1,2,0,0,0,3,0,0,0
+70,2002,"Mexico","North America",5,0,1,0,0,0,0,0,0,1,0,0
+70,2003,"Mexico","North America",2,0,0,0,2,0,0,0,1,1,0,0
+70,2004,"Mexico","North America",3,0,0,0,3,0,0,0,3,0,0,0
+70,2005,"Mexico","North America",2,0,0,0,2,0,0,0,2,0,0,0
+70,2006,"Mexico","North America",250,1,0,1,5,0,1,0,5,1,1,1
+70,2007,"Mexico","North America",5,0,0,0,4,1,0,0,5,0,0,0
+70,2008,"Mexico","North America",3,0,0,0,3,0,0,0,3,0,0,0
+70,2009,"Mexico","North America",5,2,0,0,5,0,0,0,5,0,0,0
+70,2010,"Mexico","North America",4,0,0,0,1,0,0,0,1,0,0,0
+70,2011,"Mexico","North America",5,0,0,0,2,0,0,0,2,0,0,0
+70,2012,"Mexico","North America",2,0,0,1,1,0,0,0,1,1,0,0
+70,2013,"Mexico","North America",24,3,0,0,0,0,0,0,2,1,0,0
+70,2014,"Mexico","North America",17,1,0,10,10,0,0,0,6,8,1,1
+90,1990,"Guatemala","Central America",1,0,0,1,0,0,0,0,0,0,1,1
+90,1991,"Guatemala","Central America",1,1,0,0,0,1,0,0,1,0,0,0
+90,1992,"Guatemala","Central America",1,0,1,0,0,0,0,0,1,0,0,0
+90,1993,"Guatemala","Central America",3,2,0,0,1,2,0,0,2,1,0,0
+90,1994,"Guatemala","Central America",2,0,0,1,0,1,0,0,1,0,1,1
+90,1995,"Guatemala","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+90,1996,"Guatemala","Central America",3,0,0,0,2,1,0,0,1,2,0,0
+90,1997,"Guatemala","Central America",9,1,0,1,4,2,0,0,2,2,1,1
+90,1998,"Guatemala","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+90,1999,"Guatemala","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+90,2000,"Guatemala","Central America",1,0,0,0,0,1,0,0,0,1,0,0
+90,2001,"Guatemala","Central America",14,0,0,0,2,12,0,0,11,3,0,0
+90,2002,"Guatemala","Central America",10,4,0,0,2,1,1,0,4,4,0,0
+90,2003,"Guatemala","Central America",13,6,0,0,4,0,0,0,6,4,0,0
+90,2004,"Guatemala","Central America",4,0,1,0,2,2,0,0,2,2,0,0
+90,2005,"Guatemala","Central America",8,0,0,0,8,0,1,0,4,2,1,2
+90,2006,"Guatemala","Central America",7,0,1,0,0,0,0,0,1,0,0,0
+90,2007,"Guatemala","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+90,2008,"Guatemala","Central America",3,0,0,0,1,1,0,0,3,0,0,0
+90,2009,"Guatemala","Central America",3,0,0,0,1,0,2,0,3,0,0,0
+90,2010,"Guatemala","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+90,2011,"Guatemala","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+90,2012,"Guatemala","Central America",3,0,1,1,2,1,0,0,2,0,1,1
+90,2013,"Guatemala","Central America",5,0,0,0,5,0,0,0,4,1,0,0
+90,2014,"Guatemala","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+91,1990,"Honduras","Central America",2,1,0,0,2,1,0,0,2,0,0,0
+91,1991,"Honduras","Central America",2,1,0,0,1,0,0,0,1,0,1,0
+91,1992,"Honduras","Central America",3,0,0,0,3,1,0,0,3,0,0,0
+91,1993,"Honduras","Central America",2,0,0,0,2,0,0,0,2,0,0,0
+91,1994,"Honduras","Central America",6,0,3,0,6,2,1,0,5,1,0,0
+91,1995,"Honduras","Central America",3,0,0,0,3,0,0,0,2,0,1,1
+91,1996,"Honduras","Central America",7,2,0,0,1,1,0,0,3,0,0,0
+91,1997,"Honduras","Central America",19,3,1,0,4,2,0,0,6,0,2,2
+91,1998,"Honduras","Central America",7,1,0,0,2,1,0,0,3,1,0,0
+91,1999,"Honduras","Central America",11,2,1,0,3,1,0,0,5,0,0,0
+91,2000,"Honduras","Central America",2,0,1,0,1,1,0,0,2,0,0,0
+91,2001,"Honduras","Central America",1,1,0,0,0,0,0,0,1,0,0,0
+91,2002,"Honduras","Central America",4,1,1,0,2,0,0,0,3,1,0,0
+91,2003,"Honduras","Central America",1,0,0,0,1,0,0,0,0,1,0,0
+91,2004,"Honduras","Central America",6,0,0,0,6,0,0,0,6,0,0,0
+91,2005,"Honduras","Central America",2,0,1,0,1,0,0,0,2,0,0,0
+91,2006,"Honduras","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+91,2007,"Honduras","Central America",2,0,0,0,2,0,0,0,1,1,0,0
+91,2008,"Honduras","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+91,2009,"Honduras","Central America",10,0,0,0,8,0,0,0,5,4,0,0
+91,2010,"Honduras","Central America",1,1,0,0,0,0,0,0,1,0,0,0
+91,2011,"Honduras","Central America",20,1,0,0,6,0,0,1,4,1,1,0
+91,2012,"Honduras","Central America",2,0,0,0,2,0,0,0,1,1,0,0
+91,2013,"Honduras","Central America",5,0,0,0,5,0,0,0,5,0,0,0
+91,2014,"Honduras","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,1990,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,1991,"El Salvador","Central America",1,0,0,0,1,0,0,0,0,0,1,0
+92,1992,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,1993,"El Salvador","Central America",2,0,0,0,2,0,0,0,1,0,1,1
+92,1994,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,1995,"El Salvador","Central America",14,2,1,1,7,1,0,0,5,5,2,2
+92,1996,"El Salvador","Central America",33,2,0,0,2,0,0,0,3,1,0,0
+92,1997,"El Salvador","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+92,1998,"El Salvador","Central America",4,1,0,0,3,0,0,0,4,0,0,0
+92,1999,"El Salvador","Central America",2,1,0,0,1,0,0,0,2,0,0,0
+92,2000,"El Salvador","Central America",5,1,0,0,3,0,0,0,3,1,0,0
+92,2001,"El Salvador","Central America",2,0,0,0,2,0,0,0,1,0,1,1
+92,2002,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,2003,"El Salvador","Central America",3,2,0,0,1,0,0,0,2,1,0,0
+92,2004,"El Salvador","Central America",6,0,0,0,5,0,0,0,4,1,0,0
+92,2005,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,2006,"El Salvador","Central America",4,0,0,0,3,1,0,0,2,1,1,1
+92,2007,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,2008,"El Salvador","Central America",2,0,0,0,1,1,0,0,2,0,0,0
+92,2009,"El Salvador","Central America",1,1,0,0,0,0,0,0,1,0,0,0
+92,2010,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,2011,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,2012,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+92,2013,"El Salvador","Central America",2,0,0,0,2,0,0,0,0,2,0,0
+92,2014,"El Salvador","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+93,1990,"Nicaragua","Central America",10,2,0,0,2,0,0,0,1,0,1,1
+93,1991,"Nicaragua","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+93,1992,"Nicaragua","Central America",5,0,0,0,4,1,1,0,2,0,3,3
+93,1993,"Nicaragua","Central America",7,0,0,0,2,2,0,0,2,0,1,1
+93,1994,"Nicaragua","Central America",21,1,0,0,4,2,0,0,3,2,0,0
+93,1995,"Nicaragua","Central America",4,0,0,0,2,2,0,0,1,1,2,2
+93,1996,"Nicaragua","Central America",2,0,0,0,2,0,0,0,1,1,0,0
+93,1997,"Nicaragua","Central America",19,0,1,0,3,0,0,0,1,2,1,1
+93,1998,"Nicaragua","Central America",3,2,0,0,0,1,0,0,2,1,0,0
+93,1999,"Nicaragua","Central America",8,0,0,0,4,1,0,0,1,1,2,2
+93,2000,"Nicaragua","Central America",4,1,0,0,1,2,0,0,2,2,0,0
+93,2001,"Nicaragua","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+93,2002,"Nicaragua","Central America",2,0,0,0,0,0,2,0,2,0,0,0
+93,2003,"Nicaragua","Central America",3,1,1,0,0,1,0,0,1,0,1,1
+93,2004,"Nicaragua","Central America",2,0,0,0,2,0,0,0,0,2,0,0
+93,2005,"Nicaragua","Central America",6,0,0,0,4,3,1,0,4,2,0,0
+93,2006,"Nicaragua","Central America",3,1,0,0,1,1,0,0,2,0,1,0
+93,2007,"Nicaragua","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+93,2008,"Nicaragua","Central America",6,0,0,0,1,1,0,0,1,1,0,0
+93,2009,"Nicaragua","Central America",1,0,0,0,1,0,0,0,0,1,0,0
+93,2010,"Nicaragua","Central America",3,0,0,0,1,0,0,0,0,1,0,0
+93,2011,"Nicaragua","Central America",2,0,0,0,2,0,0,0,0,2,0,0
+93,2012,"Nicaragua","Central America",1,0,0,0,0,1,0,0,0,0,1,1
+93,2013,"Nicaragua","Central America",8,0,0,0,1,0,0,0,1,0,0,0
+93,2014,"Nicaragua","Central America",1,0,2,0,0,0,0,0,1,0,1,1
+94,1990,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,1991,"Costa Rica","Central America",3,1,0,0,0,1,0,1,2,0,0,1
+94,1992,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,1993,"Costa Rica","Central America",1,0,1,0,0,0,0,0,0,1,0,0
+94,1994,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,1995,"Costa Rica","Central America",49,4,0,0,4,3,0,0,6,1,0,0
+94,1996,"Costa Rica","Central America",9,0,0,0,2,1,0,0,0,1,0,1
+94,1997,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,1998,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,1999,"Costa Rica","Central America",13,0,1,0,1,0,0,0,1,0,0,0
+94,2000,"Costa Rica","Central America",11,0,0,0,5,7,0,0,6,2,0,0
+94,2001,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,2002,"Costa Rica","Central America",2,1,0,0,1,0,0,0,2,0,0,0
+94,2003,"Costa Rica","Central America",4,1,0,0,1,1,0,0,1,1,0,0
+94,2004,"Costa Rica","Central America",5,1,0,0,3,0,0,0,2,1,0,0
+94,2005,"Costa Rica","Central America",2,0,0,0,2,0,0,0,2,0,0,0
+94,2006,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,2007,"Costa Rica","Central America",2,0,0,0,2,0,0,0,2,0,0,0
+94,2008,"Costa Rica","Central America",1,0,0,0,0,1,0,0,1,0,0,0
+94,2009,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,2010,"Costa Rica","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+94,2011,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,2012,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,2013,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+94,2014,"Costa Rica","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+95,1990,"Panama","Central America",1,0,0,0,0,0,1,0,1,0,0,0
+95,1991,"Panama","Central America",1,0,0,0,0,1,0,0,0,0,1,1
+95,1992,"Panama","Central America",4,0,0,0,3,0,0,0,0,1,2,2
+95,1993,"Panama","Central America",5,0,1,0,4,0,0,0,0,0,4,3
+95,1994,"Panama","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+95,1995,"Panama","Central America",9,0,1,0,2,0,0,0,1,0,1,1
+95,1996,"Panama","Central America",5,0,0,0,2,0,0,0,1,1,0,0
+95,1997,"Panama","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+95,1998,"Panama","Central America",5,1,0,0,4,0,0,0,2,0,2,2
+95,1999,"Panama","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+95,2000,"Panama","Central America",2,0,0,0,1,1,0,0,2,0,0,0
+95,2001,"Panama","Central America",2,0,0,0,0,1,0,0,0,0,1,1
+95,2002,"Panama","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+95,2003,"Panama","Central America",4,1,0,0,3,2,0,0,2,1,1,1
+95,2004,"Panama","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+95,2005,"Panama","Central America",8,0,0,0,3,0,0,0,1,1,1,1
+95,2006,"Panama","Central America",2,0,0,0,2,0,0,0,2,0,0,0
+95,2007,"Panama","Central America",2,0,0,0,2,0,0,0,1,0,1,0
+95,2008,"Panama","Central America",3,0,0,1,0,0,0,0,0,0,1,1
+95,2009,"Panama","Central America",0,0,0,0,0,0,0,0,0,0,0,0
+95,2010,"Panama","Central America",5,1,0,0,0,1,0,0,0,0,2,2
+95,2011,"Panama","Central America",7,0,3,0,5,0,0,0,1,3,1,1
+95,2012,"Panama","Central America",8,0,4,0,4,0,0,0,1,1,2,2
+95,2013,"Panama","Central America",2,0,0,0,2,0,0,0,1,1,0,0
+95,2014,"Panama","Central America",1,0,0,0,1,0,0,0,1,0,0,0
+100,1990,"Colombia","South America",7,0,0,0,6,1,0,0,6,0,0,0
+100,1991,"Colombia","South America",6,1,0,1,4,0,0,0,5,0,0,0
+100,1992,"Colombia","South America",72,0,0,0,5,0,0,0,5,0,0,0
+100,1993,"Colombia","South America",22,0,0,0,6,0,0,0,6,0,0,0
+100,1994,"Colombia","South America",32,1,0,0,5,0,0,0,4,0,1,1
+100,1995,"Colombia","South America",2,1,0,0,1,0,0,0,2,0,0,0
+100,1996,"Colombia","South America",51,1,0,1,2,0,0,0,3,0,1,1
+100,1997,"Colombia","South America",38,4,0,0,7,1,0,0,9,2,1,1
+100,1998,"Colombia","South America",27,3,0,0,4,0,0,0,4,0,1,1
+100,1999,"Colombia","South America",18,0,0,0,7,0,0,0,6,0,1,1
+100,2000,"Colombia","South America",8,0,0,0,6,0,0,0,6,0,0,0
+100,2001,"Colombia","South America",15,0,0,0,6,0,0,0,6,0,0,0
+100,2002,"Colombia","South America",5,1,0,0,3,1,0,0,5,0,0,0
+100,2003,"Colombia","South America",3,0,0,0,2,0,0,0,2,0,0,0
+100,2004,"Colombia","South America",18,0,0,0,5,0,0,0,5,0,0,0
+100,2005,"Colombia","South America",14,0,0,0,6,0,0,0,4,1,1,1
+100,2006,"Colombia","South America",5,0,0,0,5,0,0,0,3,1,1,1
+100,2007,"Colombia","South America",17,0,0,0,11,0,0,0,10,0,1,1
+100,2008,"Colombia","South America",27,1,0,0,7,0,0,0,6,2,0,0
+100,2009,"Colombia","South America",1,0,0,0,1,0,0,0,1,0,0,0
+100,2010,"Colombia","South America",4,0,0,0,2,0,0,0,1,1,0,0
+100,2011,"Colombia","South America",121,2,0,0,2,0,0,0,3,0,0,1
+100,2012,"Colombia","South America",19,1,0,0,3,0,0,0,2,0,1,1
+100,2013,"Colombia","South America",76,0,0,0,4,1,0,0,3,0,1,1
+100,2014,"Colombia","South America",22,0,2,0,3,0,0,0,2,1,0,0
+101,1990,"Venezuela","South America",10,1,0,0,2,5,0,1,2,4,2,3
+101,1991,"Venezuela","South America",13,3,0,1,7,4,0,1,7,3,2,2
+101,1992,"Venezuela","South America",52,3,0,4,23,1,0,1,16,8,2,2
+101,1993,"Venezuela","South America",10,1,0,2,3,2,0,0,2,4,2,1
+101,1994,"Venezuela","South America",15,4,1,0,5,6,0,0,5,4,2,2
+101,1995,"Venezuela","South America",11,4,0,0,4,0,0,0,5,1,0,0
+101,1996,"Venezuela","South America",68,7,0,0,6,1,0,0,8,5,0,0
+101,1997,"Venezuela","South America",95,6,0,0,4,1,0,0,10,0,0,0
+101,1998,"Venezuela","South America",23,3,0,0,3,0,0,0,4,1,1,0
+101,1999,"Venezuela","South America",13,5,0,1,5,0,0,0,9,0,1,1
+101,2000,"Venezuela","South America",14,5,0,0,3,0,0,1,9,0,0,0
+101,2001,"Venezuela","South America",22,8,0,0,10,0,0,0,17,1,0,0
+101,2002,"Venezuela","South America",83,0,0,0,10,0,0,0,10,0,0,0
+101,2003,"Venezuela","South America",2,0,0,0,2,0,0,0,2,0,0,0
+101,2004,"Venezuela","South America",70,1,0,2,15,0,0,0,13,1,2,2
+101,2005,"Venezuela","South America",25,1,0,1,12,0,0,0,14,0,0,0
+101,2006,"Venezuela","South America",17,0,1,1,9,0,0,0,8,2,0,0
+101,2007,"Venezuela","South America",33,1,0,1,17,0,0,0,15,0,2,3
+101,2008,"Venezuela","South America",6,1,0,0,5,0,0,0,6,0,0,0
+101,2009,"Venezuela","South America",34,0,0,2,15,0,0,0,15,1,0,0
+101,2010,"Venezuela","South America",46,0,0,0,7,0,0,0,7,0,0,0
+101,2011,"Venezuela","South America",8,0,0,2,0,0,0,0,0,1,1,1
+101,2012,"Venezuela","South America",0,0,0,0,0,0,0,0,0,0,0,0
+101,2013,"Venezuela","South America",32,1,0,0,6,0,0,0,5,2,0,0
+101,2014,"Venezuela","South America",26,0,0,12,15,13,0,0,7,5,4,4
+110,1990,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,1991,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,1992,"Guyana","South America",3,0,0,0,3,0,0,0,1,1,1,1
+110,1993,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,1994,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,1995,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,1996,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,1997,"Guyana","South America",3,0,0,0,2,0,1,0,1,0,1,2
+110,1998,"Guyana","South America",16,0,0,1,6,0,1,0,4,3,1,1
+110,1999,"Guyana","South America",50,0,0,0,0,0,1,0,0,0,1,1
+110,2000,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,2001,"Guyana","South America",1,0,0,0,1,0,0,0,0,1,0,0
+110,2002,"Guyana","South America",1,0,0,0,0,0,0,1,0,0,1,1
+110,2003,"Guyana","South America",12,0,0,0,1,0,0,0,1,0,0,0
+110,2004,"Guyana","South America",2,0,0,0,0,1,0,0,1,0,0,0
+110,2005,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,2006,"Guyana","South America",1,1,0,0,0,0,0,0,1,0,0,0
+110,2007,"Guyana","South America",1,0,0,0,1,0,0,0,1,0,0,0
+110,2008,"Guyana","South America",8,0,0,1,1,1,0,0,2,1,0,0
+110,2009,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,2010,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,2011,"Guyana","South America",13,0,0,1,1,1,0,0,2,0,0,0
+110,2012,"Guyana","South America",27,0,0,1,0,1,0,0,0,0,1,1
+110,2013,"Guyana","South America",17,1,0,0,1,0,0,1,2,0,0,0
+110,2014,"Guyana","South America",3,0,0,0,3,0,0,0,1,2,0,0
+115,1990,"Suriname","South America",16,0,0,0,3,1,0,0,4,0,0,0
+115,1991,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,1992,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,1993,"Suriname","South America",1,0,0,0,1,0,0,0,1,0,0,0
+115,1994,"Suriname","South America",13,0,0,0,2,2,0,0,3,1,0,0
+115,1995,"Suriname","South America",22,1,0,0,0,0,0,0,1,0,0,0
+115,1996,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,1997,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,1998,"Suriname","South America",124,6,0,0,4,0,0,0,9,0,0,0
+115,1999,"Suriname","South America",47,2,0,0,11,2,0,0,8,5,0,0
+115,2000,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,2001,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,2002,"Suriname","South America",9,3,0,0,1,0,0,0,4,0,0,0
+115,2003,"Suriname","South America",1,1,0,0,0,0,0,0,1,0,0,0
+115,2004,"Suriname","South America",23,1,0,0,0,0,0,0,1,0,0,0
+115,2005,"Suriname","South America",2,0,0,0,0,1,0,0,1,0,0,0
+115,2006,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,2007,"Suriname","South America",6,2,0,0,3,0,0,0,5,0,0,0
+115,2008,"Suriname","South America",2,1,0,0,1,0,0,0,2,0,0,0
+115,2009,"Suriname","South America",1,1,0,0,0,0,0,0,1,0,0,0
+115,2010,"Suriname","South America",22,1,0,0,0,0,0,0,1,0,0,0
+115,2011,"Suriname","South America",2,1,0,0,0,0,0,0,1,0,0,0
+115,2012,"Suriname","South America",1,0,0,0,1,0,0,0,1,0,0,0
+115,2013,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
+115,2014,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
+130,1990,"Ecuador","South America",22,0,0,0,3,0,0,0,2,1,0,0
+130,1991,"Ecuador","South America",6,0,0,0,2,2,0,0,2,2,0,0
+130,1992,"Ecuador","South America",9,1,0,0,3,0,0,0,4,0,0,0
+130,1993,"Ecuador","South America",75,2,0,0,4,0,0,0,5,0,0,0
+130,1994,"Ecuador","South America",22,0,0,0,3,4,0,0,2,3,2,2
+130,1995,"Ecuador","South America",7,0,0,1,4,1,0,0,4,0,2,2
+130,1996,"Ecuador","South America",9,1,0,0,1,0,0,0,1,0,1,1
+130,1997,"Ecuador","South America",39,0,0,0,5,0,0,0,4,0,1,1
+130,1998,"Ecuador","South America",7,0,0,0,5,1,0,0,2,2,2,2
+130,1999,"Ecuador","South America",96,2,0,0,7,4,0,0,10,1,0,0
+130,2000,"Ecuador","South America",74,6,0,0,12,1,0,0,16,2,0,0
+130,2001,"Ecuador","South America",17,1,0,0,8,4,0,0,9,0,2,2
+130,2002,"Ecuador","South America",15,3,0,0,6,2,0,0,9,0,1,1
+130,2003,"Ecuador","South America",82,4,0,0,6,1,0,0,10,0,1,1
+130,2004,"Ecuador","South America",59,1,0,0,7,0,0,0,7,1,0,0
+130,2005,"Ecuador","South America",22,1,0,0,10,0,0,0,9,2,0,0
+130,2006,"Ecuador","South America",24,0,0,0,6,0,0,0,3,3,0,0
+130,2007,"Ecuador","South America",0,0,0,0,0,0,0,0,1,0,0,0
+130,2008,"Ecuador","South America",2,0,0,0,2,0,0,0,1,0,1,0
+130,2009,"Ecuador","South America",4,0,0,0,2,0,0,0,1,0,1,1
+130,2010,"Ecuador","South America",9,1,0,0,4,0,0,0,4,1,1,1
+130,2011,"Ecuador","South America",1,0,0,0,1,0,0,0,1,0,0,0
+130,2012,"Ecuador","South America",15,0,0,0,1,0,0,0,1,0,0,0
+130,2013,"Ecuador","South America",0,0,0,0,0,0,0,0,0,0,0,0
+130,2014,"Ecuador","South America",1,0,0,0,1,0,0,0,1,0,0,0
+135,1990,"Peru","South America",17,4,0,0,1,3,0,0,5,1,1,1
+135,1991,"Peru","South America",262,4,0,0,3,0,0,0,6,1,0,0
+135,1992,"Peru","South America",4,2,0,0,2,0,0,0,2,1,0,0
+135,1993,"Peru","South America",2,0,0,0,2,0,0,0,2,0,0,0
+135,1994,"Peru","South America",5,0,0,0,4,0,0,0,4,0,0,0
+135,1995,"Peru","South America",2,0,0,0,2,0,0,0,2,0,0,0
+135,1996,"Peru","South America",17,1,0,0,3,0,0,0,4,0,0,0
+135,1997,"Peru","South America",38,0,0,0,7,0,0,0,6,1,0,0
+135,1998,"Peru","South America",9,0,0,0,9,0,0,0,8,0,1,1
+135,1999,"Peru","South America",45,1,0,0,7,0,0,0,6,2,0,0
+135,2000,"Peru","South America",8,0,0,0,8,0,0,0,6,1,1,1
+135,2001,"Peru","South America",4,0,0,0,4,0,0,0,4,0,0,0
+135,2002,"Peru","South America",40,1,0,0,10,0,0,0,8,1,1,1
+135,2003,"Peru","South America",45,2,0,1,6,2,0,0,8,0,1,1
+135,2004,"Peru","South America",25,2,0,0,9,0,0,0,7,2,1,1
+135,2005,"Peru","South America",12,1,0,0,2,1,0,0,3,0,0,0
+135,2006,"Peru","South America",10,1,0,0,2,0,0,0,2,1,0,0
+135,2007,"Peru","South America",12,4,0,0,6,1,0,0,8,0,0,0
+135,2008,"Peru","South America",24,0,0,0,13,1,0,0,10,2,1,1
+135,2009,"Peru","South America",18,0,0,0,7,0,0,1,8,0,0,0
+135,2010,"Peru","South America",15,2,0,0,6,0,0,0,5,0,1,1
+135,2011,"Peru","South America",36,1,2,1,5,0,0,0,1,2,2,2
+135,2012,"Peru","South America",24,0,4,0,7,0,0,0,3,1,3,3
+135,2013,"Peru","South America",2,0,0,0,1,0,0,0,1,0,0,0
+135,2014,"Peru","South America",22,0,0,0,4,0,0,0,2,2,0,0
+140,1990,"Brazil","South America",14,1,0,0,4,0,0,0,5,0,0,0
+140,1991,"Brazil","South America",23,4,0,0,3,0,0,0,6,1,0,0
+140,1992,"Brazil","South America",4,0,0,0,0,0,4,0,4,0,0,0
+140,1993,"Brazil","South America",10,0,0,0,3,0,0,0,3,0,0,0
+140,1994,"Brazil","South America",2,0,0,0,2,0,0,0,2,0,0,0
+140,1995,"Brazil","South America",38,0,0,0,6,0,0,0,5,0,1,1
+140,1996,"Brazil","South America",4,1,0,0,3,0,0,0,3,0,1,1
+140,1997,"Brazil","South America",79,2,0,0,6,0,0,0,8,0,0,0
+140,1998,"Brazil","South America",14,0,0,0,11,0,0,0,9,2,0,0
+140,1999,"Brazil","South America",17,1,0,1,8,0,0,0,8,0,2,2
+140,2000,"Brazil","South America",23,0,0,1,8,0,0,0,7,1,1,1
+140,2001,"Brazil","South America",15,3,0,0,5,0,0,0,7,0,1,1
+140,2002,"Brazil","South America",4,0,0,0,4,0,0,0,4,0,0,0
+140,2003,"Brazil","South America",12,0,0,0,8,0,0,0,7,1,0,0
+140,2004,"Brazil","South America",7,0,0,0,3,0,0,0,1,0,2,2
+140,2005,"Brazil","South America",7,0,0,0,4,0,0,0,4,0,0,0
+140,2006,"Brazil","South America",4,0,0,0,4,0,0,0,2,2,0,0
+140,2007,"Brazil","South America",11,3,0,0,6,0,0,0,9,0,0,0
+140,2008,"Brazil","South America",19,1,0,0,4,0,0,0,4,0,1,1
+140,2009,"Brazil","South America",11,0,0,0,3,0,0,0,3,0,0,0
+140,2010,"Brazil","South America",6,0,0,0,5,0,0,0,4,1,0,0
+140,2011,"Brazil","South America",3,0,1,0,1,0,1,0,3,0,0,0
+140,2012,"Brazil","South America",12,1,1,0,2,0,0,0,3,0,0,0
+140,2013,"Brazil","South America",60,2,1,3,13,9,8,1,10,11,1,2
+140,2014,"Brazil","South America",11,1,0,1,7,3,0,0,4,5,0,0
+145,1990,"Bolivia","South America",37,0,1,0,2,0,0,0,3,0,0,0
+145,1991,"Bolivia","South America",7,0,0,0,5,0,0,0,5,0,0,0
+145,1992,"Bolivia","South America",43,3,0,1,6,0,0,1,10,1,0,0
+145,1993,"Bolivia","South America",2,0,0,0,2,0,0,0,2,0,0,0
+145,1994,"Bolivia","South America",88,1,0,0,5,0,0,0,2,3,1,1
+145,1995,"Bolivia","South America",96,5,2,0,7,0,0,0,6,7,1,1
+145,1996,"Bolivia","South America",86,2,1,2,7,1,0,0,7,4,2,2
+145,1997,"Bolivia","South America",36,0,0,0,3,1,0,0,3,1,0,0
+145,1998,"Bolivia","South America",48,2,0,0,4,1,0,0,4,0,2,3
+145,1999,"Bolivia","South America",3,0,0,0,3,0,0,0,2,1,0,0
+145,2000,"Bolivia","South America",29,1,0,0,2,2,0,0,2,1,2,2
+145,2001,"Bolivia","South America",1,0,0,0,1,0,0,0,1,0,0,0
+145,2002,"Bolivia","South America",3,0,0,0,2,0,0,0,1,0,1,1
+145,2003,"Bolivia","South America",35,0,0,0,1,1,0,0,0,0,2,2
+145,2004,"Bolivia","South America",7,0,0,0,2,0,2,0,2,1,1,1
+145,2005,"Bolivia","South America",34,0,0,0,2,1,0,0,1,1,1,1
+145,2006,"Bolivia","South America",1,0,0,0,1,0,0,0,1,0,0,0
+145,2007,"Bolivia","South America",24,0,0,0,5,0,1,0,2,4,0,0
+145,2008,"Bolivia","South America",3,0,0,0,3,0,0,0,0,3,0,0
+145,2009,"Bolivia","South America",26,0,1,0,1,0,0,0,2,0,0,0
+145,2010,"Bolivia","South America",21,0,0,0,1,1,0,0,2,0,0,0
+145,2011,"Bolivia","South America",171,0,0,1,3,1,1,0,2,2,1,0
+145,2012,"Bolivia","South America",11,3,1,0,2,0,0,0,2,1,2,2
+145,2013,"Bolivia","South America",1,0,0,0,1,0,0,0,1,0,0,0
+145,2014,"Bolivia","South America",17,3,0,0,2,0,0,2,1,2,0,0
+150,1990,"Paraguay","South America",0,0,0,0,0,0,0,0,1,0,0,0
+150,1991,"Paraguay","South America",1,1,0,0,0,0,0,0,1,0,0,0
+150,1992,"Paraguay","South America",0,0,0,0,0,0,0,0,1,0,0,0
+150,1993,"Paraguay","South America",1,0,0,0,1,0,0,0,1,0,0,0
+150,1994,"Paraguay","South America",15,0,0,0,3,0,0,0,2,0,1,1
+150,1995,"Paraguay","South America",2,0,0,0,2,0,0,0,0,1,1,1
+150,1996,"Paraguay","South America",7,3,0,0,5,0,0,0,6,0,0,0
+150,1997,"Paraguay","South America",2,0,0,0,1,0,0,0,1,0,0,0
+150,1998,"Paraguay","South America",0,0,0,0,0,0,0,0,1,0,0,0
+150,1999,"Paraguay","South America",2,1,0,0,2,0,0,0,1,1,0,0
+150,2000,"Paraguay","South America",4,0,0,0,2,0,0,0,2,0,0,0
+150,2001,"Paraguay","South America",24,0,0,0,8,0,0,0,7,1,0,0
+150,2002,"Paraguay","South America",7,0,0,0,4,0,0,0,4,0,0,0
+150,2003,"Paraguay","South America",2,0,0,0,2,0,0,0,2,0,0,0
+150,2004,"Paraguay","South America",5,0,0,0,5,0,0,0,5,0,0,0
+150,2005,"Paraguay","South America",2,0,0,0,2,0,0,0,2,0,0,0
+150,2006,"Paraguay","South America",1,0,0,0,1,0,0,0,0,1,0,0
+150,2007,"Paraguay","South America",2,0,0,0,1,1,0,0,1,1,0,0
+150,2008,"Paraguay","South America",6,0,0,0,5,0,0,0,5,0,0,0
+150,2009,"Paraguay","South America",27,0,0,0,4,0,0,0,4,0,0,0
+150,2010,"Paraguay","South America",2,0,0,0,2,0,0,0,2,0,0,0
+150,2011,"Paraguay","South America",3,0,0,0,1,0,0,0,1,0,0,0
+150,2012,"Paraguay","South America",4,0,0,0,2,0,0,0,2,0,0,0
+150,2013,"Paraguay","South America",3,0,1,0,3,0,2,0,3,0,0,0
+150,2014,"Paraguay","South America",1,0,0,1,1,0,0,0,1,0,0,0
+155,1990,"Chile","South America",3,0,0,0,2,0,0,0,1,1,0,0
+155,1991,"Chile","South America",5,0,0,0,4,1,0,0,5,0,0,0
+155,1992,"Chile","South America",5,0,0,0,5,0,0,0,5,0,0,0
+155,1993,"Chile","South America",2,0,0,0,2,0,0,0,1,0,1,1
+155,1994,"Chile","South America",18,4,0,0,5,0,0,0,9,0,0,0
+155,1995,"Chile","South America",5,1,0,0,3,0,0,0,3,0,1,1
+155,1996,"Chile","South America",68,2,0,0,6,0,0,0,6,2,0,0
+155,1997,"Chile","South America",12,0,0,0,7,0,0,0,6,1,0,0
+155,1998,"Chile","South America",3,0,0,0,2,0,0,0,0,1,1,1
+155,1999,"Chile","South America",5,0,0,0,4,0,0,0,3,1,0,0
+155,2000,"Chile","South America",5,1,0,0,5,0,0,0,5,0,0,0
+155,2001,"Chile","South America",9,0,0,0,9,0,0,0,7,2,0,0
+155,2002,"Chile","South America",13,2,0,0,9,2,0,0,9,2,0,0
+155,2003,"Chile","South America",5,0,0,0,5,0,0,0,5,0,0,0
+155,2004,"Chile","South America",4,0,0,0,3,0,0,0,2,1,0,0
+155,2005,"Chile","South America",2,0,0,0,2,0,0,0,1,1,0,0
+155,2006,"Chile","South America",29,2,0,0,11,0,0,0,10,2,0,0
+155,2007,"Chile","South America",7,1,0,0,5,0,0,0,4,2,0,0
+155,2008,"Chile","South America",12,0,0,0,10,0,0,0,10,0,0,0
+155,2009,"Chile","South America",61,2,0,0,2,0,0,0,3,0,1,1
+155,2010,"Chile","South America",9,0,0,0,7,0,0,0,5,2,0,0
+155,2011,"Chile","South America",246,2,2,0,7,3,0,0,4,5,0,0
+155,2012,"Chile","South America",7,1,0,0,5,1,0,0,4,1,0,0
+155,2013,"Chile","South America",2,1,0,0,1,1,0,0,2,0,0,0
+155,2014,"Chile","South America",1,0,1,0,0,0,0,0,0,1,0,0
+160,1990,"Argentina","South America",11,1,0,2,5,0,0,0,7,1,0,0
+160,1991,"Argentina","South America",2,0,0,0,2,0,0,0,2,0,0,0
+160,1992,"Argentina","South America",2,0,0,0,2,0,0,0,1,1,0,0
+160,1993,"Argentina","South America",4,2,0,0,1,0,0,0,2,1,0,0
+160,1994,"Argentina","South America",7,2,0,0,5,0,0,0,3,4,0,0
+160,1995,"Argentina","South America",4,0,0,0,3,0,0,0,0,3,0,0
+160,1996,"Argentina","South America",15,0,0,1,5,0,0,0,4,1,0,1
+160,1997,"Argentina","South America",19,3,0,1,1,0,0,0,3,1,0,1
+160,1998,"Argentina","South America",0,0,0,0,0,0,0,0,1,0,0,0
+160,1999,"Argentina","South America",41,1,0,0,2,1,0,0,2,1,1,1
+160,2000,"Argentina","South America",7,0,0,0,4,0,0,0,2,1,1,0
+160,2001,"Argentina","South America",37,1,0,0,10,0,0,0,8,2,1,1
+160,2002,"Argentina","South America",92,2,0,0,6,0,0,0,5,3,0,0
+160,2003,"Argentina","South America",3,2,0,1,0,0,0,0,3,0,0,0
+160,2004,"Argentina","South America",12,0,0,2,4,1,1,0,8,0,0,0
+160,2005,"Argentina","South America",1,0,0,0,0,0,1,0,1,0,0,0
+160,2006,"Argentina","South America",1,0,0,0,1,0,0,0,0,1,0,0
+160,2007,"Argentina","South America",67,0,0,0,3,0,0,0,2,1,0,0
+160,2008,"Argentina","South America",48,0,0,0,3,3,0,0,6,0,0,0
+160,2009,"Argentina","South America",1,0,0,0,1,0,0,0,1,0,0,0
+160,2010,"Argentina","South America",10,0,0,0,2,0,0,1,3,0,0,0
+160,2011,"Argentina","South America",0,0,0,0,0,0,0,0,0,0,0,0
+160,2012,"Argentina","South America",2,0,0,0,1,2,0,0,2,0,0,0
+160,2013,"Argentina","South America",2,1,0,0,1,1,0,0,2,0,0,0
+160,2014,"Argentina","South America",0,0,0,0,0,0,0,0,0,0,0,0
+165,1990,"Uruguay","South America",1,1,0,0,0,0,0,0,1,0,0,0
+165,1991,"Uruguay","South America",22,2,0,0,2,0,0,0,4,0,0,0
+165,1992,"Uruguay","South America",11,4,0,0,2,0,0,0,6,0,0,0
+165,1993,"Uruguay","South America",74,5,0,0,4,0,0,0,7,1,0,0
+165,1994,"Uruguay","South America",6,0,0,1,5,0,0,0,5,0,0,0
+165,1995,"Uruguay","South America",3,0,0,0,3,0,0,0,3,0,0,0
+165,1996,"Uruguay","South America",2,0,0,0,2,0,0,0,2,0,0,0
+165,1997,"Uruguay","South America",1,0,0,0,1,0,0,0,1,0,0,0
+165,1998,"Uruguay","South America",1,0,0,0,1,0,0,0,1,0,0,0
+165,1999,"Uruguay","South America",5,1,0,0,2,0,0,0,2,1,0,0
+165,2000,"Uruguay","South America",1,0,0,0,1,0,0,0,1,0,0,0
+165,2001,"Uruguay","South America",1,0,0,0,1,0,0,0,1,0,0,0
+165,2002,"Uruguay","South America",7,1,0,0,7,0,0,0,7,0,0,0
+165,2003,"Uruguay","South America",31,2,0,0,5,0,0,0,6,0,0,0
+165,2004,"Uruguay","South America",4,0,0,0,3,0,0,0,3,0,0,0
+165,2005,"Uruguay","South America",2,1,0,0,1,0,0,0,2,0,0,0
+165,2006,"Uruguay","South America",2,1,0,0,0,0,0,1,2,0,0,0
+165,2007,"Uruguay","South America",1,0,0,0,1,0,0,0,1,0,0,0
+165,2008,"Uruguay","South America",2,1,0,0,1,0,0,0,2,0,0,0
+165,2009,"Uruguay","South America",3,2,0,0,1,0,0,0,3,0,0,0
+165,2010,"Uruguay","South America",14,3,0,0,3,0,0,0,5,0,0,0
+165,2011,"Uruguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
+165,2012,"Uruguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
+165,2013,"Uruguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
+165,2014,"Uruguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
+200,1999,"United Kingdom","Europe",16,2,0,0,10,4,0,0,10,5,0,0
+200,2000,"United Kingdom","Europe",38,1,0,0,13,5,0,0,14,4,0,0
+200,2001,"United Kingdom","Europe",18,0,0,2,14,3,0,3,9,9,0,0
+200,2002,"United Kingdom","Europe",33,5,0,1,27,0,0,0,27,6,0,0
+200,2003,"United Kingdom","Europe",22,0,0,0,20,0,0,0,19,1,0,0
+200,2004,"United Kingdom","Europe",17,2,0,1,15,0,0,0,15,2,0,0
+200,2005,"United Kingdom","Europe",17,2,0,0,9,3,0,0,11,3,0,0
+200,2006,"United Kingdom","Europe",14,0,0,0,14,0,0,0,14,0,0,0
+200,2007,"United Kingdom","Europe",8,0,0,0,8,0,0,0,8,0,0,0
+200,2008,"United Kingdom","Europe",13,2,0,0,4,4,0,0,10,0,0,0
+200,2009,"United Kingdom","Europe",27,5,0,0,17,1,0,0,17,3,0,1
+200,2010,"United Kingdom","Europe",109,1,0,0,13,11,0,0,13,3,0,0
+200,2011,"United Kingdom","Europe",183,6,0,2,15,5,0,1,15,2,0,3
+200,2012,"United Kingdom","Europe",29,1,0,1,13,1,0,0,11,3,0,1
+200,2013,"United Kingdom","Europe",47,1,2,0,17,1,0,0,12,6,0,2
+200,2014,"United Kingdom","Europe",13,3,1,0,11,1,2,0,10,3,0,0
+205,1999,"Ireland","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+205,2000,"Ireland","Europe",1,0,0,0,0,1,0,0,1,0,0,0
+205,2001,"Ireland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+205,2002,"Ireland","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+205,2003,"Ireland","Europe",45,3,0,0,31,6,0,1,40,0,0,0
+205,2004,"Ireland","Europe",27,4,0,0,25,0,0,0,26,1,0,0
+205,2005,"Ireland","Europe",29,2,0,0,24,3,1,1,29,0,0,0
+205,2006,"Ireland","Europe",40,2,0,0,33,4,0,1,37,1,0,0
+205,2007,"Ireland","Europe",41,9,0,0,32,0,0,0,38,3,0,0
+205,2008,"Ireland","Europe",1,0,0,0,0,1,0,0,1,0,0,0
+205,2009,"Ireland","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+205,2010,"Ireland","Europe",4,1,0,1,3,0,0,0,3,1,0,0
+205,2011,"Ireland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+205,2012,"Ireland","Europe",2,0,0,0,1,1,0,1,2,0,0,0
+205,2013,"Ireland","Europe",27,1,0,0,27,2,0,6,27,0,0,0
+205,2014,"Ireland","Europe",70,7,0,1,37,15,0,4,53,3,0,0
+210,1999,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2000,"Netherlands","Europe",3,1,0,0,0,1,0,0,2,0,0,0
+210,2001,"Netherlands","Europe",2,0,0,0,2,0,0,0,1,1,0,0
+210,2002,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2003,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2004,"Netherlands","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+210,2005,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2006,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2007,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2008,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2009,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2010,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2011,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2012,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2013,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,2014,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,1999,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,2000,"Belgium","Europe",4,0,0,0,0,1,0,0,1,0,0,0
+211,2001,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,2002,"Belgium","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+211,2003,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,2004,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,2005,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,2006,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,2007,"Belgium","Europe",1,0,0,0,1,1,0,0,1,0,0,0
+211,2008,"Belgium","Europe",3,0,0,0,0,3,0,0,3,0,0,0
+211,2009,"Belgium","Europe",1,0,0,0,0,1,0,0,1,0,0,0
+211,2010,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,2011,"Belgium","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+211,2012,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,2013,"Belgium","Europe",1,1,0,0,0,0,0,0,0,1,0,0
+211,2014,"Belgium","Europe",2,1,0,0,2,0,0,0,0,2,0,0
+212,1999,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2000,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2001,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2002,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2003,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2004,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2005,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2006,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2007,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2008,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2009,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2010,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2011,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2012,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2013,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,2014,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+220,1999,"France","Europe",12,2,0,0,4,2,1,2,8,3,0,0
+220,2000,"France","Europe",30,2,0,1,7,2,1,0,8,4,0,0
+220,2001,"France","Europe",2,0,0,0,2,0,0,0,0,2,0,0
+220,2002,"France","Europe",13,5,0,1,3,2,0,0,8,1,0,0
+220,2003,"France","Europe",12,7,0,0,1,3,0,1,12,0,0,0
+220,2004,"France","Europe",5,2,0,0,2,0,0,1,4,1,0,0
+220,2005,"France","Europe",37,4,0,1,1,2,0,0,6,2,0,0
+220,2006,"France","Europe",16,11,0,0,12,0,0,0,4,8,0,0
+220,2007,"France","Europe",9,2,0,2,2,0,0,0,3,3,0,0
+220,2008,"France","Europe",7,2,0,1,1,3,0,0,4,2,0,0
+220,2009,"France","Europe",12,5,0,0,4,5,1,0,5,4,0,0
+220,2010,"France","Europe",12,10,0,0,0,0,0,0,7,3,0,0
+220,2011,"France","Europe",2,0,0,0,1,0,0,1,2,0,0,0
+220,2012,"France","Europe",7,1,0,1,3,1,0,3,6,1,0,0
+220,2013,"France","Europe",18,2,0,1,5,2,1,8,10,6,0,0
+220,2014,"France","Europe",47,2,0,0,14,4,0,1,10,7,0,0
+225,1999,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2000,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2001,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2002,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2003,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2004,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2005,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2006,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2007,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2008,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2009,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2010,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2011,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2012,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2013,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,2014,"Switzerland","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+230,1999,"Spain","Europe",3,1,0,0,2,0,0,0,3,0,0,0
+230,2000,"Spain","Europe",6,1,0,0,0,2,0,0,3,0,0,0
+230,2001,"Spain","Europe",5,0,0,0,5,0,0,0,5,0,0,0
+230,2002,"Spain","Europe",5,3,0,0,2,0,0,0,4,1,0,0
+230,2003,"Spain","Europe",6,0,0,0,3,0,0,0,2,1,0,0
+230,2004,"Spain","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+230,2005,"Spain","Europe",7,0,0,0,2,1,0,1,4,0,0,0
+230,2006,"Spain","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+230,2007,"Spain","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+230,2008,"Spain","Europe",3,0,0,0,0,2,0,0,2,0,0,0
+230,2009,"Spain","Europe",3,2,0,0,2,0,0,0,3,0,0,0
+230,2010,"Spain","Europe",3,2,1,0,3,0,0,0,3,0,0,0
+230,2011,"Spain","Europe",29,0,0,0,3,0,0,0,2,1,0,0
+230,2012,"Spain","Europe",29,7,0,1,16,2,0,1,16,4,0,0
+230,2013,"Spain","Europe",5,0,0,0,5,0,0,0,4,1,0,0
+230,2014,"Spain","Europe",12,0,0,0,8,1,1,2,8,1,0,0
+235,1999,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,2000,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,2001,"Portugal","Europe",1,0,0,1,0,0,0,0,0,0,1,1
+235,2002,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,2003,"Portugal","Europe",1,0,0,0,0,0,0,1,1,0,0,0
+235,2004,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,2005,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,2006,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,2007,"Portugal","Europe",3,0,0,0,3,0,0,1,3,0,0,0
+235,2008,"Portugal","Europe",4,2,0,0,0,2,0,0,2,0,0,0
+235,2009,"Portugal","Europe",1,1,0,0,1,0,0,0,1,0,0,0
+235,2010,"Portugal","Europe",2,1,0,0,1,1,0,0,1,1,0,0
+235,2011,"Portugal","Europe",1,0,0,0,1,1,0,0,1,0,0,0
+235,2012,"Portugal","Europe",6,6,0,0,6,5,0,0,5,1,0,0
+235,2013,"Portugal","Europe",2,0,0,0,1,2,1,0,2,0,0,0
+235,2014,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+255,1999,"Germany","Europe",4,3,0,0,2,2,0,0,4,0,0,0
+255,2000,"Germany","Europe",11,0,0,0,5,6,0,0,10,0,0,1
+255,2001,"Germany","Europe",10,4,5,0,9,0,0,0,4,5,0,1
+255,2002,"Germany","Europe",4,2,0,0,3,0,0,0,1,2,0,0
+255,2003,"Germany","Europe",5,3,0,0,4,0,0,0,4,1,0,0
+255,2004,"Germany","Europe",12,9,1,0,12,1,0,0,11,1,0,0
+255,2005,"Germany","Europe",5,0,0,0,4,0,0,0,3,1,0,0
+255,2006,"Germany","Europe",2,1,0,0,1,1,0,0,2,0,0,0
+255,2007,"Germany","Europe",9,3,0,2,4,0,0,0,2,4,0,0
+255,2008,"Germany","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+255,2009,"Germany","Europe",6,4,0,0,3,1,0,1,4,1,0,0
+255,2010,"Germany","Europe",14,1,6,1,11,0,1,0,9,2,0,1
+255,2011,"Germany","Europe",304,0,0,0,7,0,1,0,8,0,0,0
+255,2012,"Germany","Europe",8,1,0,2,3,0,0,0,3,2,0,0
+255,2013,"Germany","Europe",7,2,1,0,4,1,0,0,5,0,0,0
+255,2014,"Germany","Europe",15,0,1,1,13,0,1,0,14,1,0,0
+290,1999,"Poland","Europe",11,1,1,0,1,1,1,0,2,0,0,0
+290,2000,"Poland","Europe",2,0,1,0,1,1,0,0,2,0,0,0
+290,2001,"Poland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+290,2002,"Poland","Europe",4,2,0,0,1,3,1,0,4,0,0,0
+290,2003,"Poland","Europe",3,2,1,0,1,1,0,0,2,1,0,0
+290,2004,"Poland","Europe",1,0,0,0,0,0,0,1,1,0,0,0
+290,2005,"Poland","Europe",1,1,0,0,0,0,0,0,0,1,0,0
+290,2006,"Poland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+290,2007,"Poland","Europe",2,1,0,0,1,0,0,0,2,0,0,0
+290,2008,"Poland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+290,2009,"Poland","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+290,2010,"Poland","Europe",2,1,0,0,2,1,0,0,2,0,0,0
+290,2011,"Poland","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+290,2012,"Poland","Europe",3,2,0,0,0,0,0,1,3,0,0,0
+290,2013,"Poland","Europe",4,1,0,0,2,0,1,0,3,0,0,0
+290,2014,"Poland","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+305,1999,"Austria","Europe",1,0,0,0,1,0,0,1,1,0,0,0
+305,2000,"Austria","Europe",6,0,0,0,6,0,0,0,4,1,0,1
+305,2001,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,2002,"Austria","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+305,2003,"Austria","Europe",1,0,0,0,0,0,0,1,1,0,0,0
+305,2004,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,2005,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,2006,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,2007,"Austria","Europe",1,0,0,0,1,0,0,1,1,0,0,0
+305,2008,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,2009,"Austria","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+305,2010,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,2011,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,2012,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,2013,"Austria","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+305,2014,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+310,1999,"Hungary","Europe",2,1,0,0,1,0,0,0,1,1,0,0
+310,2000,"Hungary","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+310,2001,"Hungary","Europe",1,1,0,0,1,0,0,0,1,0,0,0
+310,2002,"Hungary","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+310,2003,"Hungary","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+310,2004,"Hungary","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+310,2005,"Hungary","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+310,2006,"Hungary","Europe",10,0,0,0,0,0,7,0,3,4,0,0
+310,2007,"Hungary","Europe",5,0,0,0,4,0,3,0,2,3,0,0
+310,2008,"Hungary","Europe",1,0,0,0,1,0,1,0,1,0,0,0
+310,2009,"Hungary","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+310,2010,"Hungary","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+310,2011,"Hungary","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+310,2012,"Hungary","Europe",2,0,0,0,2,0,0,1,2,0,0,0
+310,2013,"Hungary","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+310,2014,"Hungary","Europe",3,0,0,0,0,3,0,0,3,0,0,0
+316,1999,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2000,"Czech Republic","Europe",26,0,0,0,1,0,1,0,1,0,0,0
+316,2001,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2002,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2003,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2004,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2005,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2006,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2007,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2008,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2009,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2010,"Czech Republic","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+316,2011,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2012,"Czech Republic","Europe",2,0,0,0,1,1,0,0,1,0,0,0
+316,2013,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,2014,"Czech Republic","Europe",1,0,0,0,0,0,1,0,0,1,0,0
+317,1999,"Slovak Republic","Europe",1,1,0,0,1,1,0,1,1,0,0,0
+317,2000,"Slovak Republic","Europe",1,0,0,0,1,0,1,0,1,0,0,0
+317,2001,"Slovak Republic","Europe",4,1,0,0,3,0,0,0,3,0,0,0
+317,2002,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,2003,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,2004,"Slovak Republic","Europe",5,0,0,0,3,0,0,0,0,3,0,0
+317,2005,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,2006,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,2007,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,2008,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,2009,"Slovak Republic","Europe",1,0,0,0,1,0,0,1,1,0,0,0
+317,2010,"Slovak Republic","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+317,2011,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,2012,"Slovak Republic","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+317,2013,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,2014,"Slovak Republic","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+325,1999,"Italy","Europe",4,0,1,0,2,0,0,0,3,0,0,0
+325,2000,"Italy","Europe",4,1,0,0,2,0,0,1,3,1,0,0
+325,2001,"Italy","Europe",6,1,0,1,3,0,1,0,5,1,0,0
+325,2002,"Italy","Europe",78,11,1,0,8,0,3,0,16,1,0,0
+325,2003,"Italy","Europe",3,1,0,0,3,0,0,0,2,1,0,0
+325,2004,"Italy","Europe",13,1,0,2,8,1,0,0,10,1,0,0
+325,2005,"Italy","Europe",8,2,1,0,4,0,0,1,6,1,0,0
+325,2006,"Italy","Europe",7,3,1,0,6,0,0,0,6,1,0,0
+325,2007,"Italy","Europe",8,2,1,2,4,0,0,0,5,2,0,0
+325,2008,"Italy","Europe",9,0,0,1,5,1,0,1,7,0,0,0
+325,2009,"Italy","Europe",6,1,0,0,5,0,1,0,6,0,0,0
+325,2010,"Italy","Europe",58,0,1,0,6,0,2,0,3,4,0,0
+325,2011,"Italy","Europe",9,4,1,0,5,5,3,2,5,4,0,0
+325,2012,"Italy","Europe",5,3,0,0,4,2,0,0,4,1,0,0
+325,2013,"Italy","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+325,2014,"Italy","Europe",6,4,0,0,4,0,0,0,5,1,0,0
+339,1999,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2000,"Albania","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+339,2001,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2002,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2003,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2004,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2005,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2006,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2007,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2008,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2009,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2010,"Albania","Europe",50,0,0,0,6,0,0,0,6,0,0,0
+339,2011,"Albania","Europe",3,0,0,0,3,0,0,0,2,1,0,0
+339,2012,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,2013,"Albania","Europe",4,0,0,0,3,0,0,0,3,0,0,0
+339,2014,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+341,2008,"Kosovo","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+341,2009,"Kosovo","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+341,2010,"Kosovo","Europe",2,0,0,0,2,0,0,0,1,1,0,0
+341,2011,"Kosovo","Europe",39,0,0,0,3,0,0,0,2,1,0,0
+341,2012,"Kosovo","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+341,2013,"Kosovo","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+341,2014,"Kosovo","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+342,2006,"Serbia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+342,2007,"Serbia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+342,2008,"Serbia","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+342,2009,"Serbia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+342,2010,"Serbia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+342,2011,"Serbia","Europe",1,0,0,0,1,0,1,0,0,0,0,1
+342,2012,"Serbia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+342,2013,"Serbia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+342,2014,"Serbia","Europe",1,0,0,0,0,0,0,1,1,0,0,0
+343,1999,"Macedonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+343,2000,"Macedonia","Europe",3,0,0,0,3,0,1,0,3,0,0,0
+343,2001,"Macedonia","Europe",7,0,0,0,6,0,0,0,2,4,0,0
+343,2002,"Macedonia","Europe",15,3,0,0,5,0,0,0,7,1,0,0
+343,2003,"Macedonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+343,2004,"Macedonia","Europe",2,0,0,0,2,0,0,0,0,2,0,0
+343,2005,"Macedonia","Europe",3,1,0,0,2,0,0,0,3,0,0,0
+343,2006,"Macedonia","Europe",2,0,0,0,2,1,0,0,2,0,0,0
+343,2007,"Macedonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+343,2008,"Macedonia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+343,2009,"Macedonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+343,2010,"Macedonia","Europe",3,0,0,0,3,0,0,1,3,0,0,0
+343,2011,"Macedonia","Europe",4,0,0,1,3,1,0,0,4,0,0,0
+343,2012,"Macedonia","Europe",8,0,0,3,7,0,0,0,5,3,0,0
+343,2013,"Macedonia","Europe",7,0,0,0,7,0,0,0,4,3,0,0
+343,2014,"Macedonia","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+344,1999,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,2000,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,2001,"Croatia","Europe",3,0,0,0,1,0,0,0,1,0,0,0
+344,2002,"Croatia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+344,2003,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,2004,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,2005,"Croatia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+344,2006,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,2007,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,2008,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,2009,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,2010,"Croatia","Europe",1,0,0,0,0,1,0,0,1,0,0,0
+344,2011,"Croatia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+344,2012,"Croatia","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+344,2013,"Croatia","Europe",2,0,0,0,2,0,0,1,2,0,0,0
+344,2014,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,1999,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2000,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2001,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2002,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2003,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2004,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2005,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2006,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2007,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2008,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2009,"Bosnia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+346,2010,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2011,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2012,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,2013,"Bosnia","Europe",4,0,0,0,3,0,0,0,2,1,0,0
+346,2014,"Bosnia","Europe",8,5,0,0,5,0,0,0,3,2,0,0
+347,1999,"Yugoslavia","Europe",31,4,0,0,29,0,19,0,24,4,2,1
+347,2000,"Yugoslavia","Europe",41,0,0,1,19,0,1,0,13,4,2,0
+347,2001,"Yugoslavia","Europe",8,0,0,0,3,0,0,0,3,0,0,0
+347,2002,"Yugoslavia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+347,2003,"Serbia and Montenegro","Europe",2,0,0,1,1,0,0,0,1,0,0,1
+347,2004,"Serbia and Montenegro","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+347,2005,"Serbia and Montenegro","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+347,2006,"Serbia and Montenegro","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+348,2006,"Montenegro","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+348,2007,"Montenegro","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+348,2008,"Montenegro","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+348,2009,"Montenegro","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+348,2010,"Montenegro","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+348,2011,"Montenegro","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+348,2012,"Montenegro","Europe",33,0,0,0,2,1,0,0,2,0,0,0
+348,2013,"Montenegro","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+348,2014,"Montenegro","Europe",3,1,0,0,2,0,1,1,2,1,0,0
+349,1999,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,2000,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,2001,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,2002,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,2003,"Slovenia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+349,2004,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,2005,"Slovenia","Europe",2,0,0,0,1,1,0,1,2,0,0,0
+349,2006,"Slovenia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+349,2007,"Slovenia","Europe",2,1,0,0,1,1,0,0,2,0,0,0
+349,2008,"Slovenia","Europe",1,1,0,0,0,1,0,0,1,0,0,0
+349,2009,"Slovenia","Europe",1,1,0,0,1,0,0,0,1,0,0,0
+349,2010,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,2011,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,2012,"Slovenia","Europe",1,0,0,0,2,1,0,0,0,2,0,0
+349,2013,"Slovenia","Europe",6,1,0,0,3,0,3,0,6,0,0,0
+349,2014,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+350,1998,"Greece","Europe",66,0,0,0,1,0,0,0,1,0,0,0
+350,1999,"Greece","Europe",3,0,0,0,3,0,0,0,1,2,0,0
+350,2000,"Greece","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+350,2001,"Greece","Europe",4,0,0,0,4,0,0,0,3,1,0,0
+350,2002,"Greece","Europe",1,1,0,0,0,0,0,0,0,1,0,0
+350,2003,"Greece","Europe",8,1,0,0,6,0,0,0,3,2,0,1
+350,2004,"Greece","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+350,2005,"Greece","Europe",5,4,1,0,3,0,0,0,5,0,0,0
+350,2006,"Greece","Europe",17,4,0,0,15,0,0,0,14,3,0,0
+350,2007,"Greece","Europe",26,4,0,0,24,0,0,0,23,3,0,0
+350,2008,"Greece","Europe",17,4,0,3,8,0,0,0,5,5,0,0
+350,2009,"Greece","Europe",24,3,0,0,9,1,0,0,5,4,0,0
+350,2010,"Greece","Europe",34,33,0,0,33,32,0,0,22,12,0,0
+350,2011,"Greece","Europe",41,25,1,0,26,26,2,0,15,11,0,1
+350,2012,"Greece","Europe",28,23,1,0,25,18,0,0,16,9,0,1
+350,2013,"Greece","Europe",175,12,0,0,17,3,0,0,15,3,0,0
+350,2014,"Greece","Europe",7,5,0,1,4,0,0,0,5,2,0,0
+352,1999,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+352,2000,"Cyprus","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+352,2001,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+352,2002,"Cyprus","Europe",3,0,0,0,2,0,2,0,3,0,0,0
+352,2003,"Cyprus","Europe",3,0,0,0,3,0,1,0,3,0,0,0
+352,2004,"Cyprus","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+352,2005,"Cyprus","Europe",1,1,0,0,0,1,0,0,1,0,0,0
+352,2006,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+352,2007,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+352,2008,"Cyprus","Europe",6,0,1,1,0,1,0,0,2,1,0,0
+352,2009,"Cyprus","Europe",18,7,1,3,9,1,1,0,13,4,0,0
+352,2010,"Cyprus","Europe",39,4,0,0,10,0,1,1,9,3,0,0
+352,2011,"Cyprus","Europe",42,13,0,1,10,1,7,0,22,3,0,0
+352,2012,"Cyprus","Europe",19,8,0,0,4,2,0,0,9,3,0,0
+352,2013,"Cyprus","Europe",29,2,0,0,11,5,2,0,13,1,0,0
+352,2014,"Cyprus","Europe",15,7,2,0,9,2,0,1,11,4,0,0
+355,1999,"Bulgaria","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+355,2000,"Bulgaria","Europe",1,1,0,0,1,0,1,0,1,0,0,0
+355,2001,"Bulgaria","Europe",1,0,0,0,1,0,1,0,1,0,0,0
+355,2002,"Bulgaria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+355,2003,"Bulgaria","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+355,2004,"Bulgaria","Europe",2,0,0,1,1,0,1,0,2,0,0,0
+355,2005,"Bulgaria","Europe",29,3,2,0,3,0,0,0,5,0,0,0
+355,2006,"Bulgaria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+355,2007,"Bulgaria","Europe",5,1,0,0,0,0,0,0,1,0,0,0
+355,2008,"Bulgaria","Europe",34,4,0,0,2,2,1,1,6,0,0,0
+355,2009,"Bulgaria","Europe",4,3,0,0,2,2,2,0,2,1,0,0
+355,2010,"Bulgaria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+355,2011,"Bulgaria","Europe",3,0,0,1,0,1,0,1,2,1,0,0
+355,2012,"Bulgaria","Europe",12,1,2,0,1,0,0,1,4,1,0,0
+355,2013,"Bulgaria","Europe",229,3,0,0,4,1,2,0,3,1,0,1
+355,2014,"Bulgaria","Europe",2,1,0,0,2,1,0,0,2,0,0,0
+359,1999,"Moldova","Europe",6,2,0,0,0,0,0,0,0,2,0,0
+359,2000,"Moldova","Europe",8,2,1,1,3,6,1,0,5,1,0,2
+359,2001,"Moldova","Europe",1,0,0,0,1,0,0,1,1,0,0,0
+359,2002,"Moldova","Europe",118,0,0,0,7,0,3,4,8,0,0,0
+359,2003,"Moldova","Europe",14,0,0,1,8,0,1,0,8,0,1,0
+359,2004,"Moldova","Europe",92,0,0,2,7,0,1,0,7,0,0,0
+359,2005,"Moldova","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+359,2006,"Moldova","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+359,2007,"Moldova","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+359,2008,"Moldova","Europe",1,0,0,0,0,0,1,0,1,0,0,0
+359,2009,"Moldova","Europe",5,0,0,0,5,0,0,0,4,1,0,0
+359,2010,"Moldova","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+359,2011,"Moldova","Europe",1,0,0,0,1,0,1,0,1,0,0,0
+359,2012,"Moldova","Europe",5,0,0,0,2,0,0,0,2,0,0,0
+359,2013,"Moldova","Europe",26,0,0,0,2,0,1,0,2,0,0,0
+359,2014,"Moldova","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+360,1999,"Romania","Europe",25,3,0,0,3,2,0,0,5,1,0,1
+360,2000,"Romania","Europe",2,0,0,0,1,1,0,0,1,1,0,0
+360,2001,"Romania","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+360,2002,"Romania","Europe",3,1,0,0,2,0,0,0,3,0,0,0
+360,2003,"Romania","Europe",2,1,0,0,1,1,0,0,2,0,0,0
+360,2004,"Romania","Europe",4,0,0,0,4,0,0,0,4,0,0,0
+360,2005,"Romania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+360,2006,"Romania","Europe",1,0,0,0,0,0,0,1,1,0,0,0
+360,2007,"Romania","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+360,2008,"Romania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+360,2009,"Romania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+360,2010,"Romania","Europe",5,5,0,0,5,0,0,0,4,1,0,0
+360,2011,"Romania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+360,2012,"Romania","Europe",25,1,0,0,1,1,0,0,0,1,0,0
+360,2013,"Romania","Europe",8,2,0,0,8,0,0,0,8,0,0,0
+360,2014,"Romania","Europe",2,0,0,0,1,0,1,0,2,0,0,0
+365,1999,"Russia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+365,2000,"Russia","Europe",3,0,0,1,3,0,0,0,3,0,0,0
+365,2001,"Russia","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+365,2002,"Russia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+365,2003,"Russia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+365,2004,"Russia","Europe",5,0,0,0,3,0,2,0,3,1,0,1
+365,2005,"Russia","Europe",19,2,0,0,10,6,2,0,12,0,0,0
+365,2006,"Russia","Europe",4,0,0,0,4,0,1,0,3,0,1,0
+365,2007,"Russia","Europe",7,0,0,1,7,0,0,0,4,0,2,1
+365,2008,"Russia","Europe",5,0,0,0,3,1,0,0,2,1,0,1
+365,2009,"Russia","Europe",5,0,0,0,4,2,0,0,5,0,0,0
+365,2010,"Russia","Europe",18,0,3,0,14,2,0,0,13,2,1,0
+365,2011,"Russia","Europe",13,0,0,0,11,0,1,0,11,0,0,0
+365,2012,"Russia","Europe",30,0,0,0,19,0,0,0,18,0,0,1
+365,2013,"Russia","Europe",8,0,0,0,8,0,0,0,8,0,0,0
+365,2014,"Russia","Europe",10,2,0,1,10,0,0,0,10,0,0,0
+366,1999,"Estonia","Europe",4,1,0,1,1,0,0,0,3,0,0,0
+366,2000,"Estonia","Europe",13,2,0,1,5,0,0,0,7,0,0,0
+366,2001,"Estonia","Europe",5,2,0,0,0,2,0,1,5,0,0,0
+366,2002,"Estonia","Europe",4,0,0,0,1,2,0,0,3,0,0,0
+366,2003,"Estonia","Europe",6,1,0,0,2,1,0,0,4,0,0,0
+366,2004,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,2005,"Estonia","Europe",5,1,0,0,3,1,0,0,5,0,0,0
+366,2006,"Estonia","Europe",8,1,0,0,7,0,0,0,8,0,0,0
+366,2007,"Estonia","Europe",4,0,0,0,3,0,0,0,0,3,0,0
+366,2008,"Estonia","Europe",1,1,0,0,1,0,0,0,1,0,0,0
+366,2009,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,2010,"Estonia","Europe",1,1,0,0,1,0,0,0,1,0,0,0
+366,2011,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,2012,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,2013,"Estonia","Europe",2,0,0,0,0,2,0,0,2,0,0,0
+366,2014,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,1999,"Latvia","Europe",6,0,0,0,4,4,0,0,7,0,0,0
+367,2000,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,2001,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,2002,"Latvia","Europe",6,2,0,0,4,0,0,0,6,0,0,0
+367,2003,"Latvia","Europe",7,0,0,0,7,1,0,5,7,0,0,0
+367,2004,"Latvia","Europe",3,0,0,0,3,0,0,3,3,0,0,0
+367,2005,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,2006,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,2007,"Latvia","Europe",5,2,0,0,4,1,1,1,5,0,0,0
+367,2008,"Latvia","Europe",4,3,0,0,1,1,0,0,4,0,0,0
+367,2009,"Latvia","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+367,2010,"Latvia","Europe",1,1,0,0,1,1,0,0,1,0,0,0
+367,2011,"Latvia","Europe",10,0,0,0,7,4,0,0,10,0,0,0
+367,2012,"Latvia","Europe",4,1,0,0,2,1,0,0,4,0,0,0
+367,2013,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,2014,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,1999,"Lithuania","Europe",18,4,0,1,8,4,0,0,11,0,0,0
+368,2000,"Lithuania","Europe",16,3,0,0,11,4,0,0,12,0,0,0
+368,2001,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,2002,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,2003,"Lithuania","Europe",1,0,0,0,1,0,1,0,1,0,0,0
+368,2004,"Lithuania","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+368,2005,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,2006,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,2007,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,2008,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,2009,"Lithuania","Europe",1,0,0,0,1,1,0,0,0,1,0,0
+368,2010,"Lithuania","Europe",1,1,0,0,1,1,0,0,1,0,0,0
+368,2011,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,2012,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,2013,"Lithuania","Europe",1,0,0,0,1,0,0,1,1,0,0,0
+368,2014,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,1999,"Ukraine","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,2000,"Ukraine","Europe",79,0,0,0,2,0,2,0,2,0,0,0
+369,2001,"Ukraine","Europe",8,0,0,1,8,0,5,0,6,1,0,1
+369,2002,"Ukraine","Europe",4,0,0,0,2,0,3,0,3,0,1,0
+369,2003,"Ukraine","Europe",4,0,0,0,3,0,2,0,4,0,0,0
+369,2004,"Ukraine","Europe",21,0,0,0,6,0,0,0,6,0,0,0
+369,2005,"Ukraine","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,2006,"Ukraine","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,2007,"Ukraine","Europe",16,0,0,0,1,0,0,0,1,0,0,0
+369,2008,"Ukraine","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,2009,"Ukraine","Europe",2,0,0,0,1,0,1,0,2,0,0,0
+369,2010,"Ukraine","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,2011,"Ukraine","Europe",3,0,0,0,3,0,0,0,2,1,0,0
+369,2012,"Ukraine","Europe",3,0,0,0,2,0,0,1,1,1,0,0
+369,2013,"Ukraine","Europe",42,0,0,0,2,0,1,0,1,0,0,1
+369,2014,"Ukraine","Europe",156,0,0,7,89,1,2,1,57,26,7,9
+370,1999,"Belarus","Europe",4,0,0,0,4,0,3,0,3,0,0,1
+370,2000,"Belarus","Europe",6,0,0,0,5,1,2,0,5,0,1,0
+370,2001,"Belarus","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+370,2002,"Belarus","Europe",5,1,0,0,5,0,0,0,4,0,1,0
+370,2003,"Belarus","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+370,2004,"Belarus","Europe",4,0,0,0,2,0,0,0,1,0,1,0
+370,2005,"Belarus","Europe",3,0,0,0,3,0,0,0,2,0,1,0
+370,2006,"Belarus","Europe",7,0,0,0,2,0,0,0,1,0,1,0
+370,2007,"Belarus","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+370,2008,"Belarus","Europe",3,0,0,0,2,1,0,0,3,0,0,0
+370,2009,"Belarus","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+370,2010,"Belarus","Europe",1,0,0,0,1,0,1,0,0,0,0,1
+370,2011,"Belarus","Europe",5,0,0,0,5,3,0,0,3,0,2,0
+370,2012,"Belarus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+370,2013,"Belarus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+370,2014,"Belarus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+371,1990,"Armenia","Europe",1,0,0,0,1,0,0,0,0,0,1,1
+371,1991,"Armenia","Europe",1,0,0,0,0,0,1,0,1,0,0,0
+371,1992,"Armenia","Europe",1,0,0,0,0,1,0,0,1,0,0,0
+371,1993,"Armenia","Europe",1,0,0,0,0,0,1,0,1,0,0,0
+371,1994,"Armenia","Europe",5,0,0,0,1,1,3,0,5,0,0,0
+371,1995,"Armenia","Europe",5,0,0,0,4,0,1,0,4,0,0,1
+371,1996,"Armenia","Europe",4,0,0,0,2,0,0,0,0,0,2,2
+371,1997,"Armenia","Europe",5,1,0,0,3,0,1,0,5,0,0,0
+371,1998,"Armenia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+371,1999,"Armenia","Europe",28,0,0,0,0,1,1,0,2,0,0,0
+371,2000,"Armenia","Europe",16,0,0,0,3,0,3,0,6,0,0,0
+371,2001,"Armenia","Europe",2,0,0,0,0,0,2,0,2,0,0,0
+371,2002,"Armenia","Europe",5,0,0,0,3,0,2,0,5,0,0,0
+371,2003,"Armenia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+371,2004,"Armenia","Europe",4,0,0,1,1,0,2,0,4,0,0,0
+371,2005,"Armenia","Europe",8,1,0,1,5,1,0,0,8,0,0,0
+371,2006,"Armenia","Europe",1,0,0,1,0,0,0,0,1,0,0,0
+371,2007,"Armenia","Europe",3,0,0,0,2,0,0,1,2,1,0,0
+371,2008,"Armenia","Europe",16,0,0,3,3,0,0,0,5,0,1,1
+371,2009,"Armenia","Europe",2,0,0,1,1,0,0,0,2,0,0,0
+371,2010,"Armenia","Europe",6,2,0,2,1,0,1,0,6,0,0,0
+371,2011,"Armenia","Europe",1,1,0,0,1,1,0,0,1,0,0,0
+371,2012,"Armenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+371,2013,"Armenia","Europe",3,0,0,0,3,0,0,0,2,1,0,0
+371,2014,"Armenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+372,1990,"Georgia","Europe",9,0,0,0,2,0,0,0,2,0,0,0
+372,1991,"Georgia","Europe",17,0,0,0,2,0,4,0,2,1,2,2
+372,1992,"Georgia","Europe",6,0,0,0,6,0,0,0,3,0,3,3
+372,1993,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,1994,"Georgia","Europe",3,0,0,0,2,0,1,0,2,1,0,0
+372,1995,"Georgia","Europe",14,0,0,0,2,0,0,0,2,0,0,0
+372,1996,"Georgia","Europe",10,0,1,0,3,0,0,0,4,0,0,0
+372,1997,"Georgia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+372,1998,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,1999,"Georgia","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+372,2000,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,2001,"Georgia","Europe",3,1,0,0,2,0,0,0,1,2,0,0
+372,2002,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,2003,"Georgia","Europe",11,0,0,0,2,0,1,0,3,0,0,0
+372,2004,"Georgia","Europe",3,0,0,0,3,0,0,0,2,0,1,0
+372,2005,"Georgia","Europe",1,0,0,1,0,0,0,0,1,0,0,0
+372,2006,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,2007,"Georgia","Europe",7,0,0,1,2,0,0,0,2,0,1,1
+372,2008,"Georgia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+372,2009,"Georgia","Europe",7,0,0,2,0,0,1,0,2,0,0,1
+372,2010,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,2011,"Georgia","Europe",5,0,0,0,0,0,2,0,0,1,1,1
+372,2012,"Georgia","Europe",4,0,0,1,1,0,0,0,2,0,0,0
+372,2013,"Georgia","Europe",2,0,0,0,1,0,1,0,2,0,0,0
+372,2014,"Georgia","Europe",3,0,0,0,1,0,2,0,3,0,0,0
+373,1992,"Azerbaijan","Europe",6,0,0,0,3,0,1,0,2,0,2,1
+373,1993,"Azerbaijan","Europe",5,0,0,0,4,0,0,0,3,0,1,1
+373,1994,"Azerbaijan","Europe",10,0,0,0,5,0,0,0,1,1,3,1
+373,1995,"Azerbaijan","Europe",6,0,0,0,2,0,0,0,1,0,1,1
+373,1996,"Azerbaijan","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+373,1997,"Azerbaijan","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+373,1998,"Azerbaijan","Europe",8,0,0,0,8,0,0,0,6,0,1,1
+373,1999,"Azerbaijan","Europe",10,1,0,2,7,0,0,0,6,2,1,1
+373,2000,"Azerbaijan","Europe",12,0,0,0,10,0,1,1,9,0,2,1
+373,2001,"Azerbaijan","Europe",3,0,0,0,2,0,0,0,2,0,0,0
+373,2002,"Azerbaijan","Europe",20,0,0,0,10,0,9,1,16,2,1,2
+373,2003,"Azerbaijan","Europe",9,0,0,0,4,0,5,0,7,0,1,2
+373,2004,"Azerbaijan","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+373,2005,"Azerbaijan","Europe",12,0,0,1,11,0,0,0,7,2,2,1
+373,2006,"Azerbaijan","Europe",6,0,1,1,3,0,0,1,5,0,1,0
+373,2007,"Azerbaijan","Europe",5,0,0,0,2,3,0,0,5,0,0,0
+373,2008,"Azerbaijan","Europe",2,0,0,1,0,0,0,1,2,0,0,0
+373,2009,"Azerbaijan","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+373,2010,"Azerbaijan","Europe",6,0,2,0,4,0,0,0,6,0,0,0
+373,2011,"Azerbaijan","Europe",4,0,0,0,3,0,1,0,0,2,1,0
+373,2012,"Azerbaijan","Europe",2,0,0,1,0,0,1,0,1,1,0,0
+373,2013,"Azerbaijan","Europe",6,0,0,0,4,0,0,0,2,1,1,0
+373,2014,"Azerbaijan","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,1990,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,1991,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,1992,"Finland","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+375,1993,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,1994,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,1995,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,1996,"Finland","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+375,1997,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,1998,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,1999,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2000,"Finland","Europe",2,1,0,0,0,1,0,0,2,0,0,0
+375,2001,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2002,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2003,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2004,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2005,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2006,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2007,"Finland","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+375,2008,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2009,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2010,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2011,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2012,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2013,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+375,2014,"Finland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1990,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1991,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1992,"Sweden","Europe",1,0,0,0,1,1,0,0,1,0,0,0
+380,1993,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1994,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1995,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1996,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1997,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1998,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,1999,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2000,"Sweden","Europe",2,0,0,0,0,1,0,0,1,0,0,0
+380,2001,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2002,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2003,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2004,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2005,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2006,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2007,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2008,"Sweden","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+380,2009,"Sweden","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+380,2010,"Sweden","Europe",2,0,0,0,1,0,0,1,2,0,0,0
+380,2011,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2012,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+380,2013,"Sweden","Europe",6,1,0,1,0,0,0,0,0,1,0,0
+380,2014,"Sweden","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1990,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1991,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1992,"Norway","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+385,1993,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1994,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1995,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1996,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1997,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1998,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,1999,"Norway","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+385,2000,"Norway","Europe",3,0,0,0,1,1,0,0,2,0,0,0
+385,2001,"Norway","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+385,2002,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2003,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2004,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2005,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2006,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2007,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2008,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2009,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2010,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2011,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2012,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2013,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+385,2014,"Norway","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,1990,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,1991,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,1992,"Denmark","Europe",1,0,0,0,1,1,0,0,1,0,0,0
+390,1993,"Denmark","Europe",2,0,0,0,2,0,0,0,0,1,1,1
+390,1994,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,1995,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,1996,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,1997,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,1998,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,1999,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2000,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2001,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2002,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2003,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2004,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2005,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2006,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2007,"Denmark","Europe",2,0,2,0,1,0,0,0,0,2,0,0
+390,2008,"Denmark","Europe",4,0,0,1,1,0,0,0,0,2,0,0
+390,2009,"Denmark","Europe",2,0,0,0,1,0,0,0,0,0,1,0
+390,2010,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2011,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2012,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2013,"Denmark","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+390,2014,"Denmark","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+402,1990,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1991,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1992,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1993,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1994,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1995,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1996,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1997,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1998,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,1999,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2000,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2001,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2002,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2003,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2004,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2005,"Cape Verde","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+402,2006,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2007,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2008,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2009,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2010,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2011,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2012,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2013,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+402,2014,"Cape Verde","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1990,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1991,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1992,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1993,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1994,"Guinea-Bissau","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+404,1995,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1996,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1997,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1998,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,1999,"Guinea-Bissau","Africa",3,2,0,0,1,0,0,0,2,1,0,0
+404,2000,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,2001,"Guinea-Bissau","Africa",3,1,0,0,2,0,0,0,2,0,1,1
+404,2002,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,2003,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,2004,"Guinea-Bissau","Africa",6,2,0,0,0,0,0,0,0,1,1,1
+404,2005,"Guinea-Bissau","Africa",6,0,0,0,6,0,0,0,2,3,1,1
+404,2006,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,2007,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,2008,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,2009,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+404,2010,"Guinea-Bissau","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+404,2011,"Guinea-Bissau","Africa",5,1,0,0,0,2,3,0,5,0,0,0
+404,2012,"Guinea-Bissau","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+404,2013,"Guinea-Bissau","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+404,2014,"Guinea-Bissau","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,1990,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,1991,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,1992,"Equatorial Guinea","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+411,1993,"Equatorial Guinea","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+411,1994,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,1995,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,1996,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,1997,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,1998,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,1999,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2000,"Equatorial Guinea","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+411,2001,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2002,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2003,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2004,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2005,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2006,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2007,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2008,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2009,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2010,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2011,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2012,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+411,2013,"Equatorial Guinea","Africa",1,0,0,0,1,0,1,0,1,0,0,0
+411,2014,"Equatorial Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,1990,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,1991,"Gambia","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+420,1992,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,1993,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,1994,"Gambia","Africa",1,1,0,0,1,0,0,0,1,0,0,0
+420,1995,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,1996,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,1997,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,1998,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,1999,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2000,"Gambia","Africa",5,0,0,2,0,0,0,0,0,0,2,2
+420,2001,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2002,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2003,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2004,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2005,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2006,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2007,"Gambia","Africa",1,0,0,1,0,0,0,0,1,0,0,0
+420,2008,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2009,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2010,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2011,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2012,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2013,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+420,2014,"Gambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,1990,"Mali","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+432,1991,"Mali","Africa",11,0,0,0,3,0,2,0,0,0,3,3
+432,1992,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,1993,"Mali","Africa",5,0,0,0,1,0,0,0,0,0,1,1
+432,1994,"Mali","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+432,1995,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,1996,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,1997,"Mali","Africa",9,0,0,0,7,0,3,0,0,6,1,1
+432,1998,"Mali","Africa",13,0,0,0,1,0,0,0,0,1,0,0
+432,1999,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,2000,"Mali","Africa",2,1,0,0,1,0,0,0,2,0,0,0
+432,2001,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,2002,"Mali","Africa",2,0,0,0,1,0,0,0,1,0,0,0
+432,2003,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,2004,"Mali","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+432,2005,"Mali","Africa",1,0,0,0,1,1,0,0,1,0,0,0
+432,2006,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,2007,"Mali","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+432,2008,"Mali","Africa",2,0,0,0,2,0,0,0,0,1,1,1
+432,2009,"Mali","Africa",1,0,0,0,1,0,0,1,1,0,0,0
+432,2010,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+432,2011,"Mali","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+432,2012,"Mali","Africa",5,0,0,2,3,0,0,0,4,1,0,0
+432,2013,"Mali","Africa",2,0,0,1,1,0,0,0,1,1,0,0
+432,2014,"Mali","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,1990,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,1991,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,1992,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,1993,"Senegal","Africa",5,1,0,0,4,0,0,0,3,2,0,0
+433,1994,"Senegal","Africa",1,0,0,0,0,1,0,0,0,0,1,1
+433,1995,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,1996,"Senegal","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+433,1997,"Senegal","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+433,1998,"Senegal","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+433,1999,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,2000,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,2001,"Senegal","Africa",5,3,0,1,2,0,0,1,4,0,1,1
+433,2002,"Senegal","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+433,2003,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,2004,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,2005,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,2006,"Senegal","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+433,2007,"Senegal","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+433,2008,"Senegal","Africa",1,1,0,0,0,1,0,0,0,1,0,0
+433,2009,"Senegal","Africa",3,0,0,0,3,0,0,1,1,2,0,0
+433,2010,"Senegal","Africa",15,0,0,0,3,3,1,0,3,3,0,1
+433,2011,"Senegal","Africa",5,0,0,0,4,2,0,0,2,3,0,0
+433,2012,"Senegal","Africa",6,0,0,0,6,0,0,0,1,4,1,1
+433,2013,"Senegal","Africa",2,0,0,0,1,1,0,0,1,1,0,0
+433,2014,"Senegal","Africa",2,0,0,0,2,0,0,0,1,0,1,1
+434,1990,"Benin","Africa",2,1,0,0,0,0,0,0,1,0,0,0
+434,1991,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,1992,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,1993,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,1994,"Benin","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+434,1995,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,1996,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,1997,"Benin","Africa",5,1,0,0,1,0,0,0,2,0,0,0
+434,1998,"Benin","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+434,1999,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,2000,"Benin","Africa",2,0,0,0,1,0,0,0,0,1,0,0
+434,2001,"Benin","Africa",3,0,0,1,2,0,0,0,2,0,0,1
+434,2002,"Benin","Africa",3,1,0,0,2,0,0,0,2,0,0,0
+434,2003,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,2004,"Benin","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+434,2005,"Benin","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+434,2006,"Benin","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+434,2007,"Benin","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+434,2008,"Benin","Africa",1,0,0,0,0,1,0,0,1,0,0,0
+434,2009,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,2010,"Benin","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+434,2011,"Benin","Africa",5,0,0,0,5,0,0,0,5,0,0,0
+434,2012,"Benin","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+434,2013,"Benin","Africa",5,0,0,0,5,0,0,0,5,0,0,0
+434,2014,"Benin","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+435,1990,"Mauritania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+435,1991,"Mauritania","Africa",2,0,0,0,2,1,0,0,0,1,1,0
+435,1992,"Mauritania","Africa",5,0,0,0,4,1,1,0,3,1,1,0
+435,1993,"Mauritania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+435,1994,"Mauritania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+435,1995,"Mauritania","Africa",8,0,0,0,0,1,0,0,0,1,0,0
+435,1996,"Mauritania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+435,1997,"Mauritania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+435,1998,"Mauritania","Africa",1,0,0,0,1,0,0,0,0,0,1,0
+435,1999,"Mauritania","Africa",3,0,0,0,3,0,0,0,1,1,0,1
+435,2000,"Mauritania","Africa",5,0,0,0,5,0,0,0,4,0,1,1
+435,2001,"Mauritania","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+435,2002,"Mauritania","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+435,2003,"Mauritania","Africa",8,0,0,0,4,0,0,0,4,0,0,0
+435,2004,"Mauritania","Africa",5,0,0,0,5,0,0,0,5,0,0,0
+435,2005,"Mauritania","Africa",5,2,0,0,3,0,0,0,5,0,0,0
+435,2006,"Mauritania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+435,2007,"Mauritania","Africa",4,0,0,0,0,2,0,0,0,1,1,1
+435,2008,"Mauritania","Africa",8,0,0,0,8,0,0,0,7,1,0,0
+435,2009,"Mauritania","Africa",11,0,0,0,11,0,0,0,9,2,0,0
+435,2010,"Mauritania","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+435,2011,"Mauritania","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+435,2012,"Mauritania","Africa",12,0,0,0,11,1,0,0,10,2,0,0
+435,2013,"Mauritania","Africa",4,0,0,0,4,0,0,0,4,0,0,0
+435,2014,"Mauritania","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+436,1990,"Niger","Africa",4,0,0,1,4,0,0,0,2,1,1,1
+436,1991,"Niger","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+436,1992,"Niger","Africa",3,0,0,0,3,0,0,1,3,0,0,0
+436,1993,"Niger","Africa",7,1,0,0,3,0,0,0,1,2,0,1
+436,1994,"Niger","Africa",13,5,0,0,9,0,0,0,7,3,1,2
+436,1995,"Niger","Africa",7,1,0,0,5,0,0,0,1,2,1,2
+436,1996,"Niger","Africa",4,0,0,0,4,0,0,0,2,2,0,0
+436,1997,"Niger","Africa",4,2,0,0,4,0,0,0,2,0,1,1
+436,1998,"Niger","Africa",22,4,0,0,4,0,5,0,2,8,0,0
+436,1999,"Niger","Africa",5,2,0,0,2,0,0,0,2,2,0,0
+436,2000,"Niger","Africa",5,3,0,0,2,0,0,2,4,1,0,0
+436,2001,"Niger","Africa",12,3,0,0,10,0,0,0,7,5,0,0
+436,2002,"Niger","Africa",7,1,0,1,7,0,0,0,3,3,1,1
+436,2003,"Niger","Africa",2,1,0,0,1,0,0,0,2,0,0,0
+436,2004,"Niger","Africa",1,1,0,0,0,0,0,0,0,1,0,0
+436,2005,"Niger","Africa",4,0,0,0,1,3,0,0,3,1,0,0
+436,2006,"Niger","Africa",5,0,0,0,3,2,0,0,4,1,0,0
+436,2007,"Niger","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+436,2008,"Niger","Africa",2,0,0,0,2,1,0,0,2,0,0,0
+436,2009,"Niger","Africa",11,0,0,0,11,0,0,0,8,3,0,0
+436,2010,"Niger","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+436,2011,"Niger","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+436,2012,"Niger","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+436,2013,"Niger","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+436,2014,"Niger","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+437,1990,"Ivory Coast","Africa",16,7,0,0,5,0,4,0,7,3,3,1
+437,1991,"Ivory Coast","Africa",8,0,0,3,8,0,0,0,5,0,1,2
+437,1992,"Ivory Coast","Africa",6,1,0,0,5,0,0,0,0,2,2,2
+437,1993,"Ivory Coast","Africa",1,1,0,0,0,0,0,0,0,1,0,0
+437,1994,"Ivory Coast","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+437,1995,"Ivory Coast","Africa",6,0,0,0,5,0,1,0,2,1,1,2
+437,1996,"Ivory Coast","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+437,1997,"Ivory Coast","Africa",2,0,0,1,1,0,0,0,1,1,0,0
+437,1998,"Ivory Coast","Africa",8,0,0,2,3,0,1,0,4,0,0,1
+437,1999,"Ivory Coast","Africa",13,4,0,1,7,2,0,0,5,8,0,0
+437,2000,"Ivory Coast","Africa",9,1,0,0,6,0,0,0,1,4,2,1
+437,2001,"Ivory Coast","Africa",7,2,0,0,4,1,0,0,5,0,1,1
+437,2002,"Ivory Coast","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+437,2003,"Ivory Coast","Africa",16,0,0,1,1,0,1,0,1,2,0,0
+437,2004,"Ivory Coast","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+437,2005,"Ivory Coast","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+437,2006,"Ivory Coast","Africa",3,0,0,1,1,1,0,0,0,3,0,0
+437,2007,"Ivory Coast","Africa",4,2,0,1,1,0,0,0,1,3,0,0
+437,2008,"Ivory Coast","Africa",7,3,0,0,2,1,0,0,1,4,1,1
+437,2009,"Ivory Coast","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+437,2010,"Ivory Coast","Africa",14,0,0,0,6,0,0,0,2,2,2,2
+437,2011,"Ivory Coast","Africa",5,0,0,1,4,0,0,0,1,0,4,4
+437,2012,"Ivory Coast","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+437,2013,"Ivory Coast","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+437,2014,"Ivory Coast","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,1990,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,1991,"Guinea","Africa",2,0,0,0,2,0,0,0,0,0,2,2
+438,1992,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,1993,"Guinea","Africa",4,0,0,0,2,0,0,0,0,0,2,2
+438,1994,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,1995,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,1996,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,1997,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,1998,"Guinea","Africa",2,0,0,0,2,0,0,0,0,2,0,0
+438,1999,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,2000,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,2001,"Guinea","Africa",3,0,0,0,3,0,0,0,0,1,2,1
+438,2002,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,2003,"Guinea","Africa",1,0,0,0,0,1,0,0,0,1,0,0
+438,2004,"Guinea","Africa",14,2,0,0,1,1,0,1,1,0,3,2
+438,2005,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+438,2006,"Guinea","Africa",8,1,0,0,4,1,0,0,0,2,4,4
+438,2007,"Guinea","Africa",24,2,0,0,4,1,3,0,0,3,4,4
+438,2008,"Guinea","Africa",14,2,0,0,4,1,1,0,0,4,2,2
+438,2009,"Guinea","Africa",4,0,0,0,4,0,0,0,2,0,1,2
+438,2010,"Guinea","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+438,2011,"Guinea","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+438,2012,"Guinea","Africa",13,1,0,1,9,0,0,0,4,2,4,5
+438,2013,"Guinea","Africa",54,0,0,1,14,0,0,0,3,6,5,6
+438,2014,"Guinea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,1990,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,1991,"Burkina Faso","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+439,1992,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,1993,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,1994,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,1995,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,1996,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,1997,"Burkina Faso","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+439,1998,"Burkina Faso","Africa",2,0,0,0,2,0,0,0,0,1,1,1
+439,1999,"Burkina Faso","Africa",6,0,0,0,5,0,0,0,2,3,0,0
+439,2000,"Burkina Faso","Africa",5,0,0,0,3,0,0,0,2,0,1,1
+439,2001,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,2002,"Burkina Faso","Africa",5,2,0,0,1,3,0,0,3,1,0,0
+439,2003,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,2004,"Burkina Faso","Africa",1,0,0,1,1,0,0,0,0,1,0,0
+439,2005,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,2006,"Burkina Faso","Africa",4,2,0,0,1,1,0,0,2,0,1,1
+439,2007,"Burkina Faso","Africa",2,1,0,0,1,0,0,0,2,0,0,0
+439,2008,"Burkina Faso","Africa",6,0,0,0,0,4,0,0,2,2,0,0
+439,2009,"Burkina Faso","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+439,2010,"Burkina Faso","Africa",1,0,0,0,0,1,0,0,1,0,0,0
+439,2011,"Burkina Faso","Africa",31,7,0,4,12,4,5,0,7,13,2,2
+439,2012,"Burkina Faso","Africa",1,0,0,0,0,1,0,0,1,0,0,0
+439,2013,"Burkina Faso","Africa",3,0,0,0,2,1,0,0,3,0,0,0
+439,2014,"Burkina Faso","Africa",3,0,0,0,3,0,0,0,1,1,1,1
+450,1990,"Liberia","Africa",2,0,0,0,0,0,1,0,0,0,1,1
+450,1991,"Liberia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+450,1992,"Liberia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+450,1993,"Liberia","Africa",2,0,0,0,0,1,0,0,0,1,0,0
+450,1994,"Liberia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+450,1995,"Liberia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+450,1996,"Liberia","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+450,1997,"Liberia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+450,1998,"Liberia","Africa",2,1,0,0,1,0,0,0,0,2,0,0
+450,1999,"Liberia","Africa",2,0,0,0,2,0,0,0,0,1,0,1
+450,2000,"Liberia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+450,2001,"Liberia","Africa",1,0,0,1,0,0,0,0,0,0,1,1
+450,2002,"Liberia","Africa",1,0,0,0,2,0,0,0,1,0,1,0
+450,2003,"Liberia","Africa",3,0,0,0,2,0,1,0,3,0,0,0
+450,2004,"Liberia","Africa",9,2,0,0,5,0,1,0,3,5,0,0
+450,2005,"Liberia","Africa",11,3,0,0,4,0,0,0,2,4,0,1
+450,2006,"Liberia","Africa",4,3,0,0,0,0,0,0,1,2,0,0
+450,2007,"Liberia","Africa",2,1,0,0,0,0,0,0,0,1,0,0
+450,2008,"Liberia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+450,2009,"Liberia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+450,2010,"Liberia","Africa",2,1,1,0,0,0,0,0,0,1,0,1
+450,2011,"Liberia","Africa",5,2,0,1,1,0,0,0,1,1,1,2
+450,2012,"Liberia","Africa",2,0,0,0,1,0,1,0,1,1,0,0
+450,2013,"Liberia","Africa",7,4,0,0,2,1,1,0,4,2,0,0
+450,2014,"Liberia","Africa",3,1,0,0,1,0,1,0,3,0,0,0
+451,1990,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,1991,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,1992,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,1993,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,1994,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,1995,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,1996,"Sierra Leone","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+451,1997,"Sierra Leone","Africa",3,0,0,0,3,0,1,0,2,1,0,0
+451,1998,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,1999,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,2000,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,2001,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,2002,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,2003,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,2004,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,2005,"Sierra Leone","Africa",2,1,0,0,1,0,0,0,0,2,0,0
+451,2006,"Sierra Leone","Africa",2,0,0,0,2,0,0,0,0,2,0,0
+451,2007,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,2008,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+451,2009,"Sierra Leone","Africa",16,1,0,0,0,0,0,0,0,1,0,0
+451,2010,"Sierra Leone","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+451,2011,"Sierra Leone","Africa",18,2,0,0,2,0,0,0,3,0,1,1
+451,2012,"Sierra Leone","Africa",1,0,0,0,1,0,0,1,1,0,0,0
+451,2013,"Sierra Leone","Africa",1,0,0,0,1,0,1,0,1,0,0,0
+451,2014,"Sierra Leone","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,1990,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,1991,"Ghana","Africa",1,0,0,0,0,1,0,0,1,0,0,0
+452,1992,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,1993,"Ghana","Africa",2,1,0,0,0,1,0,0,1,1,0,0
+452,1994,"Ghana","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+452,1995,"Ghana","Africa",6,1,0,0,1,3,1,0,2,4,0,0
+452,1996,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,1997,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,1998,"Ghana","Africa",1,0,1,0,0,0,1,0,0,1,0,0
+452,1999,"Ghana","Africa",4,1,0,0,1,3,0,0,2,1,1,1
+452,2000,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,2001,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,2002,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,2003,"Ghana","Africa",3,1,0,0,3,1,0,0,3,0,0,0
+452,2004,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,2005,"Ghana","Africa",1,0,0,0,0,1,0,0,1,0,0,0
+452,2006,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,2007,"Ghana","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+452,2008,"Ghana","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+452,2009,"Ghana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+452,2010,"Ghana","Africa",4,0,0,0,3,1,0,0,3,1,0,0
+452,2011,"Ghana","Africa",7,1,1,0,1,4,2,0,3,4,0,0
+452,2012,"Ghana","Africa",12,3,0,0,4,1,0,0,4,2,2,2
+452,2013,"Ghana","Africa",3,0,0,0,2,2,0,0,4,0,0,0
+452,2014,"Ghana","Africa",3,0,0,0,3,0,0,0,1,1,1,1
+461,1990,"Togo","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+461,1991,"Togo","Africa",10,0,0,1,5,0,5,0,3,5,1,2
+461,1992,"Togo","Africa",5,1,0,0,4,0,1,0,3,2,0,0
+461,1993,"Togo","Africa",3,0,0,0,3,0,0,0,1,1,1,1
+461,1994,"Togo","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+461,1995,"Togo","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+461,1996,"Togo","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+461,1997,"Togo","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+461,1998,"Togo","Africa",7,0,0,0,7,0,0,0,2,2,0,3
+461,1999,"Togo","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+461,2000,"Togo","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+461,2001,"Togo","Africa",2,1,0,0,2,0,0,0,2,0,0,0
+461,2002,"Togo","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+461,2003,"Togo","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+461,2004,"Togo","Africa",1,1,0,0,0,0,0,0,0,1,0,0
+461,2005,"Togo","Africa",20,0,0,1,11,0,3,0,3,5,3,4
+461,2006,"Togo","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+461,2007,"Togo","Africa",4,0,0,0,2,0,0,1,2,0,0,0
+461,2008,"Togo","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+461,2009,"Togo","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+461,2010,"Togo","Africa",10,0,0,0,9,0,0,0,6,2,1,0
+461,2011,"Togo","Africa",4,2,0,0,3,0,1,0,3,1,0,0
+461,2012,"Togo","Africa",11,0,0,0,6,0,1,0,1,5,0,0
+461,2013,"Togo","Africa",6,1,0,0,4,0,0,0,2,3,0,0
+461,2014,"Togo","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+471,1990,"Cameroon","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+471,1991,"Cameroon","Africa",13,0,0,1,12,0,1,0,7,3,2,2
+471,1992,"Cameroon","Africa",2,0,0,0,2,0,0,0,0,1,0,1
+471,1993,"Cameroon","Africa",3,0,0,0,2,0,0,1,2,0,1,1
+471,1994,"Cameroon","Africa",3,0,0,0,3,0,0,0,1,1,1,0
+471,1995,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,1996,"Cameroon","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+471,1997,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,1998,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,1999,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,2000,"Cameroon","Africa",3,1,0,0,2,0,0,1,1,1,0,0
+471,2001,"Cameroon","Africa",1,0,0,0,1,0,0,1,0,0,1,1
+471,2002,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,2003,"Cameroon","Africa",1,0,0,1,0,0,0,0,0,1,0,0
+471,2004,"Cameroon","Africa",5,0,0,0,1,0,0,0,0,1,0,0
+471,2005,"Cameroon","Africa",2,0,0,0,1,1,0,0,0,0,2,2
+471,2006,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,2007,"Cameroon","Africa",2,1,0,1,0,0,0,0,1,1,0,0
+471,2008,"Cameroon","Africa",5,0,0,0,3,1,1,0,1,1,1,1
+471,2009,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,2010,"Cameroon","Africa",4,1,0,0,2,0,1,0,0,1,1,1
+471,2011,"Cameroon","Africa",2,1,0,0,1,0,0,1,1,1,0,0
+471,2012,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,2013,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+471,2014,"Cameroon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,1990,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,1991,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,1992,"Nigeria","Africa",2,0,0,0,1,1,0,0,0,1,1,1
+475,1993,"Nigeria","Africa",2,0,0,0,1,0,0,0,0,1,0,0
+475,1994,"Nigeria","Africa",10,0,0,0,9,0,1,0,3,4,3,3
+475,1995,"Nigeria","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+475,1996,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,1997,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,1998,"Nigeria","Africa",2,0,0,0,2,0,0,0,0,1,1,1
+475,1999,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,2000,"Nigeria","Africa",2,0,0,0,1,1,0,1,0,1,1,1
+475,2001,"Nigeria","Africa",3,0,0,1,0,1,0,0,1,1,0,0
+475,2002,"Nigeria","Africa",3,0,0,0,1,0,0,0,0,1,0,0
+475,2003,"Nigeria","Africa",1,0,0,0,0,1,0,0,0,0,1,1
+475,2004,"Nigeria","Africa",2,0,0,0,1,1,0,0,2,0,0,0
+475,2005,"Nigeria","Africa",2,0,0,1,1,0,0,0,0,1,1,1
+475,2006,"Nigeria","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+475,2007,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,2008,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,2009,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,2010,"Nigeria","Africa",2,1,0,0,2,0,0,0,2,0,0,0
+475,2011,"Nigeria","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+475,2012,"Nigeria","Africa",6,0,0,0,0,2,0,0,0,1,1,1
+475,2013,"Nigeria","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+475,2014,"Nigeria","Africa",3,0,0,0,2,0,0,0,2,0,0,0
+481,1990,"Gabon","Africa",18,0,1,0,5,0,1,0,0,4,2,2
+481,1991,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,1992,"Gabon","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+481,1993,"Gabon","Africa",9,2,0,0,2,0,1,0,3,2,1,1
+481,1994,"Gabon","Africa",4,0,0,0,1,0,0,0,0,0,1,1
+481,1995,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,1996,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,1997,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,1998,"Gabon","Africa",3,1,0,0,1,0,0,0,0,2,0,0
+481,1999,"Gabon","Africa",2,0,0,0,2,0,0,0,0,2,0,0
+481,2000,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,2001,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,2002,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,2003,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,2004,"Gabon","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+481,2005,"Gabon","Africa",3,0,0,0,2,0,0,0,0,1,0,1
+481,2006,"Gabon","Africa",1,1,0,0,0,0,0,0,0,1,0,0
+481,2007,"Gabon","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+481,2008,"Gabon","Africa",5,0,0,0,0,1,0,0,1,0,0,0
+481,2009,"Gabon","Africa",6,0,0,0,3,0,1,0,1,1,1,1
+481,2010,"Gabon","Africa",1,0,0,1,0,0,0,0,0,1,0,0
+481,2011,"Gabon","Africa",2,1,0,0,2,0,0,0,1,1,0,0
+481,2012,"Gabon","Africa",1,1,0,0,0,0,0,0,0,1,0,0
+481,2013,"Gabon","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+481,2014,"Gabon","Africa",1,0,0,0,0,0,1,0,0,0,1,1
+482,1990,"Central African Republic","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+482,1991,"Central African Republic","Africa",3,0,0,0,3,0,1,0,1,2,0,0
+482,1992,"Central African Republic","Africa",2,0,0,1,2,0,0,0,1,0,1,1
+482,1993,"Central African Republic","Africa",2,2,0,0,0,0,0,0,0,2,0,0
+482,1994,"Central African Republic","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+482,1995,"Central African Republic","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+482,1996,"Central African Republic","Africa",16,5,0,0,2,0,0,0,3,0,4,3
+482,1997,"Central African Republic","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+482,1998,"Central African Republic","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+482,1999,"Central African Republic","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+482,2000,"Central African Republic","Africa",7,4,0,0,1,0,1,0,3,0,3,3
+482,2001,"Central African Republic","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+482,2002,"Central African Republic","Africa",5,2,0,0,3,0,0,0,3,0,2,2
+482,2003,"Central African Republic","Africa",1,1,0,0,0,0,0,0,0,0,1,1
+482,2004,"Central African Republic","Africa",5,4,0,1,0,0,0,0,3,0,2,2
+482,2005,"Central African Republic","Africa",2,1,0,0,1,0,0,0,2,0,0,0
+482,2006,"Central African Republic","Africa",5,2,0,1,3,0,0,0,3,0,2,2
+482,2007,"Central African Republic","Africa",2,1,0,1,0,0,0,0,0,0,2,2
+482,2008,"Central African Republic","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+482,2009,"Central African Republic","Africa",2,0,0,1,0,0,0,0,0,0,1,1
+482,2010,"Central African Republic","Africa",1,0,0,1,0,0,0,0,0,0,1,1
+482,2011,"Central African Republic","Africa",1,0,0,0,0,0,0,1,1,0,0,0
+482,2012,"Central African Republic","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+482,2013,"Central African Republic","Africa",8,0,0,5,4,0,3,1,6,1,1,1
+482,2014,"Central African Republic","Africa",1,0,0,0,1,0,1,0,0,0,1,1
+483,1990,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,1991,"Chad","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+483,1992,"Chad","Africa",2,1,0,0,2,0,0,0,1,1,0,0
+483,1993,"Chad","Africa",2,0,0,0,2,0,0,0,0,1,1,1
+483,1994,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,1995,"Chad","Africa",1,0,0,0,1,0,1,0,0,1,0,0
+483,1996,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,1997,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,1998,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,1999,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2000,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2001,"Chad","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+483,2002,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2003,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2004,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2005,"Chad","Africa",2,2,0,0,0,0,0,0,0,2,0,0
+483,2006,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2007,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2008,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2009,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2010,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2011,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2012,"Chad","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+483,2013,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+483,2014,"Chad","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,1990,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,1991,"Congo Brazzaville","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+484,1992,"Congo Brazzaville","Africa",6,1,0,0,5,0,3,0,2,3,1,1
+484,1993,"Congo Brazzaville","Africa",9,1,0,0,7,0,4,0,1,3,4,4
+484,1994,"Congo Brazzaville","Africa",2,2,0,0,0,0,0,0,1,1,0,0
+484,1995,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,1996,"Congo Brazzaville","Africa",1,1,0,0,0,0,0,0,0,1,0,0
+484,1997,"Congo Brazzaville","Africa",7,0,0,0,2,0,0,0,1,1,0,0
+484,1998,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,1999,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2000,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2001,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2002,"Congo Brazzaville","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+484,2003,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2004,"Congo Brazzaville","Africa",2,2,0,0,0,0,0,0,2,0,0,0
+484,2005,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2006,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2007,"Congo Brazzaville","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+484,2008,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2009,"Congo Brazzaville","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+484,2010,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2011,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+484,2012,"Congo Brazzaville","Africa",2,0,0,0,2,0,0,0,0,2,0,0
+484,2013,"Congo Brazzaville","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+484,2014,"Congo Brazzaville","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+490,1990,"Congo Kinshasa","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+490,1991,"Congo Kinshasa","Africa",4,0,0,0,3,0,1,0,0,2,2,2
+490,1992,"Congo Kinshasa","Africa",6,1,0,0,5,1,0,0,1,2,3,3
+490,1993,"Congo Kinshasa","Africa",5,2,0,0,1,0,1,0,1,1,1,1
+490,1994,"Congo Kinshasa","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+490,1995,"Congo Kinshasa","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+490,1996,"Congo Kinshasa","Africa",1,0,0,0,0,0,1,0,0,1,0,0
+490,1997,"Congo Kinshasa","Africa",4,0,0,0,2,0,2,0,3,0,1,0
+490,1998,"Congo Kinshasa","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+490,1999,"Congo Kinshasa","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+490,2000,"Congo Kinshasa","Africa",1,0,0,0,1,0,0,1,1,0,0,0
+490,2001,"Congo Kinshasa","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+490,2002,"Congo Kinshasa","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+490,2003,"Congo Kinshasa","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+490,2004,"Congo Kinshasa","Africa",2,0,0,0,1,0,0,0,0,0,1,1
+490,2005,"Congo Kinshasa","Africa",4,0,0,0,4,0,0,0,0,1,3,3
+490,2006,"Congo Kinshasa","Africa",9,0,0,1,7,0,0,0,1,4,3,3
+490,2007,"Congo Kinshasa","Africa",6,2,0,1,3,0,0,0,2,1,2,2
+490,2008,"Congo Kinshasa","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+490,2009,"Congo Kinshasa","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+490,2010,"Congo Kinshasa","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+490,2011,"Congo Kinshasa","Africa",3,0,0,0,3,0,0,0,1,1,1,1
+490,2012,"Congo Kinshasa","Africa",2,0,0,0,1,0,0,0,0,1,0,0
+490,2013,"Congo Kinshasa","Africa",1,0,0,1,0,0,0,0,0,0,1,1
+490,2014,"Congo Kinshasa","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,1990,"Uganda","Africa",10,0,0,0,2,0,0,0,1,0,1,1
+500,1991,"Uganda","Africa",9,1,0,0,1,1,0,0,1,0,1,2
+500,1992,"Uganda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,1993,"Uganda","Africa",4,0,0,0,2,0,0,0,0,0,2,2
+500,1994,"Uganda","Africa",7,0,0,0,2,1,0,0,1,1,1,1
+500,1995,"Uganda","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+500,1996,"Uganda","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+500,1997,"Uganda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,1998,"Uganda","Africa",2,1,0,0,0,0,0,0,1,0,0,0
+500,1999,"Uganda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,2000,"Uganda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,2001,"Uganda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,2002,"Uganda","Africa",2,0,0,0,1,1,0,0,0,1,1,1
+500,2003,"Uganda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,2004,"Uganda","Africa",36,1,0,2,1,1,0,0,3,1,1,1
+500,2005,"Uganda","Africa",4,0,0,1,3,0,0,1,2,2,0,0
+500,2006,"Uganda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,2007,"Uganda","Africa",2,0,1,1,1,0,0,1,0,0,1,2
+500,2008,"Uganda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+500,2009,"Uganda","Africa",2,0,1,1,1,0,0,0,0,0,1,1
+500,2010,"Uganda","Africa",8,0,0,1,3,1,4,0,3,0,5,3
+500,2011,"Uganda","Africa",39,0,0,1,0,8,2,0,1,3,4,4
+500,2012,"Uganda","Africa",4,0,0,0,1,0,2,0,2,0,0,1
+500,2013,"Uganda","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+500,2014,"Uganda","Africa",2,0,0,0,0,0,0,2,2,0,0,0
+501,1990,"Kenya","Africa",6,0,0,0,5,0,0,0,3,0,2,2
+501,1991,"Kenya","Africa",2,0,0,0,2,0,1,0,2,0,0,0
+501,1992,"Kenya","Africa",3,0,0,0,2,0,0,0,1,0,1,1
+501,1993,"Kenya","Africa",2,0,0,0,2,0,0,0,0,0,1,2
+501,1994,"Kenya","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+501,1995,"Kenya","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+501,1996,"Kenya","Africa",2,1,0,1,0,0,0,0,0,0,1,2
+501,1997,"Kenya","Africa",14,0,0,2,7,0,1,0,2,1,3,3
+501,1998,"Kenya","Africa",4,0,0,0,3,1,0,0,3,1,0,0
+501,1999,"Kenya","Africa",4,1,1,1,2,0,1,0,0,0,2,2
+501,2000,"Kenya","Africa",3,0,1,0,2,0,0,0,2,1,0,0
+501,2001,"Kenya","Africa",3,1,1,0,1,1,0,0,1,1,1,1
+501,2002,"Kenya","Africa",6,0,1,1,3,0,3,0,5,0,0,1
+501,2003,"Kenya","Africa",9,0,0,1,1,1,0,0,1,1,0,0
+501,2004,"Kenya","Africa",4,0,2,0,2,0,0,0,2,0,2,2
+501,2005,"Kenya","Africa",8,0,0,0,6,0,2,0,2,1,2,3
+501,2006,"Kenya","Africa",6,1,1,0,5,0,1,0,4,1,1,1
+501,2007,"Kenya","Africa",6,0,0,0,4,0,1,0,1,2,1,1
+501,2008,"Kenya","Africa",17,0,0,1,11,0,1,1,5,4,4,4
+501,2009,"Kenya","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+501,2010,"Kenya","Africa",44,12,4,6,28,7,7,2,32,5,4,3
+501,2011,"Kenya","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+501,2012,"Kenya","Africa",63,8,3,8,27,2,3,0,33,5,3,4
+501,2013,"Kenya","Africa",50,3,1,6,10,3,1,1,11,7,2,2
+501,2014,"Kenya","Africa",3,0,0,1,1,0,0,1,2,0,1,1
+510,1990,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,1991,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,1992,"Tanzania","Africa",1,0,0,0,1,0,1,0,1,0,0,0
+510,1993,"Tanzania","Africa",2,1,0,0,1,0,0,0,2,0,0,0
+510,1994,"Tanzania","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+510,1995,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,1996,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,1997,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,1998,"Tanzania","Africa",2,0,0,0,1,0,0,1,0,1,1,1
+510,1999,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,2000,"Tanzania","Africa",2,0,0,0,2,0,0,0,0,1,1,1
+510,2001,"Tanzania","Africa",4,0,0,0,3,0,0,0,2,0,1,1
+510,2002,"Tanzania","Africa",4,2,0,0,1,0,0,0,3,0,0,0
+510,2003,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,2004,"Tanzania","Africa",2,1,0,1,1,0,0,1,1,0,1,1
+510,2005,"Tanzania","Africa",2,0,0,0,1,0,0,0,0,0,1,1
+510,2006,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,2007,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,2008,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,2009,"Tanzania","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+510,2010,"Tanzania","Africa",5,0,1,0,3,0,1,0,3,0,1,2
+510,2011,"Tanzania","Africa",8,2,1,1,4,1,0,0,4,2,2,2
+510,2012,"Tanzania","Africa",3,0,0,1,2,0,1,0,1,1,1,1
+510,2013,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+510,2014,"Tanzania","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,1990,"Burundi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,1991,"Burundi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,1992,"Burundi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,1993,"Burundi","Africa",8,0,0,0,8,0,0,3,7,0,1,1
+516,1994,"Burundi","Africa",6,0,0,0,5,0,0,0,3,1,1,1
+516,1995,"Burundi","Africa",3,0,0,0,2,0,2,0,3,0,0,0
+516,1996,"Burundi","Africa",8,0,0,0,6,0,5,0,6,1,0,1
+516,1997,"Burundi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,1998,"Burundi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,1999,"Burundi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,2000,"Burundi","Africa",3,0,0,0,2,0,1,0,0,1,0,2
+516,2001,"Burundi","Africa",1,0,0,1,1,0,0,0,1,0,0,0
+516,2002,"Burundi","Africa",7,0,0,0,4,0,0,0,1,1,2,2
+516,2003,"Burundi","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+516,2004,"Burundi","Africa",23,0,1,0,1,0,0,0,1,1,0,0
+516,2005,"Burundi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,2006,"Burundi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+516,2007,"Burundi","Africa",3,1,0,1,1,0,0,0,1,1,1,1
+516,2008,"Burundi","Africa",5,1,0,2,2,0,0,0,2,1,1,1
+516,2009,"Burundi","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+516,2010,"Burundi","Africa",2,0,0,0,2,0,0,0,0,2,0,0
+516,2011,"Burundi","Africa",4,0,0,2,4,0,0,1,2,2,0,0
+516,2012,"Burundi","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+516,2013,"Burundi","Africa",2,0,1,0,2,0,0,1,0,1,1,1
+516,2014,"Burundi","Africa",2,0,0,0,1,0,0,1,1,0,1,1
+517,1990,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,1991,"Rwanda","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+517,1992,"Rwanda","Africa",3,0,0,0,3,0,0,0,1,1,0,1
+517,1993,"Rwanda","Africa",3,0,0,0,3,0,0,0,1,2,0,0
+517,1994,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,1995,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,1996,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,1997,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,1998,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,1999,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2000,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2001,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2002,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2003,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2004,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2005,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2006,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2007,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2008,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2009,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2010,"Rwanda","Africa",1,0,0,0,0,1,0,1,1,0,0,0
+517,2011,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2012,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2013,"Rwanda","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+517,2014,"Rwanda","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+520,1990,"Somalia","Africa",3,0,0,0,2,1,0,0,0,2,1,1
+520,1991,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,1992,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,1993,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,1994,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,1995,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,1996,"Somalia","Africa",4,0,0,0,1,3,0,0,4,0,0,0
+520,1997,"Somalia","Africa",2,0,0,0,2,0,0,0,1,0,1,1
+520,1998,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,1999,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,2000,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,2001,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,2002,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,2003,"Somalia","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+520,2004,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,2005,"Somalia","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+520,2006,"Somalia","Africa",5,0,0,0,5,0,0,1,3,2,0,0
+520,2007,"Somalia","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+520,2008,"Somalia","Africa",2,0,0,0,0,1,0,0,0,0,1,1
+520,2009,"Somalia","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+520,2010,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,2011,"Somalia","Africa",2,0,0,0,1,1,0,0,0,1,1,1
+520,2012,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,2013,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+520,2014,"Somalia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,1990,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,1991,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,1992,"Djibouti","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+522,1993,"Djibouti","Africa",1,0,0,0,0,0,0,1,1,0,0,0
+522,1994,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,1995,"Djibouti","Africa",1,0,0,0,0,1,0,0,1,0,0,0
+522,1996,"Djibouti","Africa",1,0,0,0,0,0,0,1,0,0,1,0
+522,1997,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,1998,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,1999,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2000,"Djibouti","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+522,2001,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2002,"Djibouti","Africa",1,1,0,0,1,0,0,0,0,0,1,1
+522,2003,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2004,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2005,"Djibouti","Africa",2,0,1,0,1,0,0,0,0,1,1,1
+522,2006,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2007,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2008,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2009,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2010,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2011,"Djibouti","Africa",2,0,0,0,0,0,1,0,0,0,1,1
+522,2012,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+522,2013,"Djibouti","Africa",2,0,0,0,1,0,0,0,0,0,1,1
+522,2014,"Djibouti","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+525,2011,"South Sudan","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+525,2012,"South Sudan","Africa",2,0,0,1,1,0,0,0,0,0,1,1
+525,2013,"South Sudan","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+525,2014,"South Sudan","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,1990,"Ethiopia","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+530,1991,"Ethiopia","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+530,1992,"Ethiopia","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+530,1993,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,1994,"Ethiopia","Africa",2,0,0,0,2,0,0,1,2,0,0,0
+530,1995,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,1996,"Ethiopia","Africa",2,0,0,0,0,2,0,0,2,0,0,0
+530,1997,"Ethiopia","Africa",1,0,1,0,0,0,0,0,1,0,0,0
+530,1998,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,1999,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,2000,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,2001,"Ethiopia","Africa",6,0,0,0,3,0,0,0,1,0,2,2
+530,2002,"Ethiopia","Africa",5,0,1,0,2,0,0,0,1,0,2,2
+530,2003,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,2004,"Ethiopia","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+530,2005,"Ethiopia","Africa",5,0,0,0,2,0,0,0,0,0,2,2
+530,2006,"Ethiopia","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+530,2007,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,2008,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,2009,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,2010,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,2011,"Ethiopia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+530,2012,"Ethiopia","Africa",2,0,0,0,2,0,0,0,1,0,1,1
+530,2013,"Ethiopia","Africa",2,0,1,0,0,0,0,0,0,1,0,0
+530,2014,"Ethiopia","Africa",2,0,1,0,1,0,0,0,1,0,1,0
+531,1990,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1991,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1992,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1993,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1994,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1995,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1996,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1997,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1998,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,1999,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2000,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2001,"Eritrea","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+531,2002,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2003,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2004,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2005,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2006,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2007,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2008,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2009,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2010,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2011,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2012,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+531,2013,"Eritrea","Africa",2,0,0,0,1,0,0,0,1,0,0,0
+531,2014,"Eritrea","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,1990,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,1991,"Angola","Africa",1,1,0,0,0,0,0,0,0,1,0,0
+540,1992,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,1993,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,1994,"Angola","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+540,1995,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,1996,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,1997,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,1998,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,1999,"Angola","Africa",1,0,0,0,0,1,0,0,0,0,1,0
+540,2000,"Angola","Africa",2,0,0,0,0,2,0,0,1,0,1,0
+540,2001,"Angola","Africa",1,0,1,0,0,0,0,0,0,0,1,1
+540,2002,"Angola","Africa",1,0,0,0,1,0,0,0,0,0,0,1
+540,2003,"Angola","Africa",3,0,0,0,1,1,1,0,3,0,0,0
+540,2004,"Angola","Africa",1,0,0,0,0,0,1,0,1,0,0,0
+540,2005,"Angola","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+540,2006,"Angola","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+540,2007,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,2008,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,2009,"Angola","Africa",1,0,1,0,0,0,0,0,1,0,0,0
+540,2010,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,2011,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+540,2012,"Angola","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+540,2013,"Angola","Africa",2,0,0,2,0,0,0,0,2,0,0,0
+540,2014,"Angola","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+541,1990,"Mozambique","Africa",3,2,0,0,0,0,0,0,0,1,1,0
+541,1991,"Mozambique","Africa",1,1,0,0,0,0,0,0,0,0,1,1
+541,1992,"Mozambique","Africa",8,6,0,0,0,0,0,0,5,0,0,1
+541,1993,"Mozambique","Africa",5,2,0,0,1,2,0,0,0,2,2,2
+541,1994,"Mozambique","Africa",7,3,0,0,4,2,0,0,1,3,1,2
+541,1995,"Mozambique","Africa",4,2,0,0,0,1,0,0,0,2,1,1
+541,1996,"Mozambique","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+541,1997,"Mozambique","Africa",3,0,0,0,2,0,0,0,2,0,0,0
+541,1998,"Mozambique","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+541,1999,"Mozambique","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+541,2000,"Mozambique","Africa",2,0,0,0,1,0,0,0,0,0,1,1
+541,2001,"Mozambique","Africa",19,1,0,0,0,0,0,0,0,1,0,0
+541,2002,"Mozambique","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+541,2003,"Mozambique","Africa",2,2,0,0,0,0,0,0,1,1,0,0
+541,2004,"Mozambique","Africa",6,3,0,0,0,0,0,0,2,0,1,0
+541,2005,"Mozambique","Africa",5,1,0,0,0,0,0,0,0,0,1,0
+541,2006,"Mozambique","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+541,2007,"Mozambique","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+541,2008,"Mozambique","Africa",2,0,0,0,0,2,0,0,0,1,1,1
+541,2009,"Mozambique","Africa",32,0,0,0,1,0,0,0,1,0,0,0
+541,2010,"Mozambique","Africa",5,1,0,0,2,1,0,0,1,0,3,3
+541,2011,"Mozambique","Africa",4,1,1,0,2,0,0,0,3,0,1,1
+541,2012,"Mozambique","Africa",5,1,1,0,1,1,0,1,2,2,1,0
+541,2013,"Mozambique","Africa",8,5,0,1,2,0,0,0,5,0,3,2
+541,2014,"Mozambique","Africa",6,2,0,0,2,0,0,2,5,1,0,0
+551,1990,"Zambia","Africa",3,0,0,0,0,1,0,0,0,0,1,1
+551,1991,"Zambia","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+551,1992,"Zambia","Africa",6,0,0,0,3,2,0,0,3,1,1,1
+551,1993,"Zambia","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+551,1994,"Zambia","Africa",4,0,0,1,3,0,0,0,2,2,0,0
+551,1995,"Zambia","Africa",5,1,0,0,2,0,0,0,1,1,1,1
+551,1996,"Zambia","Africa",5,0,0,0,5,0,1,0,3,2,0,0
+551,1997,"Zambia","Africa",15,3,0,1,8,0,0,0,8,3,1,1
+551,1998,"Zambia","Africa",5,3,0,0,3,0,0,0,2,3,0,0
+551,1999,"Zambia","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+551,2000,"Zambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+551,2001,"Zambia","Africa",4,0,0,0,4,0,0,0,3,0,1,1
+551,2002,"Zambia","Africa",2,0,0,0,1,0,0,1,1,0,1,1
+551,2003,"Zambia","Africa",2,1,0,0,1,0,0,0,1,1,0,0
+551,2004,"Zambia","Africa",2,1,0,0,1,1,0,0,1,0,1,0
+551,2005,"Zambia","Africa",7,1,0,0,4,0,0,0,3,1,1,1
+551,2006,"Zambia","Africa",2,1,0,0,1,0,0,0,0,2,0,0
+551,2007,"Zambia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+551,2008,"Zambia","Africa",1,0,0,1,0,0,0,0,0,1,0,0
+551,2009,"Zambia","Africa",2,1,0,1,0,0,0,0,2,0,0,0
+551,2010,"Zambia","Africa",2,0,0,0,1,0,1,0,1,1,0,0
+551,2011,"Zambia","Africa",7,2,0,0,2,1,1,0,3,2,1,1
+551,2012,"Zambia","Africa",16,2,1,1,1,0,1,0,3,2,1,1
+551,2013,"Zambia","Africa",5,1,0,1,3,0,0,0,3,1,0,0
+551,2014,"Zambia","Africa",11,2,0,0,4,3,0,0,4,2,1,2
+552,1990,"Zimbabwe","Africa",11,2,0,0,2,0,0,0,2,0,1,1
+552,1991,"Zimbabwe","Africa",3,0,0,0,2,0,0,0,1,0,0,1
+552,1992,"Zimbabwe","Africa",5,0,0,0,2,0,0,0,0,1,0,1
+552,1993,"Zimbabwe","Africa",4,1,0,0,1,1,1,0,3,0,0,1
+552,1994,"Zimbabwe","Africa",3,2,0,0,1,0,0,0,2,1,0,0
+552,1995,"Zimbabwe","Africa",8,0,0,2,5,0,1,2,6,1,0,1
+552,1996,"Zimbabwe","Africa",14,1,0,0,4,0,1,0,5,0,0,1
+552,1997,"Zimbabwe","Africa",6,2,0,0,2,2,0,0,3,2,0,0
+552,1998,"Zimbabwe","Africa",21,2,0,0,4,3,2,0,3,2,4,3
+552,1999,"Zimbabwe","Africa",3,1,0,1,2,0,0,0,1,1,1,0
+552,2000,"Zimbabwe","Africa",6,0,0,1,4,1,0,0,2,4,0,0
+552,2001,"Zimbabwe","Africa",1,0,0,1,0,0,0,0,0,0,1,0
+552,2002,"Zimbabwe","Africa",1,0,0,0,1,0,0,0,0,0,1,0
+552,2003,"Zimbabwe","Africa",6,0,1,1,3,0,2,0,1,1,3,1
+552,2004,"Zimbabwe","Africa",2,0,0,0,2,0,0,0,1,0,1,0
+552,2005,"Zimbabwe","Africa",2,0,1,0,1,0,0,0,0,1,1,0
+552,2006,"Zimbabwe","Africa",2,0,0,0,2,0,0,0,1,0,1,0
+552,2007,"Zimbabwe","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+552,2008,"Zimbabwe","Africa",3,1,0,0,2,1,0,0,1,0,2,0
+552,2009,"Zimbabwe","Africa",1,0,0,0,1,0,0,0,0,0,1,0
+552,2010,"Zimbabwe","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+552,2011,"Zimbabwe","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+552,2012,"Zimbabwe","Africa",1,0,0,0,0,0,1,0,1,0,0,0
+552,2013,"Zimbabwe","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+552,2014,"Zimbabwe","Africa",6,0,0,0,4,0,0,0,0,0,3,1
+553,1990,"Malawi","Africa",1,0,0,0,1,0,0,0,0,0,1,1
+553,1991,"Malawi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+553,1992,"Malawi","Africa",4,2,0,0,3,0,0,0,1,0,2,2
+553,1993,"Malawi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+553,1994,"Malawi","Africa",3,0,1,0,2,2,1,0,2,1,0,0
+553,1995,"Malawi","Africa",3,1,0,0,2,0,0,0,2,1,0,0
+553,1996,"Malawi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+553,1997,"Malawi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+553,1998,"Malawi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+553,1999,"Malawi","Africa",2,0,0,0,2,0,0,0,0,1,1,0
+553,2000,"Malawi","Africa",1,0,0,0,0,1,0,0,0,1,0,0
+553,2001,"Malawi","Africa",7,1,1,3,2,0,0,0,1,3,2,3
+553,2002,"Malawi","Africa",2,0,0,0,2,0,0,0,0,2,0,0
+553,2003,"Malawi","Africa",5,0,0,0,4,0,0,0,0,2,2,2
+553,2004,"Malawi","Africa",4,2,0,0,2,0,0,0,1,0,3,3
+553,2005,"Malawi","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+553,2006,"Malawi","Africa",3,0,0,0,3,0,0,0,3,0,0,0
+553,2007,"Malawi","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+553,2008,"Malawi","Africa",1,0,0,1,0,0,0,0,1,0,0,0
+553,2009,"Malawi","Africa",1,0,1,0,0,0,0,0,1,0,0,0
+553,2010,"Malawi","Africa",2,0,0,0,0,0,0,1,1,0,0,0
+553,2011,"Malawi","Africa",2,0,0,0,0,1,1,0,0,0,1,1
+553,2012,"Malawi","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+553,2013,"Malawi","Africa",3,0,0,1,3,0,0,0,1,2,0,0
+553,2014,"Malawi","Africa",4,1,0,0,3,0,0,0,2,1,1,1
+560,1990,"South Africa","Africa",32,0,0,1,21,5,3,0,12,3,10,8
+560,1991,"South Africa","Africa",44,0,0,0,13,1,0,1,9,2,2,2
+560,1992,"South Africa","Africa",26,0,0,0,19,1,0,0,13,3,3,3
+560,1993,"South Africa","Africa",17,0,0,0,11,0,0,0,3,5,3,3
+560,1994,"South Africa","Africa",27,2,0,0,14,0,0,0,6,6,3,3
+560,1995,"South Africa","Africa",5,1,0,0,4,0,1,0,2,2,1,1
+560,1996,"South Africa","Africa",7,0,0,0,7,0,0,0,2,3,1,2
+560,1997,"South Africa","Africa",2,0,0,0,2,0,0,0,0,0,2,2
+560,1998,"South Africa","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+560,1999,"South Africa","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+560,2000,"South Africa","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+560,2001,"South Africa","Africa",5,0,4,0,1,0,0,0,5,0,0,0
+560,2002,"South Africa","Africa",2,0,1,0,1,0,0,0,1,1,0,0
+560,2003,"South Africa","Africa",3,0,0,0,3,0,1,0,3,0,0,0
+560,2004,"South Africa","Africa",5,1,0,0,2,0,0,0,2,0,0,0
+560,2005,"South Africa","Africa",2,0,1,0,1,1,0,0,0,2,0,0
+560,2006,"South Africa","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+560,2007,"South Africa","Africa",3,1,0,0,3,0,0,0,2,1,0,0
+560,2008,"South Africa","Africa",4,0,0,0,2,2,0,0,4,0,0,0
+560,2009,"South Africa","Africa",5,2,0,0,3,0,0,0,1,4,0,0
+560,2010,"South Africa","Africa",3,3,0,0,0,0,0,0,2,1,0,0
+560,2011,"South Africa","Africa",2,0,0,0,1,0,1,0,1,1,0,0
+560,2012,"South Africa","Africa",3,1,0,1,2,1,0,0,2,0,1,1
+560,2013,"South Africa","Africa",5,0,1,0,5,0,0,0,2,2,1,1
+560,2014,"South Africa","Africa",4,0,0,0,4,0,0,0,2,2,0,0
+565,1990,"Namibia","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+565,1991,"Namibia","Africa",2,1,0,0,1,0,0,0,0,2,0,0
+565,1992,"Namibia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+565,1993,"Namibia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+565,1994,"Namibia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+565,1995,"Namibia","Africa",1,1,0,0,0,0,0,0,0,0,1,1
+565,1996,"Namibia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+565,1997,"Namibia","Africa",56,1,0,0,10,0,0,0,8,3,0,0
+565,1998,"Namibia","Africa",190,1,0,0,9,0,1,0,9,0,0,0
+565,1999,"Namibia","Africa",10,0,0,0,9,0,1,0,10,0,0,0
+565,2000,"Namibia","Africa",33,2,0,0,3,0,0,2,6,0,0,0
+565,2001,"Namibia","Africa",17,0,0,0,6,0,1,0,6,0,0,0
+565,2002,"Namibia","Africa",5,1,1,0,3,0,0,1,4,1,0,0
+565,2003,"Namibia","Africa",7,0,0,0,7,1,0,0,7,0,0,0
+565,2004,"Namibia","Africa",11,0,0,0,9,0,0,3,10,1,0,0
+565,2005,"Namibia","Africa",24,3,1,0,16,1,4,1,22,1,0,0
+565,2006,"Namibia","Africa",22,1,0,1,13,0,1,0,11,2,0,0
+565,2007,"Namibia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+565,2008,"Namibia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+565,2009,"Namibia","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+565,2010,"Namibia","Africa",62,4,2,2,11,4,0,6,15,2,0,0
+565,2011,"Namibia","Africa",318,10,0,1,9,0,1,0,11,3,2,2
+565,2012,"Namibia","Africa",128,7,4,0,9,0,5,2,17,1,0,0
+565,2013,"Namibia","Africa",84,7,2,0,9,0,0,2,10,2,1,0
+565,2014,"Namibia","Africa",11,0,5,0,8,4,0,0,10,1,0,0
+570,1990,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,1991,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,1992,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,1993,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,1994,"Lesotho","Africa",5,0,0,0,5,0,0,0,2,0,3,3
+570,1995,"Lesotho","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+570,1996,"Lesotho","Africa",2,0,0,1,1,0,0,0,2,0,0,0
+570,1997,"Lesotho","Africa",4,0,0,0,1,0,4,0,3,1,0,0
+570,1998,"Lesotho","Africa",55,0,0,0,4,0,0,0,3,0,1,1
+570,1999,"Lesotho","Africa",2,0,0,0,2,0,0,0,2,0,0,0
+570,2000,"Lesotho","Africa",2,0,0,0,1,0,2,0,1,1,0,0
+570,2001,"Lesotho","Africa",2,2,0,0,1,0,2,0,1,0,0,1
+570,2002,"Lesotho","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+570,2003,"Lesotho","Africa",5,2,0,0,3,0,0,0,2,1,2,2
+570,2004,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,2005,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,2006,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,2007,"Lesotho","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+570,2008,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,2009,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,2010,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,2011,"Lesotho","Africa",4,1,0,0,1,0,0,0,1,0,1,1
+570,2012,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,2013,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+570,2014,"Lesotho","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,1990,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,1991,"Botswana","Africa",2,1,0,0,1,0,0,0,2,0,0,0
+571,1992,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,1993,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,1994,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,1995,"Botswana","Africa",4,0,0,0,2,0,0,0,0,1,1,1
+571,1996,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,1997,"Botswana","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+571,1998,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,1999,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,2000,"Botswana","Africa",2,1,0,0,2,0,0,0,1,1,0,0
+571,2001,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,2002,"Botswana","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+571,2003,"Botswana","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+571,2004,"Botswana","Africa",6,3,0,1,3,0,1,0,5,1,0,0
+571,2005,"Botswana","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+571,2006,"Botswana","Africa",13,0,0,0,4,1,0,1,3,2,0,0
+571,2007,"Botswana","Africa",2,1,0,0,1,0,0,0,2,0,0,0
+571,2008,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,2009,"Botswana","Africa",5,1,0,0,4,1,1,0,3,1,0,1
+571,2010,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,2011,"Botswana","Africa",4,1,0,0,2,0,2,0,1,2,0,0
+571,2012,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,2013,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+571,2014,"Botswana","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+572,1990,"Swaziland","Africa",1,0,0,0,1,0,0,0,0,0,0,1
+572,1991,"Swaziland","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+572,1992,"Swaziland","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+572,1993,"Swaziland","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+572,1994,"Swaziland","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+572,1995,"Swaziland","Africa",2,0,0,0,1,0,0,0,0,0,1,1
+572,1996,"Swaziland","Africa",10,3,0,0,7,0,0,0,7,1,1,2
+572,1997,"Swaziland","Africa",8,3,0,0,6,0,0,0,5,0,2,2
+572,1998,"Swaziland","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+572,1999,"Swaziland","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+572,2000,"Swaziland","Africa",5,0,0,0,5,0,0,0,4,0,1,0
+572,2001,"Swaziland","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+572,2002,"Swaziland","Africa",4,0,0,0,3,0,0,1,3,0,0,0
+572,2003,"Swaziland","Africa",8,1,0,0,3,0,0,0,3,0,1,1
+572,2004,"Swaziland","Africa",4,0,0,0,4,1,0,2,3,0,1,1
+572,2005,"Swaziland","Africa",6,1,0,0,3,2,0,0,5,0,1,0
+572,2006,"Swaziland","Africa",2,0,0,0,2,1,0,0,1,0,0,1
+572,2007,"Swaziland","Africa",2,0,0,0,2,0,0,0,0,1,0,1
+572,2008,"Swaziland","Africa",8,3,0,0,4,0,0,0,3,2,0,1
+572,2009,"Swaziland","Africa",2,0,0,0,2,0,0,0,1,0,1,0
+572,2010,"Swaziland","Africa",3,0,0,0,3,0,0,0,3,0,0,0
+572,2011,"Swaziland","Africa",18,3,0,1,8,0,2,0,8,0,3,1
+572,2012,"Swaziland","Africa",18,8,0,1,7,0,0,1,7,1,6,3
+572,2013,"Swaziland","Africa",5,0,0,0,4,0,0,1,4,0,1,0
+572,2014,"Swaziland","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,1990,"Madagascar","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+580,1991,"Madagascar","Africa",30,0,0,0,15,0,13,0,12,1,4,4
+580,1992,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,1993,"Madagascar","Africa",5,0,0,0,1,0,0,0,0,0,1,1
+580,1994,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,1995,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,1996,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,1997,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,1998,"Madagascar","Africa",3,0,0,0,3,0,0,0,3,0,0,0
+580,1999,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,2000,"Madagascar","Africa",19,0,0,0,1,0,1,0,0,1,0,0
+580,2001,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,2002,"Madagascar","Africa",46,0,0,0,2,0,6,0,1,3,2,2
+580,2003,"Madagascar","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+580,2004,"Madagascar","Africa",6,5,0,0,0,1,0,0,4,2,0,0
+580,2005,"Madagascar","Africa",2,0,0,0,2,0,0,0,1,1,0,0
+580,2006,"Madagascar","Africa",2,0,0,0,2,0,1,0,1,1,0,0
+580,2007,"Madagascar","Africa",15,0,0,0,3,0,0,0,0,0,2,3
+580,2008,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,2009,"Madagascar","Africa",21,0,0,0,7,0,2,0,3,0,4,4
+580,2010,"Madagascar","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+580,2011,"Madagascar","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+580,2012,"Madagascar","Africa",2,0,0,0,2,0,0,0,0,1,1,1
+580,2013,"Madagascar","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+580,2014,"Madagascar","Africa",5,0,0,0,2,0,0,0,0,1,1,1
+581,1990,"Comoros","Africa",2,0,0,0,2,0,0,0,1,0,1,1
+581,1991,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+581,1992,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+581,1993,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+581,1994,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+581,1995,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+581,1996,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+581,1997,"Comoros","Africa",16,3,0,0,10,0,2,0,3,4,4,6
+581,1998,"Comoros","Africa",5,1,0,0,3,0,1,0,2,0,1,1
+581,1999,"Comoros","Africa",3,0,0,0,1,0,0,0,0,1,0,0
+581,2000,"Comoros","Africa",4,0,0,0,3,1,0,0,3,1,0,0
+581,2001,"Comoros","Africa",8,2,0,2,1,0,0,0,1,2,1,1
+581,2002,"Comoros","Africa",4,0,0,0,3,0,0,0,1,1,1,1
+581,2003,"Comoros","Africa",7,0,0,0,4,3,1,0,3,1,2,2
+581,2004,"Comoros","Africa",1,0,0,0,1,0,0,0,0,1,0,0
+581,2005,"Comoros","Africa",6,2,0,0,2,1,0,0,1,0,3,3
+581,2006,"Comoros","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+581,2007,"Comoros","Africa",3,0,0,1,3,0,1,0,2,0,1,1
+581,2008,"Comoros","Africa",1,1,0,0,1,1,0,0,1,0,0,0
+581,2009,"Comoros","Africa",1,0,0,0,1,0,1,0,1,0,0,0
+581,2010,"Comoros","Africa",7,0,0,0,6,0,0,0,1,4,1,1
+581,2011,"Comoros","Africa",1,0,0,0,0,1,0,0,1,0,0,0
+581,2012,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+581,2013,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+581,2014,"Comoros","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1990,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1991,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1992,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1993,"Mauritius","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+590,1994,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1995,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1996,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1997,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1998,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,1999,"Mauritius","Africa",5,0,0,1,1,0,0,0,0,1,1,1
+590,2000,"Mauritius","Africa",4,3,0,0,2,0,1,0,4,0,0,0
+590,2001,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,2002,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,2003,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,2004,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,2005,"Mauritius","Africa",5,1,0,0,0,0,0,0,1,0,0,0
+590,2006,"Mauritius","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+590,2007,"Mauritius","Africa",1,0,0,0,1,0,0,0,1,0,0,0
+590,2008,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,2009,"Mauritius","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+590,2010,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,2011,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,2012,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+590,2013,"Mauritius","Africa",1,1,0,0,0,0,0,0,1,0,0,0
+590,2014,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
+600,1990,"Morocco","MENA",2,0,0,0,0,1,0,0,0,1,0,0
+600,1991,"Morocco","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+600,1992,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,1993,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,1994,"Morocco","MENA",1,0,0,0,1,0,0,0,0,1,0,0
+600,1995,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,1996,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,1997,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,1998,"Morocco","MENA",1,0,0,0,0,1,0,0,0,1,0,0
+600,1999,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2000,"Morocco","MENA",4,0,0,0,1,0,0,2,2,1,0,0
+600,2001,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2002,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2003,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2004,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2005,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2006,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2007,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2008,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2009,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2010,"Morocco","MENA",1,0,0,0,1,0,0,0,0,0,1,1
+600,2011,"Morocco","MENA",944,0,0,0,6,1,1,0,4,1,1,1
+600,2012,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2013,"Morocco","MENA",3,0,0,1,1,1,0,0,2,0,0,1
+600,2014,"Morocco","MENA",3,0,0,0,3,0,0,0,3,0,0,0
+615,1990,"Algeria","MENA",2,0,0,0,2,0,0,0,2,0,0,0
+615,1991,"Algeria","MENA",18,0,0,0,2,0,0,0,0,0,2,2
+615,1992,"Algeria","MENA",9,0,0,0,6,0,0,0,2,0,4,4
+615,1993,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,1994,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,1995,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,1996,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,1997,"Algeria","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+615,1998,"Algeria","MENA",2,0,0,0,1,0,0,0,0,0,1,1
+615,1999,"Algeria","MENA",1,0,0,0,1,0,0,0,0,0,1,0
+615,2000,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2001,"Algeria","MENA",9,0,0,3,2,1,0,0,3,1,2,2
+615,2002,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2003,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2004,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2005,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2006,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2007,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2008,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2009,"Algeria","MENA",2,0,0,0,0,1,0,0,0,1,0,0
+615,2010,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2011,"Algeria","MENA",1,0,0,0,1,0,1,0,1,0,0,0
+615,2012,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,2013,"Algeria","MENA",2,0,0,0,1,0,0,1,2,0,0,0
+615,2014,"Algeria","MENA",14,2,1,0,7,0,7,1,6,5,0,0
+616,1990,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1991,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1992,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1993,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1994,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1995,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1996,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1997,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1998,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1999,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2000,"Tunisia","MENA",2,0,0,0,0,1,0,0,0,1,0,0
+616,2001,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2002,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2003,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2004,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2005,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2006,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2007,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2008,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2009,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2010,"Tunisia","MENA",49,1,0,0,0,4,1,0,0,0,3,4
+616,2011,"Tunisia","MENA",17,0,0,1,4,0,3,0,1,2,2,3
+616,2012,"Tunisia","MENA",3,0,0,0,1,2,0,0,1,1,1,0
+616,2013,"Tunisia","MENA",13,0,0,2,2,1,1,0,2,3,0,0
+616,2014,"Tunisia","MENA",2,0,0,0,2,1,0,0,1,1,0,0
+620,1990,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1991,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1992,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1993,"Libya","MENA",26,1,0,0,0,0,0,0,0,0,1,1
+620,1994,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1995,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1996,"Libya","MENA",1,0,0,0,1,0,0,0,0,0,1,1
+620,1997,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1998,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1999,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2000,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2001,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2002,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2003,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2004,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2005,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2006,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2007,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2008,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2009,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2010,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,2011,"Libya","MENA",14,0,0,1,3,0,4,0,3,0,4,4
+620,2012,"Libya","MENA",5,1,0,0,4,0,1,0,3,1,1,1
+620,2013,"Libya","MENA",1,0,0,0,1,0,0,0,0,1,0,0
+620,2014,"Libya","MENA",27,0,0,0,4,0,0,0,3,1,0,0
+625,1990,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1991,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1992,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1993,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1994,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1995,"Sudan","MENA",2,0,0,0,1,0,0,0,0,1,0,0
+625,1996,"Sudan","MENA",3,0,0,0,1,0,0,0,0,1,0,0
+625,1997,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1998,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1999,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2000,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2001,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2002,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2003,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2004,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2005,"Sudan","MENA",6,0,0,0,2,0,0,0,0,0,2,2
+625,2006,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2007,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2008,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2009,"Sudan","MENA",4,0,0,0,2,0,0,2,3,0,0,1
+625,2010,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2011,"Sudan","MENA",1,0,0,0,0,1,1,0,0,0,1,0
+625,2012,"Sudan","MENA",6,0,0,1,0,4,1,0,0,0,5,1
+625,2013,"Sudan","MENA",15,0,0,1,0,1,1,0,0,0,1,1
+625,2014,"Sudan","MENA",8,0,0,5,7,0,0,0,7,0,1,0
+630,1990,"Iran","MENA",1,0,0,0,1,0,0,0,0,0,1,1
+630,1991,"Iran","MENA",8,0,1,0,0,1,0,1,1,1,1,1
+630,1992,"Iran","MENA",3,0,3,0,0,0,0,0,0,2,1,1
+630,1993,"Iran","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+630,1994,"Iran","MENA",5,0,0,0,2,2,0,0,2,1,0,1
+630,1995,"Iran","MENA",1,0,0,0,0,1,0,0,0,0,1,1
+630,1996,"Iran","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+630,1997,"Iran","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+630,1998,"Iran","MENA",5,0,0,1,3,0,1,0,4,1,0,0
+630,1999,"Iran","MENA",7,0,0,0,2,0,0,2,2,0,0,2
+630,2000,"Iran","MENA",5,0,0,0,5,0,0,0,2,3,0,0
+630,2001,"Iran","MENA",6,0,0,0,5,0,0,0,1,3,1,0
+630,2002,"Iran","MENA",13,2,0,0,6,0,0,0,7,0,1,0
+630,2003,"Iran","MENA",8,0,0,0,2,0,0,0,0,2,0,0
+630,2004,"Iran","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+630,2005,"Iran","MENA",3,0,0,1,1,0,0,1,0,0,3,1
+630,2006,"Iran","MENA",5,0,0,0,1,0,1,3,2,3,0,0
+630,2007,"Iran","MENA",8,1,0,0,3,1,0,2,4,2,1,0
+630,2008,"Iran","MENA",8,0,0,0,0,1,0,0,1,0,0,0
+630,2009,"Iran","MENA",25,0,0,0,21,0,0,0,5,1,8,10
+630,2010,"Iran","MENA",3,0,0,0,3,0,0,0,2,0,1,1
+630,2011,"Iran","MENA",5,0,0,2,1,1,1,0,0,0,5,3
+630,2012,"Iran","MENA",1,0,0,0,0,1,0,0,0,0,0,1
+630,2013,"Iran","MENA",2,0,0,0,2,0,0,0,2,0,0,0
+630,2014,"Iran","MENA",4,0,0,1,2,0,1,3,4,0,0,0
+640,1990,"Turkey","MENA",8,0,0,0,1,0,0,0,0,0,1,1
+640,1991,"Turkey","MENA",2,0,0,1,1,0,0,0,0,0,2,2
+640,1992,"Turkey","MENA",2,0,0,0,1,0,0,0,0,0,1,1
+640,1993,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+640,1994,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+640,1995,"Turkey","MENA",3,0,0,0,1,0,0,0,0,0,1,1
+640,1996,"Turkey","MENA",3,1,0,1,1,0,0,0,2,0,0,1
+640,1997,"Turkey","MENA",4,0,0,0,4,0,0,0,4,0,0,0
+640,1998,"Turkey","MENA",6,0,0,0,1,0,0,2,3,0,0,0
+640,1999,"Turkey","MENA",3,0,0,2,1,0,0,0,0,2,1,1
+640,2000,"Turkey","MENA",2,0,0,1,0,1,0,0,1,0,1,0
+640,2001,"Turkey","MENA",5,0,0,0,3,2,0,0,3,2,0,0
+640,2002,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+640,2003,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+640,2004,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+640,2005,"Turkey","MENA",1,0,0,0,0,0,0,1,0,0,1,0
+640,2006,"Turkey","MENA",8,0,0,0,3,0,0,0,0,2,1,1
+640,2007,"Turkey","MENA",6,1,0,0,4,0,0,0,3,1,0,1
+640,2008,"Turkey","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+640,2009,"Turkey","MENA",5,0,0,0,1,1,0,0,0,2,0,0
+640,2010,"Turkey","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+640,2011,"Turkey","MENA",6,0,0,3,0,0,0,2,4,1,0,0
+640,2012,"Turkey","MENA",3,0,0,0,2,0,0,1,3,0,0,0
+640,2013,"Turkey","MENA",29,0,0,4,2,0,2,2,6,0,2,2
+640,2014,"Turkey","MENA",21,1,0,0,21,0,2,0,12,8,1,1
+645,1990,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,1991,"Iraq","MENA",1,0,0,0,1,0,0,0,0,1,0,0
+645,1992,"Iraq","MENA",2,0,0,0,1,0,0,0,1,0,0,0
+645,1993,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,1994,"Iraq","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+645,1995,"Iraq","MENA",15,0,0,1,0,0,0,0,0,0,1,1
+645,1996,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,1997,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,1998,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,1999,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,2000,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,2001,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,2002,"Iraq","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+645,2003,"Iraq","MENA",8,0,0,0,8,0,0,0,8,0,0,0
+645,2004,"Iraq","MENA",7,0,0,0,7,0,0,0,5,0,2,2
+645,2005,"Iraq","MENA",14,1,0,1,13,0,0,0,11,0,2,3
+645,2006,"Iraq","MENA",2,0,0,0,2,0,0,0,1,0,1,1
+645,2007,"Iraq","MENA",4,0,0,0,4,0,0,0,4,0,0,0
+645,2008,"Iraq","MENA",11,1,0,0,9,0,0,1,8,0,2,1
+645,2009,"Iraq","MENA",4,0,0,0,4,0,0,0,4,0,0,0
+645,2010,"Iraq","MENA",7,0,0,0,7,0,0,0,5,1,1,1
+645,2011,"Iraq","MENA",12,6,0,1,5,1,4,2,6,1,3,4
+645,2012,"Iraq","MENA",2,0,0,2,0,0,0,0,2,0,0,0
+645,2013,"Iraq","MENA",10,0,0,2,7,0,7,0,5,0,5,4
+645,2014,"Iraq","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+651,1990,"Egypt","MENA",2,0,0,0,1,0,1,0,0,0,2,2
+651,1991,"Egypt","MENA",5,0,0,0,1,0,0,0,1,0,1,1
+651,1992,"Egypt","MENA",4,0,0,0,1,0,0,0,1,0,0,0
+651,1993,"Egypt","MENA",3,0,0,2,1,0,1,0,1,0,2,2
+651,1994,"Egypt","MENA",3,0,0,3,0,0,0,0,2,0,1,1
+651,1995,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,1996,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,1997,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,1998,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,1999,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2000,"Egypt","MENA",1,0,0,1,0,0,0,0,0,0,1,1
+651,2001,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2002,"Egypt","MENA",13,0,0,1,3,0,0,0,2,0,1,1
+651,2003,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2004,"Egypt","MENA",5,0,0,0,1,0,0,2,3,0,0,0
+651,2005,"Egypt","MENA",6,0,0,1,1,0,5,0,6,0,0,0
+651,2006,"Egypt","MENA",3,0,0,2,1,0,1,0,2,0,1,0
+651,2007,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2008,"Egypt","MENA",4,3,0,1,0,1,1,0,1,0,3,3
+651,2009,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2010,"Egypt","MENA",150,1,0,1,0,0,1,0,3,0,0,0
+651,2011,"Egypt","MENA",101,2,0,5,18,0,6,2,9,2,6,8
+651,2012,"Egypt","MENA",32,0,0,1,9,0,8,0,7,4,3,2
+651,2013,"Egypt","MENA",75,0,0,3,20,0,1,1,9,3,10,9
+651,2014,"Egypt","MENA",18,0,0,2,17,1,0,0,7,4,7,7
+652,1990,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1991,"Syria","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+652,1992,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1993,"Syria","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+652,1994,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1995,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1996,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1997,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1998,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1999,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2000,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2001,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2002,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2003,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2004,"Syria","MENA",16,0,0,1,2,0,0,0,0,0,3,2
+652,2005,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2006,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2007,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2008,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2009,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2010,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2011,"Syria","MENA",629,0,0,2,2,0,1,0,2,0,1,1
+652,2012,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2013,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2014,"Syria","MENA",4,0,0,2,3,0,1,0,3,0,1,1
+660,1990,"Lebanon","MENA",2,0,0,1,1,0,0,0,1,0,1,1
+660,1991,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,1992,"Lebanon","MENA",11,0,0,1,2,1,0,0,3,1,0,0
+660,1993,"Lebanon","MENA",3,0,0,1,2,0,0,0,1,0,2,2
+660,1994,"Lebanon","MENA",2,0,0,0,2,0,0,0,1,1,0,0
+660,1995,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,1996,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,1997,"Lebanon","MENA",1,0,0,1,0,0,0,0,1,0,0,0
+660,1998,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,1999,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,2000,"Lebanon","MENA",3,0,0,0,2,0,0,0,2,0,0,0
+660,2001,"Lebanon","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+660,2002,"Lebanon","MENA",5,0,0,0,5,0,0,0,5,0,0,0
+660,2003,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,2004,"Lebanon","MENA",1,0,0,1,0,1,0,0,0,0,1,1
+660,2005,"Lebanon","MENA",35,0,0,0,7,0,0,0,7,0,0,0
+660,2006,"Lebanon","MENA",6,0,0,1,3,0,1,0,5,1,0,0
+660,2007,"Lebanon","MENA",2,0,0,0,0,0,2,0,1,1,0,0
+660,2008,"Lebanon","MENA",9,1,0,0,1,1,3,0,2,2,0,0
+660,2009,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,2010,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,2011,"Lebanon","MENA",4,0,0,0,4,0,0,0,4,0,0,0
+660,2012,"Lebanon","MENA",1,0,0,0,1,0,1,0,0,1,0,0
+660,2013,"Lebanon","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+660,2014,"Lebanon","MENA",11,0,1,0,4,0,0,0,4,0,0,0
+663,1990,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1991,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1992,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1993,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1994,"Jordan","MENA",2,0,0,0,2,0,0,0,2,0,0,0
+663,1995,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1996,"Jordan","MENA",4,0,0,0,0,1,0,0,0,0,1,1
+663,1997,"Jordan","MENA",2,0,0,0,1,0,0,0,1,0,1,0
+663,1998,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1999,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2000,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2001,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2002,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2003,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2004,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2005,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2006,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2007,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2008,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2009,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,2010,"Jordan","MENA",8,2,0,0,2,0,0,0,3,1,0,0
+663,2011,"Jordan","MENA",16,0,0,0,11,9,2,0,11,2,1,1
+663,2012,"Jordan","MENA",11,1,0,0,6,4,0,0,6,1,1,1
+663,2013,"Jordan","MENA",2,0,0,0,2,0,0,0,2,0,0,0
+663,2014,"Jordan","MENA",4,0,0,1,3,0,2,0,3,0,1,1
+670,1990,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1991,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1992,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1993,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1994,"Saudi Arabia","MENA",2,0,0,1,0,0,0,0,1,0,0,0
+670,1995,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1996,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1997,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1998,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1999,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2000,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2001,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2002,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2003,"Saudi Arabia","MENA",3,0,0,0,3,0,0,0,3,0,0,0
+670,2004,"Saudi Arabia","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+670,2005,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2006,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2007,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2008,"Saudi Arabia","MENA",2,0,0,0,2,0,0,0,1,0,1,1
+670,2009,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2010,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2011,"Saudi Arabia","MENA",7,1,0,0,6,0,0,0,5,0,2,2
+670,2012,"Saudi Arabia","MENA",4,0,0,1,2,0,0,1,0,1,2,1
+670,2013,"Saudi Arabia","MENA",2,0,0,0,2,0,0,0,1,0,1,1
+670,2014,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+679,1990,"Yemen","MENA",3,0,0,0,0,1,0,2,3,0,0,0
+679,1991,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,1992,"Yemen","MENA",8,0,0,0,1,1,1,0,1,0,1,1
+679,1993,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,1994,"Yemen","MENA",6,0,0,0,1,1,0,1,1,1,1,1
+679,1995,"Yemen","MENA",2,0,0,0,1,1,0,0,2,0,0,0
+679,1996,"Yemen","MENA",1,0,0,0,1,0,0,0,0,1,0,0
+679,1997,"Yemen","MENA",1,0,0,1,0,0,0,0,1,0,0,0
+679,1998,"Yemen","MENA",12,0,0,0,0,1,0,0,0,0,1,1
+679,1999,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,2000,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,2001,"Yemen","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+679,2002,"Yemen","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+679,2003,"Yemen","MENA",1,0,0,0,1,0,0,0,0,0,1,1
+679,2004,"Yemen","MENA",1,0,0,0,0,0,0,1,1,0,0,0
+679,2005,"Yemen","MENA",6,0,0,1,0,2,0,0,2,0,1,1
+679,2006,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,2007,"Yemen","MENA",1,0,0,0,1,0,0,0,0,0,1,1
+679,2008,"Yemen","MENA",7,0,0,0,4,2,0,0,4,1,1,1
+679,2009,"Yemen","MENA",14,0,0,8,7,0,0,0,7,2,5,5
+679,2010,"Yemen","MENA",6,0,0,1,3,1,1,1,3,1,2,2
+679,2011,"Yemen","MENA",73,0,0,0,58,2,54,1,20,3,34,35
+679,2012,"Yemen","MENA",4,0,0,1,4,0,0,0,3,0,1,1
+679,2013,"Yemen","MENA",3,0,0,0,2,1,0,0,2,0,1,1
+679,2014,"Yemen","MENA",119,3,2,5,26,4,6,0,27,1,5,4
+690,1990,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,1991,"Kuwait","MENA",3,0,0,0,3,0,0,0,3,0,0,0
+690,1992,"Kuwait","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+690,1993,"Kuwait","MENA",1,1,0,0,0,0,0,0,1,0,0,0
+690,1994,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,1995,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,1996,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,1997,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,1998,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,1999,"Kuwait","MENA",33,0,0,0,0,0,0,1,0,0,0,1
+690,2000,"Kuwait","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+690,2001,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2002,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2003,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2004,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2005,"Kuwait","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+690,2006,"Kuwait","MENA",1,0,0,0,1,0,0,0,1,0,0,0
+690,2007,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2008,"Kuwait","MENA",8,1,0,0,1,0,0,0,1,0,0,1
+690,2009,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2010,"Kuwait","MENA",1,0,0,0,1,0,0,0,0,0,1,0
+690,2011,"Kuwait","MENA",4,1,0,0,4,0,1,0,3,1,0,0
+690,2012,"Kuwait","MENA",18,0,0,1,10,0,0,0,9,1,1,0
+690,2013,"Kuwait","MENA",7,0,0,0,5,0,0,0,4,1,0,0
+690,2014,"Kuwait","MENA",5,0,0,5,5,0,0,0,0,5,0,0
+692,1990,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1991,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1992,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1993,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1994,"Bahrain","MENA",15,0,0,0,1,0,0,0,0,0,1,1
+692,1995,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1996,"Bahrain","MENA",4,0,0,0,4,0,0,0,1,2,1,0
+692,1997,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1998,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1999,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2000,"Bahrain","MENA",1,1,0,0,0,0,0,0,1,0,0,0
+692,2001,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2002,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2003,"Bahrain","MENA",1,0,0,0,1,0,0,0,0,1,0,0
+692,2004,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2005,"Bahrain","MENA",2,1,0,0,1,0,0,0,1,0,1,0
+692,2006,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2007,"Bahrain","MENA",5,0,1,0,2,0,0,0,1,2,0,0
+692,2008,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2009,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2010,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2011,"Bahrain","MENA",38,2,0,2,7,0,2,0,6,0,2,2
+692,2012,"Bahrain","MENA",11,2,0,1,8,0,0,1,7,1,0,1
+692,2013,"Bahrain","MENA",6,0,0,0,4,0,0,0,0,3,1,1
+692,2014,"Bahrain","MENA",10,0,1,2,7,0,0,0,4,4,0,0
+694,1990,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1991,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1992,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1993,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1994,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1995,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1996,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1997,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1998,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1999,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2000,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2001,"Qatar","MENA",6,0,0,0,1,0,0,0,1,0,0,0
+694,2002,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2003,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2004,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2005,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2006,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2007,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2008,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2009,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2010,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2011,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2012,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2013,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2014,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1990,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1991,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1992,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1993,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1994,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1995,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1996,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1997,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1998,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1999,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2000,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2001,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2002,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2003,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2004,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2005,"United Arab Emirate","MENA",1,1,0,0,0,0,0,0,1,0,0,0
+696,2006,"United Arab Emirate","MENA",1,1,0,0,0,0,0,0,0,1,0,0
+696,2007,"United Arab Emirate","MENA",1,0,0,0,0,1,0,0,0,1,0,0
+696,2008,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2009,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2010,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2011,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2012,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2013,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2014,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1990,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1991,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1992,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1993,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1994,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1995,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1996,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1997,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1998,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1999,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2000,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2001,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2002,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2003,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2004,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2005,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2006,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2007,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2008,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2009,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2010,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,2011,"Oman","MENA",28,17,0,1,18,3,2,0,18,2,1,1
+698,2012,"Oman","MENA",2,0,0,0,2,0,1,0,2,0,0,0
+698,2013,"Oman","MENA",2,1,0,0,1,0,1,0,2,0,0,0
+698,2014,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+700,1990,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1991,"Afghanistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
+700,1992,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1993,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1994,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1995,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1996,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1997,"Afghanistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
+700,1998,"Afghanistan","Asia",1,0,0,0,0,0,0,1,1,0,0,0
+700,1999,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2000,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2001,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2002,"Afghanistan","Asia",2,0,0,0,1,0,0,0,1,1,0,0
+700,2003,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2004,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2005,"Afghanistan","Asia",2,0,0,0,0,0,0,2,2,0,0,0
+700,2006,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2007,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2008,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2009,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2010,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2011,"Afghanistan","Asia",5,0,0,1,3,0,0,0,3,1,0,0
+700,2012,"Afghanistan","Asia",1,0,0,0,0,0,1,0,0,0,1,1
+700,2013,"Afghanistan","Asia",1,0,0,1,0,0,0,0,0,0,1,1
+700,2014,"Afghanistan","Asia",6,0,0,0,6,0,0,0,6,0,0,0
+701,1990,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1991,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1992,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1993,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1994,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1995,"Turkmenistan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+701,1996,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1997,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1998,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1999,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2000,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2001,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2002,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2003,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2004,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2005,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2006,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2007,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2008,"Turkmenistan","Asia",4,0,0,1,0,0,0,0,1,0,0,0
+701,2009,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2010,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2011,"Turkmenistan","Asia",1,0,1,0,0,0,0,0,1,0,0,0
+701,2012,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2013,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2014,"Turkmenistan","Asia",1,0,0,0,1,0,0,0,0,1,0,0
+702,1990,"Tajikistan","Asia",4,0,0,0,1,1,0,0,1,1,0,0
+702,1991,"Tajikistan","Asia",13,0,0,0,1,0,0,0,1,0,0,0
+702,1992,"Tajikistan","Asia",10,0,0,0,3,0,0,0,1,1,1,1
+702,1993,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,1994,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,1995,"Tajikistan","Asia",4,0,0,0,0,1,0,0,1,0,0,0
+702,1996,"Tajikistan","Asia",13,0,0,1,4,2,1,0,7,1,0,0
+702,1997,"Tajikistan","Asia",12,0,0,0,2,0,0,0,2,0,0,0
+702,1998,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,1999,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2000,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2001,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2002,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2003,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2004,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2005,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2006,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2007,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2008,"Tajikistan","Asia",4,0,0,1,1,2,0,0,4,0,0,0
+702,2009,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2010,"Tajikistan","Asia",2,0,0,0,0,2,0,0,2,0,0,0
+702,2011,"Tajikistan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+702,2012,"Tajikistan","Asia",6,0,0,2,4,0,0,0,2,0,2,2
+702,2013,"Tajikistan","Asia",3,0,0,0,1,2,0,0,3,0,0,0
+702,2014,"Tajikistan","Asia",1,0,0,1,0,0,0,0,0,0,1,1
+703,1990,"Kyrgyzstan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+703,1991,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1992,"Kyrgyzstan","Asia",1,0,0,0,0,1,0,0,0,1,0,0
+703,1993,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1994,"Kyrgyzstan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+703,1995,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1996,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1997,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1998,"Kyrgyzstan","Asia",2,1,0,0,1,0,0,0,2,0,0,0
+703,1999,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,2000,"Kyrgyzstan","Asia",8,0,0,0,5,0,0,0,4,1,0,0
+703,2001,"Kyrgyzstan","Asia",2,0,1,0,1,0,0,0,2,0,0,0
+703,2002,"Kyrgyzstan","Asia",38,1,0,1,11,0,1,0,13,0,1,1
+703,2003,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,2004,"Kyrgyzstan","Asia",1,0,0,0,0,1,0,0,1,0,0,0
+703,2005,"Kyrgyzstan","Asia",18,0,0,0,13,0,0,0,6,5,2,1
+703,2006,"Kyrgyzstan","Asia",11,0,0,1,3,0,0,0,4,0,0,0
+703,2007,"Kyrgyzstan","Asia",9,0,0,0,2,0,0,0,2,0,0,0
+703,2008,"Kyrgyzstan","Asia",3,0,0,0,3,0,0,0,3,0,0,0
+703,2009,"Kyrgyzstan","Asia",3,0,0,0,3,0,0,0,3,0,0,0
+703,2010,"Kyrgyzstan","Asia",4,0,0,0,1,1,0,0,0,0,2,2
+703,2011,"Kyrgyzstan","Asia",96,2,1,3,31,0,6,0,25,9,0,0
+703,2012,"Kyrgyzstan","Asia",50,2,3,4,27,1,4,0,25,6,2,2
+703,2013,"Kyrgyzstan","Asia",87,1,2,1,31,0,2,0,27,7,0,0
+703,2014,"Kyrgyzstan","Asia",2,0,1,0,2,0,0,0,0,2,0,0
+704,1990,"Uzbekistan","Asia",3,0,0,0,2,0,0,0,0,0,2,2
+704,1991,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1992,"Uzbekistan","Asia",1,0,0,0,0,1,0,0,0,0,1,1
+704,1993,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1994,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1995,"Uzbekistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
+704,1996,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1997,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1998,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1999,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,2000,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,2001,"Uzbekistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
+704,2002,"Uzbekistan","Asia",2,0,0,0,1,1,0,0,2,0,0,0
+704,2003,"Uzbekistan","Asia",24,1,0,0,2,0,0,0,3,0,0,0
+704,2004,"Uzbekistan","Asia",7,0,1,0,2,2,0,1,5,1,0,0
+704,2005,"Uzbekistan","Asia",16,1,0,2,4,2,1,3,11,0,2,2
+704,2006,"Uzbekistan","Asia",1,0,0,0,0,0,0,1,0,1,0,0
+704,2007,"Uzbekistan","Asia",2,0,0,1,0,1,0,0,1,0,0,1
+704,2008,"Uzbekistan","Asia",3,0,0,0,1,1,0,1,3,0,0,0
+704,2009,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,2010,"Uzbekistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
+704,2011,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+704,2012,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+704,2013,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+704,2014,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+705,1990,"Kazakhstan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+705,1991,"Kazakhstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+705,1992,"Kazakhstan","Asia",12,0,0,1,0,0,1,0,1,0,1,1
+705,1993,"Kazakhstan","Asia",1,1,0,0,0,0,0,0,0,0,1,1
+705,1994,"Kazakhstan","Asia",17,1,0,0,0,0,1,0,2,0,0,0
+705,1995,"Kazakhstan","Asia",2,1,0,0,1,0,0,0,2,0,0,0
+705,1996,"Kazakhstan","Asia",6,1,0,0,0,0,1,4,6,0,0,0
+705,1997,"Kazakhstan","Asia",52,6,0,3,1,1,0,0,9,2,0,0
+705,1998,"Kazakhstan","Asia",5,4,0,0,0,1,0,0,5,0,0,0
+705,1999,"Kazakhstan","Asia",5,4,0,0,1,0,0,0,5,0,0,0
+705,2000,"Kazakhstan","Asia",1,1,0,0,0,0,0,0,1,0,0,0
+705,2001,"Kazakhstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+705,2002,"Kazakhstan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+705,2003,"Kazakhstan","Asia",7,0,1,0,0,0,0,0,1,0,0,0
+705,2004,"Kazakhstan","Asia",6,2,0,1,2,0,0,1,6,0,0,0
+705,2005,"Kazakhstan","Asia",3,0,0,0,1,1,0,1,3,0,0,0
+705,2006,"Kazakhstan","Asia",6,2,1,1,2,0,0,0,5,0,0,1
+705,2007,"Kazakhstan","Asia",4,1,0,0,1,2,0,0,4,0,0,0
+705,2008,"Kazakhstan","Asia",34,2,1,0,0,2,0,0,5,0,0,0
+705,2009,"Kazakhstan","Asia",14,2,0,0,2,0,0,0,4,0,0,0
+705,2010,"Kazakhstan","Asia",12,2,1,0,0,1,0,0,3,1,0,0
+705,2011,"Kazakhstan","Asia",212,1,0,4,1,0,0,0,3,0,2,2
+705,2012,"Kazakhstan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
+705,2013,"Kazakhstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+705,2014,"Kazakhstan","Asia",2,0,0,0,0,0,2,1,2,0,0,0
+710,1990,"China","Asia",7,1,0,0,2,0,0,0,2,0,1,1
+710,1991,"China","Asia",2,0,0,0,2,0,0,0,1,1,0,0
+710,1992,"China","Asia",2,0,0,0,1,0,0,0,0,1,0,0
+710,1993,"China","Asia",3,0,0,0,0,2,0,0,0,2,0,0
+710,1994,"China","Asia",2,0,1,0,0,0,0,0,0,1,0,0
+710,1995,"China","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+710,1996,"China","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+710,1997,"China","Asia",4,2,0,1,1,0,0,0,3,1,0,0
+710,1998,"China","Asia",11,2,0,0,5,0,0,0,4,1,1,2
+710,1999,"China","Asia",13,0,0,0,4,1,0,3,7,1,0,0
+710,2000,"China","Asia",23,2,0,1,4,1,0,5,5,3,4,1
+710,2001,"China","Asia",15,1,0,0,3,1,0,0,2,1,1,2
+710,2002,"China","Asia",40,1,0,0,2,0,0,0,3,0,0,0
+710,2003,"China","Asia",7,0,1,0,6,0,0,0,6,1,0,0
+710,2004,"China","Asia",63,1,3,2,6,0,0,0,9,1,1,2
+710,2005,"China","Asia",11,1,3,1,3,0,0,2,4,4,2,2
+710,2006,"China","Asia",17,0,5,0,3,1,0,1,1,7,1,1
+710,2007,"China","Asia",123,0,2,2,2,1,0,1,4,3,0,1
+710,2008,"China","Asia",30,1,1,4,14,0,0,1,9,3,7,8
+710,2009,"China","Asia",10,1,0,2,4,0,0,0,1,5,1,1
+710,2010,"China","Asia",7,1,0,0,0,0,0,2,3,0,0,0
+710,2011,"China","Asia",41,1,3,2,7,1,0,0,4,6,2,2
+710,2012,"China","Asia",38,0,0,1,20,0,0,1,10,2,7,7
+710,2013,"China","Asia",10,1,0,2,7,0,1,0,8,0,1,2
+710,2014,"China","Asia",139,4,5,7,25,0,1,5,24,7,3,5
+712,1990,"Mongolia","Asia",13,1,0,0,12,0,4,0,12,0,0,0
+712,1991,"Mongolia","Asia",3,0,0,0,3,0,1,0,3,0,0,0
+712,1992,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,1993,"Mongolia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+712,1994,"Mongolia","Asia",2,0,0,0,2,0,1,0,2,0,0,0
+712,1995,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,1996,"Mongolia","Asia",1,1,0,0,1,0,0,0,1,0,0,0
+712,1997,"Mongolia","Asia",1,1,0,0,1,1,0,0,1,0,0,0
+712,1998,"Mongolia","Asia",2,1,0,0,1,0,0,0,2,0,0,0
+712,1999,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,2000,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,2001,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,2002,"Mongolia","Asia",1,0,1,0,0,0,0,0,1,0,0,0
+712,2003,"Mongolia","Asia",1,0,1,0,0,0,0,0,1,0,0,0
+712,2004,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,2005,"Mongolia","Asia",6,1,0,0,4,0,1,0,6,0,0,0
+712,2006,"Mongolia","Asia",20,0,5,0,3,1,4,0,8,1,0,0
+712,2007,"Mongolia","Asia",1,0,0,0,0,1,0,0,1,0,0,0
+712,2008,"Mongolia","Asia",5,0,0,0,3,1,0,0,1,3,0,0
+712,2009,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,2010,"Mongolia","Asia",1,0,0,0,1,0,1,0,1,0,0,0
+712,2011,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+712,2012,"Mongolia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+712,2013,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+712,2014,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+713,1990,"Taiwan","Asia",47,0,0,2,7,0,2,0,4,4,1,2
+713,1991,"Taiwan","Asia",7,0,0,2,4,0,0,0,5,1,0,0
+713,1992,"Taiwan","Asia",40,0,0,0,8,0,1,0,6,0,1,2
+713,1993,"Taiwan","Asia",5,0,0,1,4,0,0,0,3,2,0,0
+713,1994,"Taiwan","Asia",6,1,2,1,2,0,0,0,5,0,0,1
+713,1995,"Taiwan","Asia",3,0,0,0,2,0,0,1,2,1,0,0
+713,1996,"Taiwan","Asia",11,1,0,0,4,0,0,0,3,2,0,0
+713,1997,"Taiwan","Asia",5,0,0,0,3,0,2,0,4,1,0,0
+713,1998,"Taiwan","Asia",5,1,2,0,2,0,0,0,5,0,0,0
+713,1999,"Taiwan","Asia",5,1,2,0,1,0,0,1,5,0,0,0
+713,2000,"Taiwan","Asia",9,1,0,0,3,0,1,0,4,0,0,1
+713,2001,"Taiwan","Asia",3,0,0,0,2,1,0,0,3,0,0,0
+713,2002,"Taiwan","Asia",6,4,0,0,1,1,0,0,6,0,0,0
+713,2003,"Taiwan","Asia",4,0,0,0,3,0,0,1,4,0,0,0
+713,2004,"Taiwan","Asia",13,0,0,0,9,0,0,0,5,4,0,0
+713,2005,"Taiwan","Asia",1,1,0,0,0,0,0,0,1,0,0,0
+713,2006,"Taiwan","Asia",35,1,0,0,4,0,8,0,11,2,0,0
+713,2007,"Taiwan","Asia",3,0,1,0,0,1,1,0,2,1,0,0
+713,2008,"Taiwan","Asia",68,0,1,1,2,0,0,0,4,0,0,0
+713,2009,"Taiwan","Asia",8,1,0,0,7,0,0,0,8,0,0,0
+713,2010,"Taiwan","Asia",8,0,0,0,7,0,0,0,6,1,0,0
+713,2011,"Taiwan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+713,2012,"Taiwan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+713,2013,"Taiwan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+713,2014,"Taiwan","Asia",28,0,0,0,3,0,0,1,3,0,0,1
+731,1990,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,1991,"North Korea","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+731,1992,"North Korea","Asia",1,0,0,0,0,1,0,0,0,0,1,1
+731,1993,"North Korea","Asia",5,0,0,0,1,0,0,0,0,1,0,0
+731,1994,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,1995,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,1996,"North Korea","Asia",2,1,0,0,1,0,0,0,1,0,1,1
+731,1997,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,1998,"North Korea","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+731,1999,"North Korea","Asia",1,0,0,0,1,0,0,0,0,1,0,0
+731,2000,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2001,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2002,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2003,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2004,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2005,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2006,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2007,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2008,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2009,"North Korea","Asia",1,0,0,0,0,1,0,0,1,0,0,0
+731,2010,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2011,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2012,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2013,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2014,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+732,1990,"South Korea","Asia",47,3,0,5,16,0,1,0,4,4,0,17
+732,1991,"South Korea","Asia",31,0,0,11,7,0,0,0,1,3,1,13
+732,1992,"South Korea","Asia",17,0,0,1,9,0,0,0,8,0,0,2
+732,1993,"South Korea","Asia",10,1,0,3,4,0,0,0,2,2,0,4
+732,1994,"South Korea","Asia",10,1,0,2,6,0,0,0,4,0,0,5
+732,1995,"South Korea","Asia",9,0,0,3,4,0,0,0,2,1,0,4
+732,1996,"South Korea","Asia",18,0,0,2,7,0,0,0,5,0,1,3
+732,1997,"South Korea","Asia",19,0,0,0,16,0,0,0,7,0,1,8
+732,1998,"South Korea","Asia",15,0,0,0,12,0,0,0,10,0,1,1
+732,1999,"South Korea","Asia",29,10,0,0,9,0,0,0,14,2,0,3
+732,2000,"South Korea","Asia",37,16,2,2,8,0,0,0,22,3,1,2
+732,2001,"South Korea","Asia",18,6,1,2,7,0,0,0,11,1,0,4
+732,2002,"South Korea","Asia",43,10,0,0,3,0,0,0,12,0,0,1
+732,2003,"South Korea","Asia",40,9,0,0,17,0,0,0,23,0,0,3
+732,2004,"South Korea","Asia",39,1,2,0,25,0,1,2,25,3,0,3
+732,2005,"South Korea","Asia",15,1,1,1,12,0,0,0,13,1,0,1
+732,2006,"South Korea","Asia",20,4,0,0,13,0,0,0,14,1,0,2
+732,2007,"South Korea","Asia",14,0,0,0,11,0,0,0,9,2,0,0
+732,2008,"South Korea","Asia",16,2,1,0,11,0,0,0,10,2,0,2
+732,2009,"South Korea","Asia",14,0,2,1,6,0,0,0,6,0,2,1
+732,2010,"South Korea","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+732,2011,"South Korea","Asia",34,0,0,0,2,1,0,0,3,0,0,0
+732,2012,"South Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+732,2013,"South Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+732,2014,"South Korea","Asia",4,0,0,0,4,0,0,0,4,0,0,0
+740,1990,"Japan","Asia",8,0,0,2,2,1,0,0,3,2,0,0
+740,1991,"Japan","Asia",2,1,1,0,0,0,0,0,2,0,0,0
+740,1992,"Japan","Asia",10,1,2,0,1,1,0,1,5,1,0,0
+740,1993,"Japan","Asia",2,0,0,0,0,2,0,0,2,0,0,0
+740,1994,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,1995,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,1996,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,1997,"Japan","Asia",5,0,0,0,1,2,1,0,4,0,0,0
+740,1998,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,1999,"Japan","Asia",3,1,2,0,0,0,0,0,3,0,0,0
+740,2000,"Japan","Asia",1,0,1,0,0,0,0,0,1,0,0,0
+740,2001,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,2002,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,2003,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,2004,"Japan","Asia",1,0,0,0,0,0,0,0,1,0,0,0
+740,2005,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,2006,"Japan","Asia",2,0,0,0,2,0,0,0,2,0,0,0
+740,2007,"Japan","Asia",9,0,0,0,3,0,0,0,3,0,0,0
+740,2008,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,2009,"Japan","Asia",5,2,0,0,3,0,0,0,5,0,0,0
+740,2010,"Japan","Asia",2,0,0,0,2,0,0,0,2,0,0,0
+740,2011,"Japan","Asia",1,0,1,0,1,0,0,0,0,1,0,0
+740,2012,"Japan","Asia",5,0,0,0,5,0,0,0,5,0,0,0
+740,2013,"Japan","Asia",3,0,1,0,2,0,1,0,3,0,0,0
+740,2014,"Japan","Asia",2,1,0,0,1,0,0,0,2,0,0,0
+750,1990,"India","Asia",17,0,0,1,9,0,0,0,4,2,4,4
+750,1991,"India","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+750,1992,"India","Asia",3,0,0,0,2,1,0,0,0,2,1,1
+750,1993,"India","Asia",5,0,0,1,2,0,0,0,1,0,2,2
+750,1994,"India","Asia",11,0,0,0,4,0,0,1,1,1,3,3
+750,1995,"India","Asia",8,0,0,0,1,0,0,0,0,0,1,1
+750,1996,"India","Asia",5,0,0,1,2,0,0,1,1,2,1,1
+750,1997,"India","Asia",3,0,1,1,1,0,0,0,1,1,1,1
+750,1998,"India","Asia",6,0,2,1,3,0,0,0,4,1,1,1
+750,1999,"India","Asia",7,0,1,0,0,0,0,0,1,0,0,0
+750,2000,"India","Asia",16,1,1,1,1,0,0,1,0,4,1,1
+750,2001,"India","Asia",9,0,0,3,6,0,0,0,2,5,2,2
+750,2002,"India","Asia",4,0,0,1,2,0,0,1,2,2,0,0
+750,2003,"India","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+750,2004,"India","Asia",5,0,0,1,2,0,0,1,1,2,1,1
+750,2005,"India","Asia",7,1,0,0,3,0,0,0,0,0,2,4
+750,2006,"India","Asia",14,2,3,0,4,1,0,0,4,4,2,1
+750,2007,"India","Asia",42,0,4,3,5,1,0,1,9,2,3,3
+750,2008,"India","Asia",54,0,4,1,5,1,0,2,5,3,5,4
+750,2009,"India","Asia",13,0,0,1,3,0,0,1,3,2,0,0
+750,2010,"India","Asia",66,0,0,1,5,2,0,0,4,1,3,3
+750,2011,"India","Asia",62,0,1,0,8,1,0,0,7,0,2,2
+750,2012,"India","Asia",46,0,0,1,6,3,0,0,4,3,1,2
+750,2013,"India","Asia",10,0,0,2,7,1,0,0,3,5,1,1
+750,2014,"India","Asia",16,0,0,1,10,1,0,5,8,5,0,0
+760,1990,"Bhutan","Asia",7,0,0,0,1,0,0,0,0,0,1,1
+760,1991,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1992,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1993,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1994,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1995,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1996,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1997,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1998,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1999,"Bhutan","Asia",1,0,0,0,1,0,0,1,1,0,0,0
+760,2000,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2001,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2002,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2003,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2004,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2005,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2006,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2007,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2008,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2009,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2010,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2011,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2012,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2013,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2014,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+770,1990,"Pakistan","Asia",5,0,0,0,4,0,0,1,1,2,2,2
+770,1991,"Pakistan","Asia",3,0,0,0,3,0,0,0,1,1,0,1
+770,1992,"Pakistan","Asia",8,0,0,0,5,0,0,0,3,1,1,1
+770,1993,"Pakistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+770,1994,"Pakistan","Asia",10,0,0,0,3,0,0,0,0,1,2,2
+770,1995,"Pakistan","Asia",3,0,0,1,2,0,0,0,2,0,1,1
+770,1996,"Pakistan","Asia",5,0,0,1,1,1,1,0,2,1,1,1
+770,1997,"Pakistan","Asia",2,0,0,0,2,0,0,0,0,2,0,0
+770,1998,"Pakistan","Asia",7,0,0,0,3,0,0,3,1,3,2,2
+770,1999,"Pakistan","Asia",5,0,0,0,3,0,1,1,3,1,1,0
+770,2000,"Pakistan","Asia",12,0,0,0,0,1,0,0,1,0,0,0
+770,2001,"Pakistan","Asia",14,0,0,0,10,0,2,0,5,3,3,4
+770,2002,"Pakistan","Asia",4,0,0,0,3,0,1,0,3,1,0,0
+770,2003,"Pakistan","Asia",4,0,0,0,4,0,0,0,3,0,1,1
+770,2004,"Pakistan","Asia",3,0,0,0,3,0,0,0,2,1,0,0
+770,2005,"Pakistan","Asia",8,1,0,1,4,0,0,2,5,2,1,0
+770,2006,"Pakistan","Asia",11,0,0,0,6,0,1,0,3,4,0,0
+770,2007,"Pakistan","Asia",51,0,0,0,16,0,2,2,13,2,2,4
+770,2008,"Pakistan","Asia",18,0,0,0,5,1,3,0,8,1,0,0
+770,2009,"Pakistan","Asia",6,0,0,0,4,0,0,0,0,4,0,0
+770,2010,"Pakistan","Asia",7,0,0,0,7,0,0,1,5,1,1,1
+770,2011,"Pakistan","Asia",12,0,0,2,10,0,2,1,10,2,0,0
+770,2012,"Pakistan","Asia",7,0,0,0,6,0,0,0,4,2,0,0
+770,2013,"Pakistan","Asia",16,0,0,0,7,0,2,3,5,3,0,0
+770,2014,"Pakistan","Asia",199,0,0,1,2,1,3,0,0,6,1,1
+771,1990,"Bangladesh","Asia",16,0,0,0,5,0,5,0,0,0,6,10
+771,1991,"Bangladesh","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+771,1992,"Bangladesh","Asia",6,0,0,0,6,0,0,0,0,3,0,3
+771,1993,"Bangladesh","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+771,1994,"Bangladesh","Asia",14,1,0,0,10,0,2,0,5,3,2,5
+771,1995,"Bangladesh","Asia",25,0,0,2,1,0,10,0,2,1,3,9
+771,1996,"Bangladesh","Asia",7,0,0,0,3,0,3,0,1,0,4,5
+771,1997,"Bangladesh","Asia",13,1,0,0,10,2,0,0,5,3,2,4
+771,1998,"Bangladesh","Asia",12,0,0,3,8,0,0,0,2,7,2,1
+771,1999,"Bangladesh","Asia",30,0,0,0,10,1,10,2,8,6,8,9
+771,2000,"Bangladesh","Asia",31,0,0,0,8,0,3,1,5,6,0,1
+771,2001,"Bangladesh","Asia",10,0,0,1,0,0,3,0,0,2,2,2
+771,2002,"Bangladesh","Asia",4,0,0,1,3,0,0,0,4,0,0,0
+771,2003,"Bangladesh","Asia",10,1,0,0,4,0,0,0,5,0,0,0
+771,2004,"Bangladesh","Asia",9,0,0,4,5,0,0,0,3,3,2,1
+771,2005,"Bangladesh","Asia",12,0,0,4,4,1,1,0,5,3,1,1
+771,2006,"Bangladesh","Asia",17,0,0,1,10,1,1,1,2,10,2,2
+771,2007,"Bangladesh","Asia",4,0,0,2,2,0,0,0,2,2,0,0
+771,2008,"Bangladesh","Asia",9,0,0,3,4,0,0,0,3,4,0,0
+771,2009,"Bangladesh","Asia",3,0,0,0,2,0,0,0,1,1,0,0
+771,2010,"Bangladesh","Asia",4,0,1,0,3,0,0,0,0,3,1,1
+771,2011,"Bangladesh","Asia",88,3,0,14,32,7,17,3,33,18,4,9
+771,2012,"Bangladesh","Asia",6,1,0,1,4,0,0,0,2,1,1,1
+771,2013,"Bangladesh","Asia",49,5,0,0,8,0,0,0,3,6,4,4
+771,2014,"Bangladesh","Asia",72,6,5,13,45,3,5,4,38,15,5,6
+775,1990,"Myanmar","Asia",64,0,0,0,3,0,0,0,2,0,1,1
+775,1991,"Myanmar","Asia",2,0,0,0,2,0,0,0,2,0,0,0
+775,1992,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,1993,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,1994,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,1995,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,1996,"Myanmar","Asia",13,0,0,3,5,0,0,0,7,1,0,0
+775,1997,"Myanmar","Asia",2,0,0,0,1,0,0,0,1,0,0,0
+775,1998,"Myanmar","Asia",2,0,0,0,2,0,0,0,2,0,0,0
+775,1999,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2000,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2001,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2002,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2003,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2004,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2005,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2006,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2007,"Myanmar","Asia",27,0,0,1,7,13,0,0,18,0,3,1
+775,2008,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2009,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2010,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2011,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2012,"Myanmar","Asia",19,0,1,0,0,1,0,1,2,0,0,0
+775,2013,"Myanmar","Asia",1,0,0,0,0,0,0,1,0,1,0,0
+775,2014,"Myanmar","Asia",21,0,6,1,11,1,1,0,16,0,0,0
+780,1990,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,1991,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,1992,"Sri Lanka","Asia",4,0,0,0,3,0,0,1,2,2,0,0
+780,1993,"Sri Lanka","Asia",1,0,0,1,0,0,0,0,0,1,0,0
+780,1994,"Sri Lanka","Asia",3,0,0,0,3,0,0,0,1,1,1,1
+780,1995,"Sri Lanka","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+780,1996,"Sri Lanka","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+780,1997,"Sri Lanka","Asia",2,0,0,1,1,0,0,0,1,1,0,0
+780,1998,"Sri Lanka","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+780,1999,"Sri Lanka","Asia",3,0,0,1,2,0,0,0,2,1,0,0
+780,2000,"Sri Lanka","Asia",3,0,0,0,1,0,0,0,1,0,0,0
+780,2001,"Sri Lanka","Asia",9,0,0,0,4,0,0,1,3,1,1,1
+780,2002,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,2003,"Sri Lanka","Asia",2,0,0,0,2,0,0,0,2,0,0,0
+780,2004,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,2005,"Sri Lanka","Asia",15,0,0,0,4,1,0,0,5,0,0,0
+780,2006,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,2007,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,2008,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,2009,"Sri Lanka","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+780,2010,"Sri Lanka","Asia",3,0,0,0,3,0,0,0,2,1,0,0
+780,2011,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+780,2012,"Sri Lanka","Asia",2,0,0,0,2,0,0,0,2,0,0,0
+780,2013,"Sri Lanka","Asia",6,0,0,0,5,0,0,1,5,0,1,1
+780,2014,"Sri Lanka","Asia",26,7,2,2,18,0,1,0,18,4,1,1
+790,1990,"Nepal","Asia",31,0,0,8,16,0,3,1,10,2,8,7
+790,1991,"Nepal","Asia",2,0,1,1,0,0,0,1,1,0,1,1
+790,1992,"Nepal","Asia",25,0,0,1,2,1,2,0,4,0,1,1
+790,1993,"Nepal","Asia",12,0,1,0,3,0,2,0,1,2,3,3
+790,1994,"Nepal","Asia",12,0,0,0,8,0,5,0,8,2,0,0
+790,1995,"Nepal","Asia",5,1,0,0,4,0,0,0,2,3,0,0
+790,1996,"Nepal","Asia",19,2,0,0,1,0,2,0,3,2,0,0
+790,1997,"Nepal","Asia",15,0,0,4,5,9,0,0,9,3,0,0
+790,1998,"Nepal","Asia",20,0,0,2,2,3,1,0,4,2,0,0
+790,1999,"Nepal","Asia",5,0,0,2,2,1,0,2,1,4,0,0
+790,2000,"Nepal","Asia",101,3,5,1,9,7,5,1,10,5,2,2
+790,2001,"Nepal","Asia",7,0,0,2,1,0,2,0,3,1,0,0
+790,2002,"Nepal","Asia",42,0,0,1,5,0,0,0,3,0,2,2
+790,2003,"Nepal","Asia",11,0,0,1,3,0,3,0,4,0,0,1
+790,2004,"Nepal","Asia",55,0,0,0,2,0,0,0,1,0,1,1
+790,2005,"Nepal","Asia",15,0,0,0,15,0,3,0,11,0,3,2
+790,2006,"Nepal","Asia",37,0,0,1,20,0,3,0,8,2,13,10
+790,2007,"Nepal","Asia",28,0,0,0,4,0,2,1,5,1,0,0
+790,2008,"Nepal","Asia",6,0,0,1,1,1,2,0,3,1,0,1
+790,2009,"Nepal","Asia",40,1,0,0,7,0,2,1,7,1,0,1
+790,2010,"Nepal","Asia",8,1,0,0,2,0,1,0,3,0,0,0
+790,2011,"Nepal","Asia",3,1,0,0,2,0,0,2,3,0,0,0
+790,2012,"Nepal","Asia",6,0,0,0,5,0,2,1,3,3,0,0
+790,2013,"Nepal","Asia",6,0,0,0,5,0,1,3,3,2,0,0
+790,2014,"Nepal","Asia",1,0,0,0,0,1,0,0,0,1,0,0
+800,1990,"Thailand","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+800,1991,"Thailand","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+800,1992,"Thailand","Asia",10,0,0,0,0,0,4,0,3,0,1,1
+800,1993,"Thailand","Asia",2,0,2,0,0,0,0,0,2,0,0,0
+800,1994,"Thailand","Asia",2,0,0,0,2,0,0,0,2,0,0,0
+800,1995,"Thailand","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+800,1996,"Thailand","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+800,1997,"Thailand","Asia",120,0,4,0,0,0,1,0,5,0,0,0
+800,1998,"Thailand","Asia",13,1,2,0,2,0,0,0,3,2,0,0
+800,1999,"Thailand","Asia",7,1,2,0,0,0,0,0,3,0,0,0
+800,2000,"Thailand","Asia",33,0,2,0,2,0,3,0,5,2,0,0
+800,2001,"Thailand","Asia",228,1,3,0,3,0,0,4,10,1,0,0
+800,2002,"Thailand","Asia",35,0,5,0,0,0,0,3,7,0,0,1
+800,2003,"Thailand","Asia",36,4,2,0,2,0,0,0,8,0,0,0
+800,2004,"Thailand","Asia",91,9,0,2,1,0,1,0,12,0,1,1
+800,2005,"Thailand","Asia",106,5,0,1,2,2,1,1,10,2,0,0
+800,2006,"Thailand","Asia",35,2,0,1,3,0,14,0,20,0,0,0
+800,2007,"Thailand","Asia",73,4,3,0,2,0,8,3,16,4,0,0
+800,2008,"Thailand","Asia",83,0,1,1,8,1,6,1,16,2,0,0
+800,2009,"Thailand","Asia",26,0,2,0,5,0,6,0,11,2,0,0
+800,2010,"Thailand","Asia",79,1,1,3,6,0,1,0,11,0,1,1
+800,2011,"Thailand","Asia",10,0,0,2,3,0,1,0,4,0,0,0
+800,2012,"Thailand","Asia",56,0,0,0,5,0,1,0,4,1,0,0
+800,2013,"Thailand","Asia",31,1,0,0,21,0,15,0,19,4,0,0
+800,2014,"Thailand","Asia",29,0,0,0,12,2,4,0,12,3,1,1
+811,1990,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,1991,"Cambodia","Asia",8,0,0,0,1,0,2,0,0,0,3,3
+811,1992,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,1993,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,1994,"Cambodia","Asia",17,0,0,0,1,0,0,0,0,0,1,1
+811,1995,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,1996,"Cambodia","Asia",1,1,0,0,0,0,0,0,1,0,0,0
+811,1997,"Cambodia","Asia",2,1,0,0,1,0,0,0,2,0,0,0
+811,1998,"Cambodia","Asia",33,0,0,0,5,0,0,0,2,2,1,1
+811,1999,"Cambodia","Asia",1,1,0,0,0,0,0,0,1,0,0,0
+811,2000,"Cambodia","Asia",3,1,1,0,1,0,0,0,3,0,0,0
+811,2001,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2002,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2003,"Cambodia","Asia",8,0,0,0,1,1,0,0,1,0,2,2
+811,2004,"Cambodia","Asia",3,0,1,1,0,0,0,0,3,0,0,0
+811,2005,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2006,"Cambodia","Asia",7,0,1,0,1,0,0,0,2,0,0,0
+811,2007,"Cambodia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+811,2008,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2009,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2010,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2011,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+811,2012,"Cambodia","Asia",3,1,1,0,1,0,0,0,2,0,1,1
+811,2013,"Cambodia","Asia",10,3,0,1,4,0,1,0,4,0,3,3
+811,2014,"Cambodia","Asia",8,3,0,0,4,0,1,0,6,0,2,1
+812,1990,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1991,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1992,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1993,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1994,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1995,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1996,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1997,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1998,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1999,"Laos","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+812,2000,"Laos","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+812,2001,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2002,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2003,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2004,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2005,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2006,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2007,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2008,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2009,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2010,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2011,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2012,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2013,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2014,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+816,1990,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1991,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1992,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1993,"Vietnam","Asia",2,0,0,0,2,0,0,1,2,0,0,0
+816,1994,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1995,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1996,"Vietnam","Asia",3,0,2,0,0,0,0,0,0,2,0,0
+816,1997,"Vietnam","Asia",6,0,1,0,0,2,1,0,0,2,0,0
+816,1998,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1999,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2000,"Vietnam","Asia",136,0,1,0,1,0,1,0,1,0,0,0
+816,2001,"Vietnam","Asia",90,0,1,0,0,0,0,1,0,1,0,0
+816,2002,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2003,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2004,"Vietnam","Asia",2,0,1,0,0,0,0,1,1,0,0,0
+816,2005,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2006,"Vietnam","Asia",52,2,0,0,0,0,0,0,1,1,0,0
+816,2007,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2008,"Vietnam","Asia",33,0,2,0,0,0,0,1,2,0,0,0
+816,2009,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2010,"Vietnam","Asia",1,0,0,1,0,0,0,0,1,0,0,0
+816,2011,"Vietnam","Asia",5,0,0,0,1,0,0,0,0,1,0,0
+816,2012,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+816,2013,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+816,2014,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+820,1990,"Malaysia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+820,1991,"Malaysia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+820,1992,"Malaysia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+820,1993,"Malaysia","Asia",2,1,0,0,1,0,0,0,2,0,0,0
+820,1994,"Malaysia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+820,1995,"Malaysia","Asia",61,1,0,0,2,0,0,0,3,0,0,0
+820,1996,"Malaysia","Asia",4,0,0,0,3,0,0,0,2,1,0,0
+820,1997,"Malaysia","Asia",4,0,0,0,4,0,0,0,4,0,0,0
+820,1998,"Malaysia","Asia",12,0,0,9,1,0,0,0,7,1,1,1
+820,1999,"Malaysia","Asia",9,1,0,5,0,2,0,0,6,0,2,0
+820,2000,"Malaysia","Asia",10,0,0,7,2,0,0,1,10,0,0,0
+820,2001,"Malaysia","Asia",7,0,0,4,3,0,0,0,7,0,0,0
+820,2002,"Malaysia","Asia",4,1,0,0,1,0,0,1,2,1,0,0
+820,2003,"Malaysia","Asia",4,0,0,1,2,1,0,0,4,0,0,0
+820,2004,"Malaysia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+820,2005,"Malaysia","Asia",1,0,0,1,0,0,0,0,1,0,0,0
+820,2006,"Malaysia","Asia",8,0,0,0,2,4,0,0,6,0,0,0
+820,2007,"Malaysia","Asia",6,0,1,1,2,1,0,1,2,1,3,0
+820,2008,"Malaysia","Asia",13,0,0,5,5,2,0,0,11,1,0,0
+820,2009,"Malaysia","Asia",9,0,0,2,5,0,1,1,9,0,0,0
+820,2010,"Malaysia","Asia",7,0,0,0,3,1,2,1,6,1,0,0
+820,2011,"Malaysia","Asia",3,0,0,1,2,0,0,0,2,0,1,1
+820,2012,"Malaysia","Asia",2,0,1,0,1,0,0,0,2,0,0,0
+820,2013,"Malaysia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+820,2014,"Malaysia","Asia",5,0,0,0,3,2,0,1,3,1,0,0
+830,1990,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1991,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1992,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1993,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1994,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1995,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1996,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1997,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1998,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1999,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2000,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2001,"Singapore","Asia",1,0,0,1,0,0,0,0,0,1,0,0
+830,2002,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2003,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2004,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2005,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2006,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2007,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2008,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2009,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2010,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2011,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2012,"Singapore","Asia",2,2,0,0,0,0,0,0,2,0,0,0
+830,2013,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2014,"Singapore","Asia",5,1,0,0,4,3,0,0,5,0,0,0
+840,1990,"Philippines","Asia",5,0,0,0,3,1,1,0,4,1,0,0
+840,1991,"Philippines","Asia",3,0,0,0,1,0,2,0,3,0,0,0
+840,1992,"Philippines","Asia",1,0,0,0,0,0,1,0,1,0,0,0
+840,1993,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,1994,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,1995,"Philippines","Asia",3,0,0,0,1,1,0,1,3,0,0,0
+840,1996,"Philippines","Asia",17,0,0,0,2,1,1,0,3,1,0,0
+840,1997,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+840,1998,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,1999,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+840,2000,"Philippines","Asia",14,0,0,0,2,0,5,0,7,0,0,0
+840,2001,"Philippines","Asia",10,0,0,0,0,1,2,0,2,1,0,0
+840,2002,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,2003,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,2004,"Philippines","Asia",1,0,0,0,0,0,0,1,1,0,0,0
+840,2005,"Philippines","Asia",3,0,0,0,0,0,3,0,3,0,0,0
+840,2006,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+840,2007,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,2008,"Philippines","Asia",2,0,0,0,0,0,2,0,2,0,0,0
+840,2009,"Philippines","Asia",1,0,0,0,0,0,1,0,1,0,0,0
+840,2010,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,2011,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+840,2012,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+840,2013,"Philippines","Asia",3,0,0,0,3,0,0,0,3,0,0,0
+840,2014,"Philippines","Asia",7,1,0,0,5,1,1,1,6,1,0,0
+850,1990,"Indonesia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+850,1991,"Indonesia","Asia",2,0,0,0,2,0,0,0,1,0,1,1
+850,1992,"Indonesia","Asia",1,0,0,0,0,0,1,0,1,0,0,0
+850,1993,"Indonesia","Asia",14,0,0,1,1,0,0,2,4,0,0,0
+850,1994,"Indonesia","Asia",19,3,0,0,1,0,1,3,6,2,0,0
+850,1995,"Indonesia","Asia",5,1,0,1,1,0,2,0,5,0,0,0
+850,1996,"Indonesia","Asia",11,0,0,5,2,1,0,0,1,3,3,2
+850,1997,"Indonesia","Asia",6,1,0,1,3,0,0,0,2,3,0,0
+850,1998,"Indonesia","Asia",80,1,0,0,10,11,0,2,10,7,6,5
+850,1999,"Indonesia","Asia",17,0,0,2,12,0,0,1,9,3,3,3
+850,2000,"Indonesia","Asia",19,0,2,0,5,1,1,0,2,6,1,1
+850,2001,"Indonesia","Asia",10,0,0,0,2,1,2,0,2,3,0,0
+850,2002,"Indonesia","Asia",6,0,0,2,1,0,2,1,6,0,0,0
+850,2003,"Indonesia","Asia",18,0,0,0,0,2,1,0,2,1,0,0
+850,2004,"Indonesia","Asia",3,0,1,0,1,0,1,0,1,1,0,1
+850,2005,"Indonesia","Asia",5,0,0,0,1,2,0,0,3,0,0,0
+850,2006,"Indonesia","Asia",18,2,2,2,0,0,0,1,4,1,2,2
+850,2007,"Indonesia","Asia",1,1,0,0,0,0,0,0,1,0,0,0
+850,2008,"Indonesia","Asia",3,0,0,0,0,1,0,2,3,0,0,0
+850,2009,"Indonesia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+850,2010,"Indonesia","Asia",4,0,0,0,3,0,0,0,2,1,0,0
+850,2011,"Indonesia","Asia",2,0,0,0,2,0,0,0,2,0,0,0
+850,2012,"Indonesia","Asia",1,0,0,0,0,1,0,0,0,1,0,0
+850,2013,"Indonesia","Asia",5,2,0,0,3,2,0,0,4,1,0,0
+850,2014,"Indonesia","Asia",6,0,0,0,5,1,0,0,5,1,0,0
+860,2002,"Timor Leste","Asia",1,0,0,1,0,0,0,0,0,0,1,1
+860,2003,"Timor Leste","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+860,2004,"Timor Leste","Asia",3,0,0,0,2,0,0,0,1,1,0,0
+860,2005,"Timor Leste","Asia",2,0,0,0,0,0,1,0,1,0,0,0
+860,2006,"Timor Leste","Asia",9,0,0,0,1,0,1,0,1,0,1,1
+860,2007,"Timor Leste","Asia",4,0,0,0,1,0,0,0,0,1,0,0
+860,2008,"Timor Leste","Asia",3,0,0,0,1,0,0,0,1,0,0,0
+860,2009,"Timor Leste","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+860,2010,"Timor Leste","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+860,2011,"Timor Leste","Asia",1,0,0,0,1,0,0,0,1,0,0,0
+860,2012,"Timor Leste","Asia",2,1,0,0,1,0,0,0,1,1,0,0
+860,2013,"Timor Leste","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+860,2014,"Timor Leste","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+910,1990,"Papua New Guinea","Oceania",4,0,1,0,1,0,1,0,2,1,0,0
+910,1991,"Papua New Guinea","Oceania",43,0,0,0,2,0,0,0,0,2,0,0
+910,1992,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,1993,"Papua New Guinea","Oceania",1,0,0,0,0,0,1,0,1,0,0,0
+910,1994,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,1995,"Papua New Guinea","Oceania",1,0,0,0,1,0,0,0,1,0,0,0
+910,1996,"Papua New Guinea","Oceania",1,0,0,1,0,0,0,0,1,0,0,0
+910,1997,"Papua New Guinea","Oceania",3,0,0,0,0,0,2,0,0,2,0,0
+910,1998,"Papua New Guinea","Oceania",1,0,0,1,0,0,0,0,1,0,0,0
+910,1999,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,2000,"Papua New Guinea","Oceania",2,1,0,1,0,0,0,0,2,0,0,0
+910,2001,"Papua New Guinea","Oceania",18,0,0,1,4,0,0,0,3,2,0,0
+910,2002,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,2003,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,2004,"Papua New Guinea","Oceania",2,0,0,1,1,0,0,0,2,0,0,0
+910,2005,"Papua New Guinea","Oceania",5,3,0,1,1,0,0,0,4,0,1,1
+910,2006,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,2007,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,2008,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,2009,"Papua New Guinea","Oceania",1,0,0,0,1,0,0,0,1,0,0,0
+910,2010,"Papua New Guinea","Oceania",2,0,0,0,1,0,1,0,1,1,0,0
+910,2011,"Papua New Guinea","Oceania",1,0,0,0,1,0,0,0,1,0,0,0
+910,2012,"Papua New Guinea","Oceania",3,0,0,0,3,0,0,0,3,0,0,0
+910,2013,"Papua New Guinea","Oceania",1,0,0,0,1,0,0,0,1,0,0,0
+910,2014,"Papua New Guinea","Oceania",3,0,0,0,1,0,0,0,0,0,1,1
