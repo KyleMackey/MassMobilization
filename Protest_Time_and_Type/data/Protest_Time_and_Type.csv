@@ -1,4 +1,4 @@
-ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remove,social,nonviolent,protester_violence,state_violence,both_violence
+ccode,year,country,regionnm,protestdays,demand_labor,demand_land,demand_policebrutality,demand_political,demand_price,demand_removal,demand_social,nonviolent,protester_violence,state_violence,both_violence
 20,1990,"Canada","North America",63,1,1,1,4,0,0,0,3,2,1,1
 20,1991,"Canada","North America",13,2,0,0,0,0,0,0,2,0,0,0
 20,1992,"Canada","North America",2,0,0,1,0,0,0,0,0,1,0,0
@@ -135,7 +135,7 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 70,1998,"Mexico","North America",9,0,0,2,7,0,1,0,6,1,1,1
 70,1999,"Mexico","North America",4,0,0,1,3,0,0,0,1,1,1,2
 70,2000,"Mexico","North America",8,4,0,2,3,0,0,0,4,4,0,0
-70,2001,"Mexico","North America",4,0,0,1,2,0,0,0,3,0,0,0
+70,2001,"Mexico","North America",6,0,0,2,2,0,0,0,4,0,0,0
 70,2002,"Mexico","North America",5,0,1,0,0,0,0,0,0,1,0,0
 70,2003,"Mexico","North America",2,0,0,0,2,0,0,0,1,1,0,0
 70,2004,"Mexico","North America",3,0,0,0,3,0,0,0,3,0,0,0
@@ -349,48 +349,48 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 101,2012,"Venezuela","South America",0,0,0,0,0,0,0,0,0,0,0,0
 101,2013,"Venezuela","South America",32,1,0,0,6,0,0,0,5,2,0,0
 101,2014,"Venezuela","South America",26,0,0,12,15,13,0,0,7,5,4,4
-110,1990,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
-110,1991,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,1990,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
+110,1991,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
 110,1992,"Guyana","South America",3,0,0,0,3,0,0,0,1,1,1,1
-110,1993,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
-110,1994,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
-110,1995,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
-110,1996,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,1993,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
+110,1994,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
+110,1995,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
+110,1996,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
 110,1997,"Guyana","South America",3,0,0,0,2,0,1,0,1,0,1,2
 110,1998,"Guyana","South America",16,0,0,1,6,0,1,0,4,3,1,1
 110,1999,"Guyana","South America",50,0,0,0,0,0,1,0,0,0,1,1
-110,2000,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,2000,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
 110,2001,"Guyana","South America",1,0,0,0,1,0,0,0,0,1,0,0
 110,2002,"Guyana","South America",1,0,0,0,0,0,0,1,0,0,1,1
 110,2003,"Guyana","South America",12,0,0,0,1,0,0,0,1,0,0,0
 110,2004,"Guyana","South America",2,0,0,0,0,1,0,0,1,0,0,0
-110,2005,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,2005,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
 110,2006,"Guyana","South America",1,1,0,0,0,0,0,0,1,0,0,0
 110,2007,"Guyana","South America",1,0,0,0,1,0,0,0,1,0,0,0
 110,2008,"Guyana","South America",8,0,0,1,1,1,0,0,2,1,0,0
-110,2009,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
-110,2010,"Guyana","South America",0,0,0,0,0,0,0,0,1,0,0,0
+110,2009,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
+110,2010,"Guyana","South America",0,0,0,0,0,0,0,0,0,0,0,0
 110,2011,"Guyana","South America",13,0,0,1,1,1,0,0,2,0,0,0
 110,2012,"Guyana","South America",27,0,0,1,0,1,0,0,0,0,1,1
 110,2013,"Guyana","South America",17,1,0,0,1,0,0,1,2,0,0,0
 110,2014,"Guyana","South America",3,0,0,0,3,0,0,0,1,2,0,0
 115,1990,"Suriname","South America",16,0,0,0,3,1,0,0,4,0,0,0
-115,1991,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
-115,1992,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,1991,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
+115,1992,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
 115,1993,"Suriname","South America",1,0,0,0,1,0,0,0,1,0,0,0
 115,1994,"Suriname","South America",13,0,0,0,2,2,0,0,3,1,0,0
 115,1995,"Suriname","South America",22,1,0,0,0,0,0,0,1,0,0,0
-115,1996,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
-115,1997,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,1996,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
+115,1997,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
 115,1998,"Suriname","South America",124,6,0,0,4,0,0,0,9,0,0,0
 115,1999,"Suriname","South America",47,2,0,0,11,2,0,0,8,5,0,0
-115,2000,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
-115,2001,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,2000,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
+115,2001,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
 115,2002,"Suriname","South America",9,3,0,0,1,0,0,0,4,0,0,0
 115,2003,"Suriname","South America",1,1,0,0,0,0,0,0,1,0,0,0
 115,2004,"Suriname","South America",23,1,0,0,0,0,0,0,1,0,0,0
 115,2005,"Suriname","South America",2,0,0,0,0,1,0,0,1,0,0,0
-115,2006,"Suriname","South America",0,0,0,0,0,0,0,0,1,0,0,0
+115,2006,"Suriname","South America",0,0,0,0,0,0,0,0,0,0,0,0
 115,2007,"Suriname","South America",6,2,0,0,3,0,0,0,5,0,0,0
 115,2008,"Suriname","South America",2,1,0,0,1,0,0,0,2,0,0,0
 115,2009,"Suriname","South America",1,1,0,0,0,0,0,0,1,0,0,0
@@ -416,10 +416,10 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 130,2004,"Ecuador","South America",59,1,0,0,7,0,0,0,7,1,0,0
 130,2005,"Ecuador","South America",22,1,0,0,10,0,0,0,9,2,0,0
 130,2006,"Ecuador","South America",24,0,0,0,6,0,0,0,3,3,0,0
-130,2007,"Ecuador","South America",0,0,0,0,0,0,0,0,1,0,0,0
+130,2007,"Ecuador","South America",0,0,0,0,0,0,0,0,0,0,0,0
 130,2008,"Ecuador","South America",2,0,0,0,2,0,0,0,1,0,1,0
 130,2009,"Ecuador","South America",4,0,0,0,2,0,0,0,1,0,1,1
-130,2010,"Ecuador","South America",9,1,0,0,4,0,0,0,4,1,1,1
+130,2010,"Ecuador","South America",9,1,0,0,4,0,0,0,3,1,1,1
 130,2011,"Ecuador","South America",1,0,0,0,1,0,0,0,1,0,0,0
 130,2012,"Ecuador","South America",15,0,0,0,1,0,0,0,1,0,0,0
 130,2013,"Ecuador","South America",0,0,0,0,0,0,0,0,0,0,0,0
@@ -499,15 +499,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 145,2012,"Bolivia","South America",11,3,1,0,2,0,0,0,2,1,2,2
 145,2013,"Bolivia","South America",1,0,0,0,1,0,0,0,1,0,0,0
 145,2014,"Bolivia","South America",17,3,0,0,2,0,0,2,1,2,0,0
-150,1990,"Paraguay","South America",0,0,0,0,0,0,0,0,1,0,0,0
+150,1990,"Paraguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
 150,1991,"Paraguay","South America",1,1,0,0,0,0,0,0,1,0,0,0
-150,1992,"Paraguay","South America",0,0,0,0,0,0,0,0,1,0,0,0
+150,1992,"Paraguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
 150,1993,"Paraguay","South America",1,0,0,0,1,0,0,0,1,0,0,0
 150,1994,"Paraguay","South America",15,0,0,0,3,0,0,0,2,0,1,1
 150,1995,"Paraguay","South America",2,0,0,0,2,0,0,0,0,1,1,1
 150,1996,"Paraguay","South America",7,3,0,0,5,0,0,0,6,0,0,0
 150,1997,"Paraguay","South America",2,0,0,0,1,0,0,0,1,0,0,0
-150,1998,"Paraguay","South America",0,0,0,0,0,0,0,0,1,0,0,0
+150,1998,"Paraguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
 150,1999,"Paraguay","South America",2,1,0,0,2,0,0,0,1,1,0,0
 150,2000,"Paraguay","South America",4,0,0,0,2,0,0,0,2,0,0,0
 150,2001,"Paraguay","South America",24,0,0,0,8,0,0,0,7,1,0,0
@@ -557,7 +557,7 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 160,1995,"Argentina","South America",4,0,0,0,3,0,0,0,0,3,0,0
 160,1996,"Argentina","South America",15,0,0,1,5,0,0,0,4,1,0,1
 160,1997,"Argentina","South America",19,3,0,1,1,0,0,0,3,1,0,1
-160,1998,"Argentina","South America",0,0,0,0,0,0,0,0,1,0,0,0
+160,1998,"Argentina","South America",0,0,0,0,0,0,0,0,0,0,0,0
 160,1999,"Argentina","South America",41,1,0,0,2,1,0,0,2,1,1,1
 160,2000,"Argentina","South America",7,0,0,0,4,0,0,0,2,1,1,0
 160,2001,"Argentina","South America",37,1,0,0,10,0,0,0,8,2,1,1
@@ -599,6 +599,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 165,2012,"Uruguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
 165,2013,"Uruguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
 165,2014,"Uruguay","South America",0,0,0,0,0,0,0,0,0,0,0,0
+200,1990,"United Kingdom","Europe",38,5,0,0,29,27,2,2,26,8,1,2
+200,1991,"United Kingdom","Europe",11,1,0,0,7,2,0,1,10,1,0,0
+200,1992,"United Kingdom","Europe",21,8,0,1,17,1,0,0,19,2,0,0
+200,1993,"United Kingdom","Europe",23,11,1,2,16,3,0,0,19,4,0,0
+200,1994,"United Kingdom","Europe",16,0,0,1,12,0,0,0,8,4,0,1
+200,1995,"United Kingdom","Europe",12,0,0,0,11,0,0,1,9,2,0,1
+200,1996,"United Kingdom","Europe",61,4,4,1,16,0,0,0,15,5,0,0
+200,1997,"United Kingdom","Europe",14,1,0,0,13,0,0,0,14,0,0,0
+200,1998,"United Kingdom","Europe",23,5,0,1,15,2,0,0,14,6,0,0
 200,1999,"United Kingdom","Europe",16,2,0,0,10,4,0,0,10,5,0,0
 200,2000,"United Kingdom","Europe",38,1,0,0,13,5,0,0,14,4,0,0
 200,2001,"United Kingdom","Europe",18,0,0,2,14,3,0,3,9,9,0,0
@@ -615,6 +624,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 200,2012,"United Kingdom","Europe",29,1,0,1,13,1,0,0,11,3,0,1
 200,2013,"United Kingdom","Europe",47,1,2,0,17,1,0,0,12,6,0,2
 200,2014,"United Kingdom","Europe",13,3,1,0,11,1,2,0,10,3,0,0
+205,1990,"Ireland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+205,1991,"Ireland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+205,1992,"Ireland","Europe",17,3,0,0,16,2,0,7,15,2,0,0
+205,1993,"Ireland","Europe",9,0,1,0,4,5,0,0,9,0,0,0
+205,1994,"Ireland","Europe",33,17,0,0,13,3,0,3,31,2,0,0
+205,1995,"Ireland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+205,1996,"Ireland","Europe",1,0,0,0,1,1,0,0,0,1,0,0
+205,1997,"Ireland","Europe",28,5,0,1,19,4,0,4,26,1,0,0
+205,1998,"Ireland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 205,1999,"Ireland","Europe",1,0,0,0,1,0,0,0,0,1,0,0
 205,2000,"Ireland","Europe",1,0,0,0,0,1,0,0,1,0,0,0
 205,2001,"Ireland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -631,6 +649,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 205,2012,"Ireland","Europe",2,0,0,0,1,1,0,1,2,0,0,0
 205,2013,"Ireland","Europe",27,1,0,0,27,2,0,6,27,0,0,0
 205,2014,"Ireland","Europe",70,7,0,1,37,15,0,4,53,3,0,0
+210,1990,"Netherlands","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+210,1991,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,1992,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,1993,"Netherlands","Europe",3,0,0,0,2,0,0,0,2,0,0,0
+210,1994,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,1995,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,1996,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+210,1997,"Netherlands","Europe",1,1,0,0,1,0,0,0,0,1,0,0
+210,1998,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 210,1999,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 210,2000,"Netherlands","Europe",3,1,0,0,0,1,0,0,2,0,0,0
 210,2001,"Netherlands","Europe",2,0,0,0,2,0,0,0,1,1,0,0
@@ -647,6 +674,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 210,2012,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 210,2013,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 210,2014,"Netherlands","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,1990,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,1991,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,1992,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,1993,"Belgium","Europe",2,1,0,0,2,1,0,0,2,0,0,0
+211,1994,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+211,1995,"Belgium","Europe",2,1,0,0,1,0,0,0,2,0,0,0
+211,1996,"Belgium","Europe",9,0,0,0,8,1,0,0,8,1,0,0
+211,1997,"Belgium","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+211,1998,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 211,1999,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 211,2000,"Belgium","Europe",4,0,0,0,0,1,0,0,1,0,0,0
 211,2001,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -663,6 +699,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 211,2012,"Belgium","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 211,2013,"Belgium","Europe",1,1,0,0,0,0,0,0,0,1,0,0
 211,2014,"Belgium","Europe",2,1,0,0,2,0,0,0,0,2,0,0
+212,1990,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,1991,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,1992,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,1993,"Luxembourg","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+212,1994,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,1995,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,1996,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+212,1997,"Luxembourg","Europe",2,2,0,0,0,0,0,0,2,0,0,0
+212,1998,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 212,1999,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 212,2000,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 212,2001,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -679,6 +724,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 212,2012,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 212,2013,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 212,2014,"Luxembourg","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+220,1990,"France","Europe",30,14,1,1,22,13,1,3,15,12,0,0
+220,1991,"France","Europe",34,6,1,4,16,5,1,2,17,7,0,0
+220,1992,"France","Europe",45,11,0,0,34,20,0,0,24,11,0,0
+220,1993,"France","Europe",26,10,0,4,16,10,0,0,13,13,0,0
+220,1994,"France","Europe",20,11,0,0,19,2,1,0,13,7,0,0
+220,1995,"France","Europe",42,17,0,6,27,3,3,1,23,14,0,0
+220,1996,"France","Europe",192,8,0,2,19,7,0,1,22,5,0,0
+220,1997,"France","Europe",73,9,0,3,17,0,0,2,15,7,0,0
+220,1998,"France","Europe",28,7,0,1,22,4,0,2,19,9,0,0
 220,1999,"France","Europe",12,2,0,0,4,2,1,2,8,3,0,0
 220,2000,"France","Europe",30,2,0,1,7,2,1,0,8,4,0,0
 220,2001,"France","Europe",2,0,0,0,2,0,0,0,0,2,0,0
@@ -695,6 +749,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 220,2012,"France","Europe",7,1,0,1,3,1,0,3,6,1,0,0
 220,2013,"France","Europe",18,2,0,1,5,2,1,8,10,6,0,0
 220,2014,"France","Europe",47,2,0,0,14,4,0,1,10,7,0,0
+225,1990,"Switzerland","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+225,1991,"Switzerland","Europe",1,0,0,0,0,0,0,1,1,0,0,0
+225,1992,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,1993,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,1994,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,1995,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,1996,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+225,1997,"Switzerland","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+225,1998,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 225,1999,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 225,2000,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 225,2001,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -711,6 +774,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 225,2012,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 225,2013,"Switzerland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 225,2014,"Switzerland","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+230,1990,"Spain","Europe",7,1,1,0,3,1,1,0,2,2,0,0
+230,1991,"Spain","Europe",3,0,1,0,2,0,0,0,2,1,0,0
+230,1992,"Spain","Europe",-5,4,1,0,3,0,1,0,3,2,0,0
+230,1993,"Spain","Europe",-9,1,0,0,1,0,0,0,1,0,0,0
+230,1994,"Spain","Europe",2,1,1,0,0,0,0,0,1,1,0,0
+230,1995,"Spain","Europe",5,2,1,0,3,0,0,0,3,2,0,0
+230,1996,"Spain","Europe",5,1,0,0,3,1,0,1,4,1,0,0
+230,1997,"Spain","Europe",4,0,1,0,4,0,0,0,3,1,0,0
+230,1998,"Spain","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 230,1999,"Spain","Europe",3,1,0,0,2,0,0,0,3,0,0,0
 230,2000,"Spain","Europe",6,1,0,0,0,2,0,0,3,0,0,0
 230,2001,"Spain","Europe",5,0,0,0,5,0,0,0,5,0,0,0
@@ -727,6 +799,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 230,2012,"Spain","Europe",29,7,0,1,16,2,0,1,16,4,0,0
 230,2013,"Spain","Europe",5,0,0,0,5,0,0,0,4,1,0,0
 230,2014,"Spain","Europe",12,0,0,0,8,1,1,2,8,1,0,0
+235,1990,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,1991,"Portugal","Europe",1,1,0,0,0,1,0,0,1,0,0,0
+235,1992,"Protugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,1993,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,1994,"Portugal","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+235,1995,"Portugal","Europe",21,0,2,0,1,0,0,0,2,1,0,0
+235,1996,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,1997,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+235,1998,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 235,1999,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 235,2000,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 235,2001,"Portugal","Europe",1,0,0,1,0,0,0,0,0,0,1,1
@@ -743,6 +824,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 235,2012,"Portugal","Europe",6,6,0,0,6,5,0,0,5,1,0,0
 235,2013,"Portugal","Europe",2,0,0,0,1,2,1,0,2,0,0,0
 235,2014,"Portugal","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+255,1990,"Germany","Europe",5,0,0,1,5,0,0,0,2,3,0,0
+255,1991,"Germany","Europe",15,0,0,0,15,0,2,0,12,2,0,1
+255,1992,"Germany","Europe",9,0,0,0,9,0,0,0,7,1,0,1
+255,1993,"Germany","Europe",13,3,0,0,10,0,0,0,12,1,0,0
+255,1994,"Germany","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+255,1995,"Germany","Europe",4,0,0,0,1,1,0,2,4,0,0,0
+255,1996,"Germany","Europe",7,1,0,0,6,0,0,0,4,2,0,1
+255,1997,"Germany","Europe",11,0,0,0,9,0,0,1,8,1,0,1
+255,1998,"Germany","Europe",6,0,0,0,6,0,0,0,6,0,0,0
 255,1999,"Germany","Europe",4,3,0,0,2,2,0,0,4,0,0,0
 255,2000,"Germany","Europe",11,0,0,0,5,6,0,0,10,0,0,1
 255,2001,"Germany","Europe",10,4,5,0,9,0,0,0,4,5,0,1
@@ -759,6 +849,17 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 255,2012,"Germany","Europe",8,1,0,2,3,0,0,0,3,2,0,0
 255,2013,"Germany","Europe",7,2,1,0,4,1,0,0,5,0,0,0
 255,2014,"Germany","Europe",15,0,1,1,13,0,1,0,14,1,0,0
+260,1990,"Germany West","Europe",2,0,0,0,2,0,0,0,1,1,0,0
+265,1990,"Germany East","Europe",11,1,0,0,9,1,0,0,10,1,0,0
+290,1990,"Poland","Europe",6,0,0,0,2,2,0,0,2,1,0,1
+290,1991,"Poland","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+290,1992,"Poland","Europe",3,0,0,0,2,2,0,0,3,0,0,0
+290,1993,"Poland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+290,1994,"Poland","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+290,1995,"Poland","Europe",5,0,0,0,5,0,0,0,3,2,0,0
+290,1996,"Poland","Europe",39,6,0,0,18,0,0,0,20,1,0,0
+290,1997,"Poland","Europe",52,1,0,0,13,0,0,0,11,2,0,0
+290,1998,"Poland","Africa",17,1,0,1,14,0,1,0,14,2,0,0
 290,1999,"Poland","Europe",11,1,1,0,1,1,1,0,2,0,0,0
 290,2000,"Poland","Europe",2,0,1,0,1,1,0,0,2,0,0,0
 290,2001,"Poland","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -775,6 +876,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 290,2012,"Poland","Europe",3,2,0,0,0,0,0,1,3,0,0,0
 290,2013,"Poland","Europe",4,1,0,0,2,0,1,0,3,0,0,0
 290,2014,"Poland","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+305,1990,"Austria","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+305,1991,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,1992,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,1993,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,1994,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,1995,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,1996,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,1997,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+305,1998,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 305,1999,"Austria","Europe",1,0,0,0,1,0,0,1,1,0,0,0
 305,2000,"Austria","Europe",6,0,0,0,6,0,0,0,4,1,0,1
 305,2001,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -791,6 +901,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 305,2012,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 305,2013,"Austria","Europe",1,1,0,0,0,0,0,0,1,0,0,0
 305,2014,"Austria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+310,1990,"Hungary","Europe",6,2,1,0,1,2,0,0,5,0,0,0
+310,1991,"Hungary","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+310,1992,"Hungary","Europe",3,1,0,0,3,0,0,0,3,0,0,0
+310,1993,"Hungary","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+310,1994,"Hungary","Europe",3,0,0,0,2,0,0,0,2,0,0,0
+310,1995,"Hungary","Europe",1,0,0,0,1,1,0,0,1,0,0,0
+310,1996,"Hungary","Europe",1,0,0,0,0,1,0,0,1,0,0,0
+310,1997,"Hungary","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+310,1998,"Hungary","Europe",1,0,0,0,1,0,0,0,1,0,0,0
 310,1999,"Hungary","Europe",2,1,0,0,1,0,0,0,1,1,0,0
 310,2000,"Hungary","Europe",1,0,0,0,1,0,0,0,1,0,0,0
 310,2001,"Hungary","Europe",1,1,0,0,1,0,0,0,1,0,0,0
@@ -807,6 +926,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 310,2012,"Hungary","Europe",2,0,0,0,2,0,0,1,2,0,0,0
 310,2013,"Hungary","Europe",3,0,0,0,3,0,0,0,3,0,0,0
 310,2014,"Hungary","Europe",3,0,0,0,0,3,0,0,3,0,0,0
+315,1990,"Czechoslovakia","Europe",5,0,0,0,4,0,0,0,3,1,0,0
+315,1991,"Czechoslovakia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+315,1992,"Czechoslovakia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,1993,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+316,1994,"Czech Republic","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+316,1995,"Czech Republic","Europe",2,1,0,1,1,0,0,0,1,1,0,0
+316,1996,"Czech Republic","Europe",1,0,0,0,0,0,0,1,1,0,0,0
+316,1997,"Czech Republic","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+316,1998,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 316,1999,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 316,2000,"Czech Republic","Europe",26,0,0,0,1,0,1,0,1,0,0,0
 316,2001,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -823,6 +951,12 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 316,2012,"Czech Republic","Europe",2,0,0,0,1,1,0,0,1,0,0,0
 316,2013,"Czech Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 316,2014,"Czech Republic","Europe",1,0,0,0,0,0,1,0,0,1,0,0
+317,1993,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+317,1994,"Slovak Republic","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+317,1995,"Slovak Republic","Europe",3,0,0,0,2,0,1,0,3,0,0,0
+317,1996,"Slovak Republic","Europe",4,0,0,0,2,0,2,0,4,0,0,0
+317,1997,"Slovak Republic","Europe",4,0,0,1,4,0,2,0,3,0,1,0
+317,1998,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 317,1999,"Slovak Republic","Europe",1,1,0,0,1,1,0,1,1,0,0,0
 317,2000,"Slovak Republic","Europe",1,0,0,0,1,0,1,0,1,0,0,0
 317,2001,"Slovak Republic","Europe",4,1,0,0,3,0,0,0,3,0,0,0
@@ -839,6 +973,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 317,2012,"Slovak Republic","Europe",1,1,0,0,0,0,0,0,1,0,0,0
 317,2013,"Slovak Republic","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 317,2014,"Slovak Republic","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+325,1990,"Italy","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+325,1991,"Italy","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+325,1992,"Italy","Europe",6,0,0,0,6,0,0,0,4,0,1,1
+325,1993,"Italy","Europe",9,1,0,0,6,0,0,0,6,1,0,0
+325,1994,"Italy","Europe",4,0,0,0,4,0,0,0,3,1,0,0
+325,1995,"Italy","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+325,1996,"Italy","Europe",1,0,0,0,0,1,0,0,1,0,0,0
+325,1997,"Italy","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+325,1998,"Italy","Europe",2,0,0,0,2,0,0,0,2,0,0,0
 325,1999,"Italy","Europe",4,0,1,0,2,0,0,0,3,0,0,0
 325,2000,"Italy","Europe",4,1,0,0,2,0,0,1,3,1,0,0
 325,2001,"Italy","Europe",6,1,0,1,3,0,1,0,5,1,0,0
@@ -855,6 +998,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 325,2012,"Italy","Europe",5,3,0,0,4,2,0,0,4,1,0,0
 325,2013,"Italy","Europe",3,0,0,0,3,0,0,0,3,0,0,0
 325,2014,"Italy","Europe",6,4,0,0,4,0,0,0,5,1,0,0
+339,1990,"Albania","Europe",6,0,0,2,5,0,0,0,0,1,2,2
+339,1991,"Albania","Europe",8,1,0,0,8,0,1,0,5,2,1,1
+339,1992,"Albania","Europe",6,2,0,0,0,1,1,0,1,1,1,1
+339,1993,"Albania","Europe",2,0,0,0,2,0,1,0,2,0,0,0
+339,1994,"Albania","Europe",8,0,0,0,1,0,0,0,1,0,0,0
+339,1995,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+339,1996,"Albania","Europe",1,0,0,0,1,0,0,0,0,0,1,0
+339,1997,"Albania","Europe",11,0,0,2,9,0,4,0,1,3,5,5
+339,1998,"Albania","Europe",3,0,0,0,2,0,2,0,2,0,1,1
 339,1999,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 339,2000,"Albania","Europe",1,0,0,0,1,0,0,0,0,1,0,0
 339,2001,"Albania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -887,6 +1039,13 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 342,2012,"Serbia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 342,2013,"Serbia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 342,2014,"Serbia","Europe",1,0,0,0,0,0,0,1,1,0,0,0
+343,1992,"Macedonia","Europe",1,0,0,1,1,0,0,0,0,1,0,0
+343,1993,"Macedonia","Europe",5,0,0,0,2,0,0,0,0,1,0,1
+343,1994,"Macedonia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+343,1995,"Macedonia","Europe",10,0,0,1,6,0,1,1,3,1,1,2
+343,1996,"Macedonia","Europe",5,0,0,0,5,0,0,3,4,1,0,0
+343,1997,"Macedonia","Europe",1,0,0,0,1,0,0,0,0,0,1,1
+343,1998,"Macedonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 343,1999,"Macedonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 343,2000,"Macedonia","Europe",3,0,0,0,3,0,1,0,3,0,0,0
 343,2001,"Macedonia","Europe",7,0,0,0,6,0,0,0,2,4,0,0
@@ -903,6 +1062,14 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 343,2012,"Macedonia","Europe",8,0,0,3,7,0,0,0,5,3,0,0
 343,2013,"Macedonia","Europe",7,0,0,0,7,0,0,0,4,3,0,0
 343,2014,"Macedonia","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+344,1991,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,1992,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,1993,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,1994,"Croatia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+344,1995,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,1996,"Croatia","Europe",3,0,0,0,3,0,0,0,3,0,0,0
+344,1997,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+344,1998,"Croatia","Europe",1,1,0,0,0,1,0,0,1,0,0,0
 344,1999,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 344,2000,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 344,2001,"Croatia","Europe",3,0,0,0,1,0,0,0,1,0,0,0
@@ -919,6 +1086,16 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 344,2012,"Croatia","Europe",1,0,0,0,1,0,0,0,0,1,0,0
 344,2013,"Croatia","Europe",2,0,0,0,2,0,0,1,2,0,0,0
 344,2014,"Croatia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+345,1990,"Yugoslavia","Europe",28,0,0,4,24,1,8,0,9,6,9,8
+345,1991,"Yugoslavia","Europe",10,0,0,0,5,0,6,0,6,3,1,1
+345,1992,"Yugoslavia","Europe",1,0,0,0,1,0,0,0,0,0,1,1
+346,1992,"Bosnia","Europe",2,0,0,0,2,0,0,0,1,0,1,1
+346,1993,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+346,1994,"Bosnia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+346,1995,"Bosnia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+346,1996,"Bosnia","Europe",4,0,0,0,3,0,0,0,2,1,0,0
+346,1997,"Bosnia","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+346,1998,"Bosnia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
 346,1999,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 346,2000,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 346,2001,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -935,6 +1112,13 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 346,2012,"Bosnia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 346,2013,"Bosnia","Europe",4,0,0,0,3,0,0,0,2,1,0,0
 346,2014,"Bosnia","Europe",8,5,0,0,5,0,0,0,3,2,0,0
+347,1992,"Yugoslavia","Europe",12,0,0,0,5,0,7,1,9,2,0,0
+347,1993,"Yugoslavia","Europe",2,0,0,0,2,0,1,0,0,0,1,1
+347,1994,"Yugoslavia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+347,1995,"Yugoslavia","Europe",3,0,0,0,2,0,1,0,3,0,0,0
+347,1996,"Yugoslavia","Europe",189,4,0,2,7,1,6,0,5,0,1,2
+347,1997,"Yugoslavia","Europe",98,2,0,2,8,0,2,4,5,1,2,0
+347,1998,"Yugoslavia","Europe",14,0,0,5,9,0,0,0,9,2,3,2
 347,1999,"Yugoslavia","Europe",31,4,0,0,29,0,19,0,24,4,2,1
 347,2000,"Yugoslavia","Europe",41,0,0,1,19,0,1,0,13,4,2,0
 347,2001,"Yugoslavia","Europe",8,0,0,0,3,0,0,0,3,0,0,0
@@ -952,6 +1136,14 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 348,2012,"Montenegro","Europe",33,0,0,0,2,1,0,0,2,0,0,0
 348,2013,"Montenegro","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 348,2014,"Montenegro","Europe",3,1,0,0,2,0,1,1,2,1,0,0
+349,1991,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,1992,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,1993,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,1994,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,1995,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,1996,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+349,1997,"Slovenia","Europe",3,2,0,0,2,0,0,0,3,0,0,0
+349,1998,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 349,1999,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 349,2000,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 349,2001,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -968,7 +1160,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 349,2012,"Slovenia","Europe",1,0,0,0,2,1,0,0,0,2,0,0
 349,2013,"Slovenia","Europe",6,1,0,0,3,0,3,0,6,0,0,0
 349,2014,"Slovenia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
-350,1998,"Greece","Europe",66,0,0,0,1,0,0,0,1,0,0,0
+350,1990,"Greece","Europe",7,1,0,0,6,0,1,0,4,1,0,2
+350,1991,"Greece","Europe",5,0,0,0,5,0,0,0,1,2,1,2
+350,1992,"Greece","Europe",6,0,0,0,6,0,0,0,4,2,0,0
+350,1993,"Greece","Europe",2,0,0,0,2,0,0,0,1,0,1,1
+350,1994,"Greece","Europe",6,1,0,0,0,0,0,0,1,0,0,0
+350,1995,"Greece","Europe",20,0,0,1,2,1,0,0,1,2,0,1
+350,1996,"Greece","Europe",26,1,0,0,3,0,0,0,4,0,0,0
+350,1997,"Greece","Europe",2,0,0,0,2,1,0,0,1,1,0,0
+350,1998,"Greece","Europe",74,0,0,0,9,0,0,0,6,1,0,2
 350,1999,"Greece","Europe",3,0,0,0,3,0,0,0,1,2,0,0
 350,2000,"Greece","Europe",2,0,0,0,2,0,0,0,2,0,0,0
 350,2001,"Greece","Europe",4,0,0,0,4,0,0,0,3,1,0,0
@@ -985,6 +1185,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 350,2012,"Greece","Europe",28,23,1,0,25,18,0,0,16,9,0,1
 350,2013,"Greece","Europe",175,12,0,0,17,3,0,0,15,3,0,0
 350,2014,"Greece","Europe",7,5,0,1,4,0,0,0,5,2,0,0
+352,1990,"Cyprus","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+352,1991,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+352,1992,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+352,1993,"Cyprus","Europe",4,0,0,0,4,0,0,0,4,0,0,0
+352,1994,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+352,1995,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+352,1996,"Cyprus","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+352,1997,"Cyprus","Europe",3,0,0,0,3,0,0,1,3,0,0,0
+352,1998,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 352,1999,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 352,2000,"Cyprus","Europe",3,0,0,0,3,0,0,0,3,0,0,0
 352,2001,"Cyprus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -1001,6 +1210,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 352,2012,"Cyprus","Europe",19,8,0,0,4,2,0,0,9,3,0,0
 352,2013,"Cyprus","Europe",29,2,0,0,11,5,2,0,13,1,0,0
 352,2014,"Cyprus","Europe",15,7,2,0,9,2,0,1,11,4,0,0
+355,1990,"Bulgaria","Europe",62,0,0,1,22,3,14,3,30,5,0,0
+355,1991,"Bulgaria","Europe",6,0,0,1,4,0,1,0,5,0,0,0
+355,1992,"Bulgaria","Europe",2,1,0,0,1,0,0,0,1,1,0,0
+355,1993,"Bulgaria","Europe",17,0,0,0,0,0,1,0,1,0,0,0
+355,1994,"Bulgaria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+355,1995,"Bulgaria","Europe",6,0,4,0,5,0,0,0,4,0,1,0
+355,1996,"Bulgaria","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+355,1997,"Bulgaria","Europe",32,1,0,0,29,0,2,0,30,0,1,1
+355,1998,"Bulgaria","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 355,1999,"Bulgaria","Europe",1,1,0,0,0,0,0,0,1,0,0,0
 355,2000,"Bulgaria","Europe",1,1,0,0,1,0,1,0,1,0,0,0
 355,2001,"Bulgaria","Europe",1,0,0,0,1,0,1,0,1,0,0,0
@@ -1017,6 +1235,14 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 355,2012,"Bulgaria","Europe",12,1,2,0,1,0,0,1,4,1,0,0
 355,2013,"Bulgaria","Europe",229,3,0,0,4,1,2,0,3,1,0,1
 355,2014,"Bulgaria","Europe",2,1,0,0,2,1,0,0,2,0,0,0
+359,1991,"Moldova","Europe",37,0,0,1,7,0,0,0,5,2,0,0
+359,1992,"Moldova","Europe",1,0,0,0,1,0,1,0,1,0,0,0
+359,1993,"Moldova","Europe",2,0,0,0,2,0,0,0,2,0,0,0
+359,1994,"Moldova","Europe",1,0,0,0,1,0,0,1,1,0,0,0
+359,1995,"Moldova","Europe",31,9,0,0,5,0,8,3,10,0,0,0
+359,1996,"Moldova","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+359,1997,"Moldova","Europe",1,1,0,0,0,1,0,0,1,0,0,0
+359,1998,"Moldova","Europe",3,3,0,0,2,0,0,0,2,1,0,0
 359,1999,"Moldova","Europe",6,2,0,0,0,0,0,0,0,2,0,0
 359,2000,"Moldova","Europe",8,2,1,1,3,6,1,0,5,1,0,2
 359,2001,"Moldova","Europe",1,0,0,0,1,0,0,1,1,0,0,0
@@ -1033,6 +1259,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 359,2012,"Moldova","Europe",5,0,0,0,2,0,0,0,2,0,0,0
 359,2013,"Moldova","Europe",26,0,0,0,2,0,1,0,2,0,0,0
 359,2014,"Moldova","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+360,1990,"Romania","Europe",117,6,0,8,43,9,28,3,53,7,1,3
+360,1991,"Romania","Europe",14,5,0,0,8,5,6,0,8,3,2,2
+360,1992,"Romania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+360,1993,"Romania","Europe",9,5,0,0,6,1,4,0,9,0,0,0
+360,1994,"Romania","Europe",20,5,0,0,6,0,0,1,10,0,0,0
+360,1995,"Romania","Europe",23,9,1,0,11,8,3,1,18,2,0,0
+360,1996,"Romania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+360,1997,"Romania","Europe",1,1,0,0,1,0,0,0,0,1,0,0
+360,1998,"Romania","Europe",4,2,0,0,2,2,1,0,4,0,0,0
 360,1999,"Romania","Europe",25,3,0,0,3,2,0,0,5,1,0,1
 360,2000,"Romania","Europe",2,0,0,0,1,1,0,0,1,1,0,0
 360,2001,"Romania","Europe",2,0,0,0,2,0,0,0,2,0,0,0
@@ -1049,6 +1284,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 360,2012,"Romania","Europe",25,1,0,0,1,1,0,0,0,1,0,0
 360,2013,"Romania","Europe",8,2,0,0,8,0,0,0,8,0,0,0
 360,2014,"Romania","Europe",2,0,0,0,1,0,1,0,2,0,0,0
+364,1990,"USSR","Europe",69,0,0,0,44,0,2,1,35,5,4,4
+364,1991,"USSR","Europe",16,0,0,0,13,1,5,0,14,0,1,0
+365,1992,"Russia","Europe",11,1,0,1,5,4,1,0,8,0,2,1
+365,1993,"Russia","Europe",7,0,0,0,7,0,0,0,4,0,1,3
+365,1994,"Russia","Europe",5,1,0,0,4,0,0,0,5,0,0,0
+365,1995,"Russia","Europe",5,1,0,0,3,0,3,0,5,0,0,0
+365,1996,"Russia","Europe",6,2,0,0,4,0,1,0,4,1,1,1
+365,1997,"Russia","Europe",1,1,0,0,0,0,0,0,1,0,0,0
+365,1998,"Russia","Europe",7,5,0,0,2,0,1,0,7,0,0,0
 365,1999,"Russia","Europe",2,0,0,0,2,0,0,0,2,0,0,0
 365,2000,"Russia","Europe",3,0,0,1,3,0,0,0,3,0,0,0
 365,2001,"Russia","Europe",3,0,0,0,3,0,0,0,3,0,0,0
@@ -1065,6 +1309,14 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 365,2012,"Russia","Europe",30,0,0,0,19,0,0,0,18,0,0,1
 365,2013,"Russia","Europe",8,0,0,0,8,0,0,0,8,0,0,0
 365,2014,"Russia","Europe",10,2,0,1,10,0,0,0,10,0,0,0
+366,1991,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,1992,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,1993,"Estonia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+366,1994,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,1995,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,1996,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,1997,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+366,1998,"Estonia","Europe",4,0,0,0,4,0,0,0,4,0,0,0
 366,1999,"Estonia","Europe",4,1,0,1,1,0,0,0,3,0,0,0
 366,2000,"Estonia","Europe",13,2,0,1,5,0,0,0,7,0,0,0
 366,2001,"Estonia","Europe",5,2,0,0,0,2,0,1,5,0,0,0
@@ -1081,6 +1333,14 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 366,2012,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 366,2013,"Estonia","Europe",2,0,0,0,0,2,0,0,2,0,0,0
 366,2014,"Estonia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,1991,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,1992,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,1993,"Latvia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+367,1994,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+367,1995,"Latvia","Europe",2,1,0,0,2,0,0,0,2,0,0,0
+367,1996,"Latvia","Europe",10,0,0,0,7,1,0,2,10,0,0,0
+367,1997,"Latvia","Europe",6,0,0,0,5,0,0,1,6,0,0,0
+367,1998,"Latvia","Europe",12,0,0,0,7,0,0,5,11,0,1,0
 367,1999,"Latvia","Europe",6,0,0,0,4,4,0,0,7,0,0,0
 367,2000,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 367,2001,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -1097,6 +1357,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 367,2012,"Latvia","Europe",4,1,0,0,2,1,0,0,4,0,0,0
 367,2013,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 367,2014,"Latvia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,1990,"Lithuania","Europe",1,0,0,0,1,0,0,0,1,0,0,0
+368,1991,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,1992,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,1993,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,1994,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+368,1995,"Lithuania","Europe",1,1,0,0,1,0,0,0,1,0,0,0
+368,1996,"Lithuania","Europe",1,0,0,0,0,1,1,0,1,0,0,0
+368,1997,"Lithuania","Europe",1,0,0,0,1,0,0,0,0,1,0,0
+368,1998,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 368,1999,"Lithuania","Europe",18,4,0,1,8,4,0,0,11,0,0,0
 368,2000,"Lithuania","Europe",16,3,0,0,11,4,0,0,12,0,0,0
 368,2001,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
@@ -1113,6 +1382,14 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 368,2012,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 368,2013,"Lithuania","Europe",1,0,0,0,1,0,0,1,1,0,0,0
 368,2014,"Lithuania","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,1991,"Ukraine","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,1992,"Ukraine","Europe",1,0,0,0,0,1,0,0,1,0,0,0
+369,1993,"Ukraine","Europe",3,1,0,0,1,2,1,0,3,0,0,0
+369,1994,"Ukraine","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+369,1995,"Ukraine","Europe",1,0,0,0,1,0,0,0,0,0,0,1
+369,1996,"Ukraine","Europe",5,2,0,0,2,0,2,0,4,0,1,0
+369,1997,"Ukraine","Europe",3,1,0,0,2,0,0,0,3,0,0,0
+369,1998,"Ukraine","Europe",2,1,0,0,1,0,0,0,2,0,0,0
 369,1999,"Ukraine","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 369,2000,"Ukraine","Europe",79,0,0,0,2,0,2,0,2,0,0,0
 369,2001,"Ukraine","Europe",8,0,0,1,8,0,5,0,6,1,0,1
@@ -1128,7 +1405,15 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 369,2011,"Ukraine","Europe",3,0,0,0,3,0,0,0,2,1,0,0
 369,2012,"Ukraine","Europe",3,0,0,0,2,0,0,1,1,1,0,0
 369,2013,"Ukraine","Europe",42,0,0,0,2,0,1,0,1,0,0,1
-369,2014,"Ukraine","Europe",156,0,0,7,89,1,2,1,57,26,7,9
+369,2014,"Ukraine","Europe",156,0,0,7,89,1,2,1,57,26,8,9
+370,1991,"Belarus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+370,1992,"Belarus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+370,1993,"Belarus","Europe",0,0,0,0,0,0,0,0,0,0,0,0
+370,1994,"Belarus","Europe",2,0,0,0,2,0,1,0,2,0,0,0
+370,1995,"Belarus","Europe",4,1,0,0,3,1,2,0,4,0,0,0
+370,1996,"Belarus","Europe",14,0,0,0,9,0,3,0,8,1,0,1
+370,1997,"Belarus","Europe",7,0,0,0,6,0,3,0,4,1,0,1
+370,1998,"Belarus","Europe",1,0,0,0,1,0,1,0,1,0,0,0
 370,1999,"Belarus","Europe",4,0,0,0,4,0,3,0,3,0,0,1
 370,2000,"Belarus","Europe",6,0,0,0,5,1,2,0,5,0,1,0
 370,2001,"Belarus","Europe",2,0,0,0,2,0,0,0,2,0,0,0
@@ -1173,41 +1458,42 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 372,1990,"Georgia","Europe",9,0,0,0,2,0,0,0,2,0,0,0
 372,1991,"Georgia","Europe",17,0,0,0,2,0,4,0,2,1,2,2
 372,1992,"Georgia","Europe",6,0,0,0,6,0,0,0,3,0,3,3
-372,1993,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,1993,"Georgia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 372,1994,"Georgia","Europe",3,0,0,0,2,0,1,0,2,1,0,0
 372,1995,"Georgia","Europe",14,0,0,0,2,0,0,0,2,0,0,0
 372,1996,"Georgia","Europe",10,0,1,0,3,0,0,0,4,0,0,0
 372,1997,"Georgia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
-372,1998,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,1998,"Georgia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 372,1999,"Georgia","Europe",1,1,0,0,0,0,0,0,1,0,0,0
-372,2000,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,2000,"Georgia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 372,2001,"Georgia","Europe",3,1,0,0,2,0,0,0,1,2,0,0
-372,2002,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,2002,"Georgia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 372,2003,"Georgia","Europe",11,0,0,0,2,0,1,0,3,0,0,0
 372,2004,"Georgia","Europe",3,0,0,0,3,0,0,0,2,0,1,0
 372,2005,"Georgia","Europe",1,0,0,1,0,0,0,0,1,0,0,0
-372,2006,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,2006,"Georgia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 372,2007,"Georgia","Europe",7,0,0,1,2,0,0,0,2,0,1,1
 372,2008,"Georgia","Europe",1,0,0,0,1,0,0,0,1,0,0,0
 372,2009,"Georgia","Europe",7,0,0,2,0,0,1,0,2,0,0,1
-372,2010,"Georgia","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+372,2010,"Georgia","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 372,2011,"Georgia","Europe",5,0,0,0,0,0,2,0,0,1,1,1
 372,2012,"Georgia","Europe",4,0,0,1,1,0,0,0,2,0,0,0
 372,2013,"Georgia","Europe",2,0,0,0,1,0,1,0,2,0,0,0
 372,2014,"Georgia","Europe",3,0,0,0,1,0,2,0,3,0,0,0
+373,1991,"Azerbaijan","Europe",3,0,0,0,2,0,1,0,3,0,0,0
 373,1992,"Azerbaijan","Europe",6,0,0,0,3,0,1,0,2,0,2,1
 373,1993,"Azerbaijan","Europe",5,0,0,0,4,0,0,0,3,0,1,1
 373,1994,"Azerbaijan","Europe",10,0,0,0,5,0,0,0,1,1,3,1
 373,1995,"Azerbaijan","Europe",6,0,0,0,2,0,0,0,1,0,1,1
 373,1996,"Azerbaijan","Europe",1,0,0,0,1,0,0,0,1,0,0,0
-373,1997,"Azerbaijan","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+373,1997,"Azerbaijan","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 373,1998,"Azerbaijan","Europe",8,0,0,0,8,0,0,0,6,0,1,1
 373,1999,"Azerbaijan","Europe",10,1,0,2,7,0,0,0,6,2,1,1
 373,2000,"Azerbaijan","Europe",12,0,0,0,10,0,1,1,9,0,2,1
 373,2001,"Azerbaijan","Europe",3,0,0,0,2,0,0,0,2,0,0,0
 373,2002,"Azerbaijan","Europe",20,0,0,0,10,0,9,1,16,2,1,2
 373,2003,"Azerbaijan","Europe",9,0,0,0,4,0,5,0,7,0,1,2
-373,2004,"Azerbaijan","Europe",0,0,0,0,0,0,0,0,1,0,0,0
+373,2004,"Azerbaijan","Europe",0,0,0,0,0,0,0,0,0,0,0,0
 373,2005,"Azerbaijan","Europe",12,0,0,1,11,0,0,0,7,2,2,1
 373,2006,"Azerbaijan","Europe",6,0,1,1,3,0,0,1,5,0,1,0
 373,2007,"Azerbaijan","Europe",5,0,0,0,2,3,0,0,5,0,0,0
@@ -2449,24 +2735,24 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 590,2014,"Mauritius","Africa",0,0,0,0,0,0,0,0,0,0,0,0
 600,1990,"Morocco","MENA",2,0,0,0,0,1,0,0,0,1,0,0
 600,1991,"Morocco","MENA",1,0,0,0,1,0,0,0,1,0,0,0
-600,1992,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,1993,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,1992,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,1993,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 600,1994,"Morocco","MENA",1,0,0,0,1,0,0,0,0,1,0,0
-600,1995,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,1996,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,1997,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,1995,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,1996,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,1997,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 600,1998,"Morocco","MENA",1,0,0,0,0,1,0,0,0,1,0,0
-600,1999,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,1999,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 600,2000,"Morocco","MENA",4,0,0,0,1,0,0,2,2,1,0,0
-600,2001,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,2002,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,2003,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,2004,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,2005,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,2006,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,2007,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,2008,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-600,2009,"Morocco","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+600,2001,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2002,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2003,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2004,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2005,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2006,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2007,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2008,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+600,2009,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 600,2010,"Morocco","MENA",1,0,0,0,1,0,0,0,0,0,1,1
 600,2011,"Morocco","MENA",944,0,0,0,6,1,1,0,4,1,1,1
 600,2012,"Morocco","MENA",0,0,0,0,0,0,0,0,0,0,0,0
@@ -2475,99 +2761,99 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 615,1990,"Algeria","MENA",2,0,0,0,2,0,0,0,2,0,0,0
 615,1991,"Algeria","MENA",18,0,0,0,2,0,0,0,0,0,2,2
 615,1992,"Algeria","MENA",9,0,0,0,6,0,0,0,2,0,4,4
-615,1993,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,1994,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,1995,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,1996,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,1993,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,1994,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,1995,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,1996,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 615,1997,"Algeria","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 615,1998,"Algeria","MENA",2,0,0,0,1,0,0,0,0,0,1,1
 615,1999,"Algeria","MENA",1,0,0,0,1,0,0,0,0,0,1,0
-615,2000,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2000,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 615,2001,"Algeria","MENA",9,0,0,3,2,1,0,0,3,1,2,2
-615,2002,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,2003,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,2004,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,2005,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,2006,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,2007,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-615,2008,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2002,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,2003,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,2004,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,2005,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,2006,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,2007,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+615,2008,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 615,2009,"Algeria","MENA",2,0,0,0,0,1,0,0,0,1,0,0
-615,2010,"Algeria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+615,2010,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 615,2011,"Algeria","MENA",1,0,0,0,1,0,1,0,1,0,0,0
 615,2012,"Algeria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 615,2013,"Algeria","MENA",2,0,0,0,1,0,0,1,2,0,0,0
 615,2014,"Algeria","MENA",14,2,1,0,7,0,7,1,6,5,0,0
-616,1990,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1991,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1992,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1993,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1994,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1995,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1996,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1997,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1998,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,1999,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,1990,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1991,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1992,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1993,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1994,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1995,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1996,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1997,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1998,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,1999,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 616,2000,"Tunisia","MENA",2,0,0,0,0,1,0,0,0,1,0,0
-616,2001,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,2002,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,2003,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,2004,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,2005,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,2006,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,2007,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,2008,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-616,2009,"Tunisia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+616,2001,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,2002,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,2003,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,2004,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,2005,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,2006,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,2007,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,2008,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+616,2009,"Tunisia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 616,2010,"Tunisia","MENA",49,1,0,0,0,4,1,0,0,0,3,4
 616,2011,"Tunisia","MENA",17,0,0,1,4,0,3,0,1,2,2,3
 616,2012,"Tunisia","MENA",3,0,0,0,1,2,0,0,1,1,1,0
 616,2013,"Tunisia","MENA",13,0,0,2,2,1,1,0,2,3,0,0
 616,2014,"Tunisia","MENA",2,0,0,0,2,1,0,0,1,1,0,0
-620,1990,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,1991,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,1992,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1990,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,1991,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,1992,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 620,1993,"Libya","MENA",26,1,0,0,0,0,0,0,0,0,1,1
-620,1994,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,1995,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1994,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,1995,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 620,1996,"Libya","MENA",1,0,0,0,1,0,0,0,0,0,1,1
-620,1997,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,1998,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,1999,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2000,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2001,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2002,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2003,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2004,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2005,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2006,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2007,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2008,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2009,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-620,2010,"Libya","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+620,1997,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,1998,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,1999,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2000,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2001,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2002,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2003,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2004,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2005,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2006,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2007,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2008,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2009,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+620,2010,"Libya","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 620,2011,"Libya","MENA",14,0,0,1,3,0,4,0,3,0,4,4
 620,2012,"Libya","MENA",5,1,0,0,4,0,1,0,3,1,1,1
 620,2013,"Libya","MENA",1,0,0,0,1,0,0,0,0,1,0,0
 620,2014,"Libya","MENA",27,0,0,0,4,0,0,0,3,1,0,0
-625,1990,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,1991,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,1992,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,1993,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,1994,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1990,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,1991,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,1992,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,1993,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,1994,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 625,1995,"Sudan","MENA",2,0,0,0,1,0,0,0,0,1,0,0
 625,1996,"Sudan","MENA",3,0,0,0,1,0,0,0,0,1,0,0
-625,1997,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,1998,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,1999,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,2000,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,2001,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,2002,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,2003,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,2004,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,1997,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,1998,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,1999,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,2000,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,2001,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,2002,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,2003,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,2004,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 625,2005,"Sudan","MENA",6,0,0,0,2,0,0,0,0,0,2,2
-625,2006,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,2007,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-625,2008,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2006,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,2007,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+625,2008,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 625,2009,"Sudan","MENA",4,0,0,0,2,0,0,2,3,0,0,1
-625,2010,"Sudan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+625,2010,"Sudan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 625,2011,"Sudan","MENA",1,0,0,0,0,1,1,0,0,0,1,0
 625,2012,"Sudan","MENA",6,0,0,1,0,4,1,0,0,0,5,1
 625,2013,"Sudan","MENA",15,0,0,1,0,1,1,0,0,0,1,1
@@ -2575,18 +2861,18 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 630,1990,"Iran","MENA",1,0,0,0,1,0,0,0,0,0,1,1
 630,1991,"Iran","MENA",8,0,1,0,0,1,0,1,1,1,1,1
 630,1992,"Iran","MENA",3,0,3,0,0,0,0,0,0,2,1,1
-630,1993,"Iran","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+630,1993,"Iran","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 630,1994,"Iran","MENA",5,0,0,0,2,2,0,0,2,1,0,1
 630,1995,"Iran","MENA",1,0,0,0,0,1,0,0,0,0,1,1
-630,1996,"Iran","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-630,1997,"Iran","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+630,1996,"Iran","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+630,1997,"Iran","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 630,1998,"Iran","MENA",5,0,0,1,3,0,1,0,4,1,0,0
 630,1999,"Iran","MENA",7,0,0,0,2,0,0,2,2,0,0,2
 630,2000,"Iran","MENA",5,0,0,0,5,0,0,0,2,3,0,0
 630,2001,"Iran","MENA",6,0,0,0,5,0,0,0,1,3,1,0
 630,2002,"Iran","MENA",13,2,0,0,6,0,0,0,7,0,1,0
 630,2003,"Iran","MENA",8,0,0,0,2,0,0,0,0,2,0,0
-630,2004,"Iran","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+630,2004,"Iran","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 630,2005,"Iran","MENA",3,0,0,1,1,0,0,1,0,0,3,1
 630,2006,"Iran","MENA",5,0,0,0,1,0,1,3,2,3,0,0
 630,2007,"Iran","MENA",8,1,0,0,3,1,0,2,4,2,1,0
@@ -2600,8 +2886,8 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 640,1990,"Turkey","MENA",8,0,0,0,1,0,0,0,0,0,1,1
 640,1991,"Turkey","MENA",2,0,0,1,1,0,0,0,0,0,2,2
 640,1992,"Turkey","MENA",2,0,0,0,1,0,0,0,0,0,1,1
-640,1993,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-640,1994,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+640,1993,"Turkey","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+640,1994,"Turkey","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 640,1995,"Turkey","MENA",3,0,0,0,1,0,0,0,0,0,1,1
 640,1996,"Turkey","MENA",3,1,0,1,1,0,0,0,2,0,0,1
 640,1997,"Turkey","MENA",4,0,0,0,4,0,0,0,4,0,0,0
@@ -2609,9 +2895,9 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 640,1999,"Turkey","MENA",3,0,0,2,1,0,0,0,0,2,1,1
 640,2000,"Turkey","MENA",2,0,0,1,0,1,0,0,1,0,1,0
 640,2001,"Turkey","MENA",5,0,0,0,3,2,0,0,3,2,0,0
-640,2002,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-640,2003,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-640,2004,"Turkey","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+640,2002,"Turkey","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+640,2003,"Turkey","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+640,2004,"Turkey","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 640,2005,"Turkey","MENA",1,0,0,0,0,0,0,1,0,0,1,0
 640,2006,"Turkey","MENA",8,0,0,0,3,0,0,0,0,2,1,1
 640,2007,"Turkey","MENA",6,1,0,0,4,0,0,0,3,1,0,1
@@ -2622,18 +2908,18 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 640,2012,"Turkey","MENA",3,0,0,0,2,0,0,1,3,0,0,0
 640,2013,"Turkey","MENA",29,0,0,4,2,0,2,2,6,0,2,2
 640,2014,"Turkey","MENA",21,1,0,0,21,0,2,0,12,8,1,1
-645,1990,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,1990,"Iraq","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 645,1991,"Iraq","MENA",1,0,0,0,1,0,0,0,0,1,0,0
 645,1992,"Iraq","MENA",2,0,0,0,1,0,0,0,1,0,0,0
-645,1993,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,1993,"Iraq","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 645,1994,"Iraq","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 645,1995,"Iraq","MENA",15,0,0,1,0,0,0,0,0,0,1,1
-645,1996,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-645,1997,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-645,1998,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-645,1999,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-645,2000,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-645,2001,"Iraq","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+645,1996,"Iraq","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+645,1997,"Iraq","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+645,1998,"Iraq","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+645,1999,"Iraq","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+645,2000,"Iraq","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+645,2001,"Iraq","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 645,2002,"Iraq","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 645,2003,"Iraq","MENA",8,0,0,0,8,0,0,0,8,0,0,0
 645,2004,"Iraq","MENA",7,0,0,0,7,0,0,0,5,0,2,2
@@ -2652,143 +2938,143 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 651,1992,"Egypt","MENA",4,0,0,0,1,0,0,0,1,0,0,0
 651,1993,"Egypt","MENA",3,0,0,2,1,0,1,0,1,0,2,2
 651,1994,"Egypt","MENA",3,0,0,3,0,0,0,0,2,0,1,1
-651,1995,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-651,1996,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-651,1997,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-651,1998,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-651,1999,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,1995,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+651,1996,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+651,1997,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+651,1998,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+651,1999,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 651,2000,"Egypt","MENA",1,0,0,1,0,0,0,0,0,0,1,1
-651,2001,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2001,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 651,2002,"Egypt","MENA",13,0,0,1,3,0,0,0,2,0,1,1
-651,2003,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2003,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 651,2004,"Egypt","MENA",5,0,0,0,1,0,0,2,3,0,0,0
 651,2005,"Egypt","MENA",6,0,0,1,1,0,5,0,6,0,0,0
 651,2006,"Egypt","MENA",3,0,0,2,1,0,1,0,2,0,1,0
-651,2007,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2007,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 651,2008,"Egypt","MENA",4,3,0,1,0,1,1,0,1,0,3,3
-651,2009,"Egypt","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+651,2009,"Egypt","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 651,2010,"Egypt","MENA",150,1,0,1,0,0,1,0,3,0,0,0
 651,2011,"Egypt","MENA",101,2,0,5,18,0,6,2,9,2,6,8
 651,2012,"Egypt","MENA",32,0,0,1,9,0,8,0,7,4,3,2
 651,2013,"Egypt","MENA",75,0,0,3,20,0,1,1,9,3,10,9
 651,2014,"Egypt","MENA",18,0,0,2,17,1,0,0,7,4,7,7
-652,1990,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1990,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 652,1991,"Syria","MENA",1,0,0,0,1,0,0,0,1,0,0,0
-652,1992,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1992,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 652,1993,"Syria","MENA",1,0,0,0,1,0,0,0,1,0,0,0
-652,1994,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,1995,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,1996,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,1997,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,1998,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,1999,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2000,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2001,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2002,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2003,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,1994,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,1995,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,1996,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,1997,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,1998,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,1999,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2000,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2001,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2002,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2003,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 652,2004,"Syria","MENA",16,0,0,1,2,0,0,0,0,0,3,2
-652,2005,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2006,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2007,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2008,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2009,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-652,2010,"Syria","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+652,2005,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2006,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2007,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2008,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2009,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+652,2010,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 652,2011,"Syria","MENA",629,0,0,2,2,0,1,0,2,0,1,1
 652,2012,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 652,2013,"Syria","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 652,2014,"Syria","MENA",4,0,0,2,3,0,1,0,3,0,1,1
 660,1990,"Lebanon","MENA",2,0,0,1,1,0,0,0,1,0,1,1
-660,1991,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,1991,"Lebanon","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 660,1992,"Lebanon","MENA",11,0,0,1,2,1,0,0,3,1,0,0
 660,1993,"Lebanon","MENA",3,0,0,1,2,0,0,0,1,0,2,2
 660,1994,"Lebanon","MENA",2,0,0,0,2,0,0,0,1,1,0,0
-660,1995,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-660,1996,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,1995,"Lebanon","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+660,1996,"Lebanon","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 660,1997,"Lebanon","MENA",1,0,0,1,0,0,0,0,1,0,0,0
-660,1998,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-660,1999,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,1998,"Lebanon","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+660,1999,"Lebanon","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 660,2000,"Lebanon","MENA",3,0,0,0,2,0,0,0,2,0,0,0
 660,2001,"Lebanon","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 660,2002,"Lebanon","MENA",5,0,0,0,5,0,0,0,5,0,0,0
-660,2003,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,2003,"Lebanon","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 660,2004,"Lebanon","MENA",1,0,0,1,0,1,0,0,0,0,1,1
 660,2005,"Lebanon","MENA",35,0,0,0,7,0,0,0,7,0,0,0
 660,2006,"Lebanon","MENA",6,0,0,1,3,0,1,0,5,1,0,0
 660,2007,"Lebanon","MENA",2,0,0,0,0,0,2,0,1,1,0,0
 660,2008,"Lebanon","MENA",9,1,0,0,1,1,3,0,2,2,0,0
-660,2009,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-660,2010,"Lebanon","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+660,2009,"Lebanon","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+660,2010,"Lebanon","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 660,2011,"Lebanon","MENA",4,0,0,0,4,0,0,0,4,0,0,0
 660,2012,"Lebanon","MENA",1,0,0,0,1,0,1,0,0,1,0,0
 660,2013,"Lebanon","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 660,2014,"Lebanon","MENA",11,0,1,0,4,0,0,0,4,0,0,0
-663,1990,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,1991,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,1992,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,1993,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1990,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,1991,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,1992,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,1993,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 663,1994,"Jordan","MENA",2,0,0,0,2,0,0,0,2,0,0,0
-663,1995,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1995,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 663,1996,"Jordan","MENA",4,0,0,0,0,1,0,0,0,0,1,1
 663,1997,"Jordan","MENA",2,0,0,0,1,0,0,0,1,0,1,0
-663,1998,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,1999,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2000,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2001,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2002,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2003,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2004,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2005,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2006,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2007,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2008,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-663,2009,"Jordan","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+663,1998,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,1999,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2000,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2001,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2002,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2003,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2004,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2005,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2006,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2007,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2008,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+663,2009,"Jordan","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 663,2010,"Jordan","MENA",8,2,0,0,2,0,0,0,3,1,0,0
 663,2011,"Jordan","MENA",16,0,0,0,11,9,2,0,11,2,1,1
 663,2012,"Jordan","MENA",11,1,0,0,6,4,0,0,6,1,1,1
 663,2013,"Jordan","MENA",2,0,0,0,2,0,0,0,2,0,0,0
 663,2014,"Jordan","MENA",4,0,0,1,3,0,2,0,3,0,1,1
-670,1990,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,1991,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,1992,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,1993,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1990,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,1991,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,1992,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,1993,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 670,1994,"Saudi Arabia","MENA",2,0,0,1,0,0,0,0,1,0,0,0
-670,1995,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,1996,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,1997,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,1998,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,1999,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,2000,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,2001,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,2002,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,1995,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,1996,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,1997,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,1998,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,1999,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,2000,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,2001,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,2002,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 670,2003,"Saudi Arabia","MENA",3,0,0,0,3,0,0,0,3,0,0,0
 670,2004,"Saudi Arabia","MENA",1,0,0,0,1,0,0,0,1,0,0,0
-670,2005,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,2006,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,2007,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2005,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,2006,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,2007,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 670,2008,"Saudi Arabia","MENA",2,0,0,0,2,0,0,0,1,0,1,1
-670,2009,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-670,2010,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+670,2009,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+670,2010,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 670,2011,"Saudi Arabia","MENA",7,1,0,0,6,0,0,0,5,0,2,2
 670,2012,"Saudi Arabia","MENA",4,0,0,1,2,0,0,1,0,1,2,1
 670,2013,"Saudi Arabia","MENA",2,0,0,0,2,0,0,0,1,0,1,1
 670,2014,"Saudi Arabia","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 679,1990,"Yemen","MENA",3,0,0,0,0,1,0,2,3,0,0,0
-679,1991,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,1991,"Yemen","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 679,1992,"Yemen","MENA",8,0,0,0,1,1,1,0,1,0,1,1
-679,1993,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,1993,"Yemen","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 679,1994,"Yemen","MENA",6,0,0,0,1,1,0,1,1,1,1,1
 679,1995,"Yemen","MENA",2,0,0,0,1,1,0,0,2,0,0,0
 679,1996,"Yemen","MENA",1,0,0,0,1,0,0,0,0,1,0,0
 679,1997,"Yemen","MENA",1,0,0,1,0,0,0,0,1,0,0,0
 679,1998,"Yemen","MENA",12,0,0,0,0,1,0,0,0,0,1,1
-679,1999,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-679,2000,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,1999,"Yemen","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+679,2000,"Yemen","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 679,2001,"Yemen","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 679,2002,"Yemen","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 679,2003,"Yemen","MENA",1,0,0,0,1,0,0,0,0,0,1,1
 679,2004,"Yemen","MENA",1,0,0,0,0,0,0,1,1,0,0,0
 679,2005,"Yemen","MENA",6,0,0,1,0,2,0,0,2,0,1,1
-679,2006,"Yemen","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+679,2006,"Yemen","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 679,2007,"Yemen","MENA",1,0,0,0,1,0,0,0,0,0,1,1
 679,2008,"Yemen","MENA",7,0,0,0,4,2,0,0,4,1,1,1
 679,2009,"Yemen","MENA",14,0,0,8,7,0,0,0,7,2,5,5
@@ -2797,177 +3083,177 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 679,2012,"Yemen","MENA",4,0,0,1,4,0,0,0,3,0,1,1
 679,2013,"Yemen","MENA",3,0,0,0,2,1,0,0,2,0,1,1
 679,2014,"Yemen","MENA",119,3,2,5,26,4,6,0,27,1,5,4
-690,1990,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,1990,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 690,1991,"Kuwait","MENA",3,0,0,0,3,0,0,0,3,0,0,0
 690,1992,"Kuwait","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 690,1993,"Kuwait","MENA",1,1,0,0,0,0,0,0,1,0,0,0
-690,1994,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-690,1995,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-690,1996,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-690,1997,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-690,1998,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,1994,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+690,1995,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+690,1996,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+690,1997,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+690,1998,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 690,1999,"Kuwait","MENA",33,0,0,0,0,0,0,1,0,0,0,1
 690,2000,"Kuwait","MENA",1,0,0,0,1,0,0,0,1,0,0,0
-690,2001,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-690,2002,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-690,2003,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-690,2004,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2001,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+690,2002,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+690,2003,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+690,2004,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 690,2005,"Kuwait","MENA",1,0,0,0,1,0,0,0,1,0,0,0
 690,2006,"Kuwait","MENA",1,0,0,0,1,0,0,0,1,0,0,0
-690,2007,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2007,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 690,2008,"Kuwait","MENA",8,1,0,0,1,0,0,0,1,0,0,1
-690,2009,"Kuwait","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+690,2009,"Kuwait","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 690,2010,"Kuwait","MENA",1,0,0,0,1,0,0,0,0,0,1,0
 690,2011,"Kuwait","MENA",4,1,0,0,4,0,1,0,3,1,0,0
 690,2012,"Kuwait","MENA",18,0,0,1,10,0,0,0,9,1,1,0
 690,2013,"Kuwait","MENA",7,0,0,0,5,0,0,0,4,1,0,0
 690,2014,"Kuwait","MENA",5,0,0,5,5,0,0,0,0,5,0,0
-692,1990,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-692,1991,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-692,1992,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-692,1993,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1990,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+692,1991,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+692,1992,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+692,1993,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 692,1994,"Bahrain","MENA",15,0,0,0,1,0,0,0,0,0,1,1
-692,1995,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1995,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 692,1996,"Bahrain","MENA",4,0,0,0,4,0,0,0,1,2,1,0
-692,1997,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-692,1998,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-692,1999,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,1997,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+692,1998,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+692,1999,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 692,2000,"Bahrain","MENA",1,1,0,0,0,0,0,0,1,0,0,0
-692,2001,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-692,2002,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2001,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+692,2002,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 692,2003,"Bahrain","MENA",1,0,0,0,1,0,0,0,0,1,0,0
-692,2004,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2004,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 692,2005,"Bahrain","MENA",2,1,0,0,1,0,0,0,1,0,1,0
-692,2006,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2006,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 692,2007,"Bahrain","MENA",5,0,1,0,2,0,0,0,1,2,0,0
-692,2008,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-692,2009,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-692,2010,"Bahrain","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+692,2008,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+692,2009,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+692,2010,"Bahrain","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 692,2011,"Bahrain","MENA",38,2,0,2,7,0,2,0,6,0,2,2
 692,2012,"Bahrain","MENA",11,2,0,1,8,0,0,1,7,1,0,1
 692,2013,"Bahrain","MENA",6,0,0,0,4,0,0,0,0,3,1,1
 692,2014,"Bahrain","MENA",10,0,1,2,7,0,0,0,4,4,0,0
-694,1990,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1991,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1992,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1993,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1994,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1995,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1996,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1997,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1998,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,1999,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2000,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,1990,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1991,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1992,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1993,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1994,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1995,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1996,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1997,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1998,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,1999,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2000,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 694,2001,"Qatar","MENA",6,0,0,0,1,0,0,0,1,0,0,0
-694,2002,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2003,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2004,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2005,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2006,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2007,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2008,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2009,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-694,2010,"Qatar","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+694,2002,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2003,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2004,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2005,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2006,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2007,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2008,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2009,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+694,2010,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 694,2011,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 694,2012,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 694,2013,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 694,2014,"Qatar","MENA",0,0,0,0,0,0,0,0,0,0,0,0
-696,1990,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1991,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1992,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1993,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1994,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1995,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1996,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1997,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1998,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,1999,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,2000,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,2001,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,2002,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,2003,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,2004,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,1990,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1991,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1992,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1993,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1994,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1995,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1996,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1997,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1998,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,1999,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2000,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2001,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2002,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2003,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2004,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 696,2005,"United Arab Emirate","MENA",1,1,0,0,0,0,0,0,1,0,0,0
 696,2006,"United Arab Emirate","MENA",1,1,0,0,0,0,0,0,0,1,0,0
 696,2007,"United Arab Emirate","MENA",1,0,0,0,0,1,0,0,0,1,0,0
-696,2008,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,2009,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-696,2010,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+696,2008,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2009,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+696,2010,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 696,2011,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 696,2012,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 696,2013,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 696,2014,"United Arab Emirate","MENA",0,0,0,0,0,0,0,0,0,0,0,0
-698,1990,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1991,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1992,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1993,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1994,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1995,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1996,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1997,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1998,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,1999,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2000,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2001,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2002,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2003,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2004,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2005,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2006,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2007,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2008,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2009,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
-698,2010,"Oman","MENA",0,0,0,0,0,0,0,0,1,0,0,0
+698,1990,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1991,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1992,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1993,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1994,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1995,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1996,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1997,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1998,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,1999,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2000,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2001,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2002,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2003,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2004,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2005,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2006,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2007,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2008,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2009,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
+698,2010,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
 698,2011,"Oman","MENA",28,17,0,1,18,3,2,0,18,2,1,1
 698,2012,"Oman","MENA",2,0,0,0,2,0,1,0,2,0,0,0
 698,2013,"Oman","MENA",2,1,0,0,1,0,1,0,2,0,0,0
 698,2014,"Oman","MENA",0,0,0,0,0,0,0,0,0,0,0,0
-700,1990,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1990,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 700,1991,"Afghanistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
-700,1992,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,1993,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,1994,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,1995,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,1996,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1992,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,1993,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,1994,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,1995,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,1996,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 700,1997,"Afghanistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
 700,1998,"Afghanistan","Asia",1,0,0,0,0,0,0,1,1,0,0,0
-700,1999,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,2000,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,2001,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,2002,"Afghanistan","Asia",2,0,0,0,1,0,0,0,1,1,0,0
-700,2003,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,2004,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,1999,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,2000,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,2001,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,2002,"Afghanistan","Asia",2,0,0,0,1,0,0,0,0,1,0,0
+700,2003,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,2004,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 700,2005,"Afghanistan","Asia",2,0,0,0,0,0,0,2,2,0,0,0
-700,2006,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,2007,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,2008,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,2009,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-700,2010,"Afghanistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+700,2006,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,2007,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,2008,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,2009,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+700,2010,"Afghanistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 700,2011,"Afghanistan","Asia",5,0,0,1,3,0,0,0,3,1,0,0
 700,2012,"Afghanistan","Asia",1,0,0,0,0,0,1,0,0,0,1,1
 700,2013,"Afghanistan","Asia",1,0,0,1,0,0,0,0,0,0,1,1
 700,2014,"Afghanistan","Asia",6,0,0,0,6,0,0,0,6,0,0,0
-701,1990,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,1991,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,1992,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,1993,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,1994,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1990,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,1991,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,1992,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,1993,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,1994,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 701,1995,"Turkmenistan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
-701,1996,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,1997,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,1998,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,1999,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2000,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2001,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2002,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2003,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2004,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2005,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2006,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2007,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,1996,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,1997,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,1998,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,1999,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2000,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2001,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2002,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2003,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2004,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2005,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2006,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2007,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 701,2008,"Turkmenistan","Asia",4,0,0,1,0,0,0,0,1,0,0,0
-701,2009,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-701,2010,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+701,2009,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+701,2010,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 701,2011,"Turkmenistan","Asia",1,0,1,0,0,0,0,0,1,0,0,0
 701,2012,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 701,2013,"Turkmenistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
@@ -2975,42 +3261,42 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 702,1990,"Tajikistan","Asia",4,0,0,0,1,1,0,0,1,1,0,0
 702,1991,"Tajikistan","Asia",13,0,0,0,1,0,0,0,1,0,0,0
 702,1992,"Tajikistan","Asia",10,0,0,0,3,0,0,0,1,1,1,1
-702,1993,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,1994,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,1993,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,1994,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 702,1995,"Tajikistan","Asia",4,0,0,0,0,1,0,0,1,0,0,0
 702,1996,"Tajikistan","Asia",13,0,0,1,4,2,1,0,7,1,0,0
 702,1997,"Tajikistan","Asia",12,0,0,0,2,0,0,0,2,0,0,0
-702,1998,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,1999,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,2000,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,2001,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,2002,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,2003,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,2004,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,2005,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,2006,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-702,2007,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,1998,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,1999,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,2000,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,2001,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,2002,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,2003,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,2004,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,2005,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,2006,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+702,2007,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 702,2008,"Tajikistan","Asia",4,0,0,1,1,2,0,0,4,0,0,0
-702,2009,"Tajikistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+702,2009,"Tajikistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 702,2010,"Tajikistan","Asia",2,0,0,0,0,2,0,0,2,0,0,0
 702,2011,"Tajikistan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 702,2012,"Tajikistan","Asia",6,0,0,2,4,0,0,0,2,0,2,2
 702,2013,"Tajikistan","Asia",3,0,0,0,1,2,0,0,3,0,0,0
 702,2014,"Tajikistan","Asia",1,0,0,1,0,0,0,0,0,0,1,1
 703,1990,"Kyrgyzstan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
-703,1991,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1991,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 703,1992,"Kyrgyzstan","Asia",1,0,0,0,0,1,0,0,0,1,0,0
-703,1993,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1993,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 703,1994,"Kyrgyzstan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
-703,1995,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-703,1996,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-703,1997,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1995,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+703,1996,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+703,1997,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 703,1998,"Kyrgyzstan","Asia",2,1,0,0,1,0,0,0,2,0,0,0
-703,1999,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,1999,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 703,2000,"Kyrgyzstan","Asia",8,0,0,0,5,0,0,0,4,1,0,0
 703,2001,"Kyrgyzstan","Asia",2,0,1,0,1,0,0,0,2,0,0,0
 703,2002,"Kyrgyzstan","Asia",38,1,0,1,11,0,1,0,13,0,1,1
-703,2003,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+703,2003,"Kyrgyzstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 703,2004,"Kyrgyzstan","Asia",1,0,0,0,0,1,0,0,1,0,0,0
 703,2005,"Kyrgyzstan","Asia",18,0,0,0,13,0,0,0,6,5,2,1
 703,2006,"Kyrgyzstan","Asia",11,0,0,1,3,0,0,0,4,0,0,0
@@ -3023,16 +3309,16 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 703,2013,"Kyrgyzstan","Asia",87,1,2,1,31,0,2,0,27,7,0,0
 703,2014,"Kyrgyzstan","Asia",2,0,1,0,2,0,0,0,0,2,0,0
 704,1990,"Uzbekistan","Asia",3,0,0,0,2,0,0,0,0,0,2,2
-704,1991,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1991,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 704,1992,"Uzbekistan","Asia",1,0,0,0,0,1,0,0,0,0,1,1
-704,1993,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-704,1994,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1993,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+704,1994,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 704,1995,"Uzbekistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
-704,1996,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-704,1997,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-704,1998,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-704,1999,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-704,2000,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,1996,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+704,1997,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+704,1998,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+704,1999,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+704,2000,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 704,2001,"Uzbekistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
 704,2002,"Uzbekistan","Asia",2,0,0,0,1,1,0,0,2,0,0,0
 704,2003,"Uzbekistan","Asia",24,1,0,0,2,0,0,0,3,0,0,0
@@ -3041,14 +3327,14 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 704,2006,"Uzbekistan","Asia",1,0,0,0,0,0,0,1,0,1,0,0
 704,2007,"Uzbekistan","Asia",2,0,0,1,0,1,0,0,1,0,0,1
 704,2008,"Uzbekistan","Asia",3,0,0,0,1,1,0,1,3,0,0,0
-704,2009,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+704,2009,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 704,2010,"Uzbekistan","Asia",1,0,0,1,0,0,0,0,1,0,0,0
 704,2011,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 704,2012,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 704,2013,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 704,2014,"Uzbekistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 705,1990,"Kazakhstan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
-705,1991,"Kazakhstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+705,1991,"Kazakhstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 705,1992,"Kazakhstan","Asia",12,0,0,1,0,0,1,0,1,0,1,1
 705,1993,"Kazakhstan","Asia",1,1,0,0,0,0,0,0,0,0,1,1
 705,1994,"Kazakhstan","Asia",17,1,0,0,0,0,1,0,2,0,0,0
@@ -3058,7 +3344,7 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 705,1998,"Kazakhstan","Asia",5,4,0,0,0,1,0,0,5,0,0,0
 705,1999,"Kazakhstan","Asia",5,4,0,0,1,0,0,0,5,0,0,0
 705,2000,"Kazakhstan","Asia",1,1,0,0,0,0,0,0,1,0,0,0
-705,2001,"Kazakhstan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+705,2001,"Kazakhstan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 705,2002,"Kazakhstan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 705,2003,"Kazakhstan","Asia",7,0,1,0,0,0,0,0,1,0,0,0
 705,2004,"Kazakhstan","Asia",6,2,0,1,2,0,0,1,6,0,0,0
@@ -3077,8 +3363,8 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 710,1992,"China","Asia",2,0,0,0,1,0,0,0,0,1,0,0
 710,1993,"China","Asia",3,0,0,0,0,2,0,0,0,2,0,0
 710,1994,"China","Asia",2,0,1,0,0,0,0,0,0,1,0,0
-710,1995,"China","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-710,1996,"China","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+710,1995,"China","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+710,1996,"China","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 710,1997,"China","Asia",4,2,0,1,1,0,0,0,3,1,0,0
 710,1998,"China","Asia",11,2,0,0,5,0,0,0,4,1,1,2
 710,1999,"China","Asia",13,0,0,0,4,1,0,3,7,1,0,0
@@ -3096,27 +3382,27 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 710,2011,"China","Asia",41,1,3,2,7,1,0,0,4,6,2,2
 710,2012,"China","Asia",38,0,0,1,20,0,0,1,10,2,7,7
 710,2013,"China","Asia",10,1,0,2,7,0,1,0,8,0,1,2
-710,2014,"China","Asia",139,4,5,7,25,0,1,5,24,7,3,5
+710,2014,"China","Asia",139,4,5,7,25,0,1,5,24,6,3,6
 712,1990,"Mongolia","Asia",13,1,0,0,12,0,4,0,12,0,0,0
 712,1991,"Mongolia","Asia",3,0,0,0,3,0,1,0,3,0,0,0
-712,1992,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,1992,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 712,1993,"Mongolia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 712,1994,"Mongolia","Asia",2,0,0,0,2,0,1,0,2,0,0,0
-712,1995,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,1995,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 712,1996,"Mongolia","Asia",1,1,0,0,1,0,0,0,1,0,0,0
 712,1997,"Mongolia","Asia",1,1,0,0,1,1,0,0,1,0,0,0
 712,1998,"Mongolia","Asia",2,1,0,0,1,0,0,0,2,0,0,0
-712,1999,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-712,2000,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-712,2001,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,1999,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+712,2000,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+712,2001,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 712,2002,"Mongolia","Asia",1,0,1,0,0,0,0,0,1,0,0,0
 712,2003,"Mongolia","Asia",1,0,1,0,0,0,0,0,1,0,0,0
-712,2004,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,2004,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 712,2005,"Mongolia","Asia",6,1,0,0,4,0,1,0,6,0,0,0
 712,2006,"Mongolia","Asia",20,0,5,0,3,1,4,0,8,1,0,0
 712,2007,"Mongolia","Asia",1,0,0,0,0,1,0,0,1,0,0,0
 712,2008,"Mongolia","Asia",5,0,0,0,3,1,0,0,1,3,0,0
-712,2009,"Mongolia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+712,2009,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 712,2010,"Mongolia","Asia",1,0,0,0,1,0,1,0,1,0,0,0
 712,2011,"Mongolia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 712,2012,"Mongolia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
@@ -3147,27 +3433,27 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 713,2012,"Taiwan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 713,2013,"Taiwan","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 713,2014,"Taiwan","Asia",28,0,0,0,3,0,0,1,3,0,0,1
-731,1990,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,1990,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 731,1991,"North Korea","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 731,1992,"North Korea","Asia",1,0,0,0,0,1,0,0,0,0,1,1
 731,1993,"North Korea","Asia",5,0,0,0,1,0,0,0,0,1,0,0
-731,1994,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,1995,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,1994,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,1995,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 731,1996,"North Korea","Asia",2,1,0,0,1,0,0,0,1,0,1,1
-731,1997,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,1997,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 731,1998,"North Korea","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 731,1999,"North Korea","Asia",1,0,0,0,1,0,0,0,0,1,0,0
-731,2000,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,2001,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,2002,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,2003,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,2004,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,2005,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,2006,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,2007,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-731,2008,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2000,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2001,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2002,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2003,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2004,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2005,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2006,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2007,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+731,2008,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 731,2009,"North Korea","Asia",1,0,0,0,0,1,0,0,1,0,0,0
-731,2010,"North Korea","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+731,2010,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 731,2011,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 731,2012,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 731,2013,"North Korea","Asia",0,0,0,0,0,0,0,0,0,0,0,0
@@ -3201,21 +3487,21 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 740,1991,"Japan","Asia",2,1,1,0,0,0,0,0,2,0,0,0
 740,1992,"Japan","Asia",10,1,2,0,1,1,0,1,5,1,0,0
 740,1993,"Japan","Asia",2,0,0,0,0,2,0,0,2,0,0,0
-740,1994,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-740,1995,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-740,1996,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,1994,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+740,1995,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+740,1996,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 740,1997,"Japan","Asia",5,0,0,0,1,2,1,0,4,0,0,0
-740,1998,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,1998,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 740,1999,"Japan","Asia",3,1,2,0,0,0,0,0,3,0,0,0
 740,2000,"Japan","Asia",1,0,1,0,0,0,0,0,1,0,0,0
-740,2001,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-740,2002,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-740,2003,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,2001,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+740,2002,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+740,2003,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 740,2004,"Japan","Asia",1,0,0,0,0,0,0,0,1,0,0,0
-740,2005,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,2005,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 740,2006,"Japan","Asia",2,0,0,0,2,0,0,0,2,0,0,0
 740,2007,"Japan","Asia",9,0,0,0,3,0,0,0,3,0,0,0
-740,2008,"Japan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+740,2008,"Japan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 740,2009,"Japan","Asia",5,2,0,0,3,0,0,0,5,0,0,0
 740,2010,"Japan","Asia",2,0,0,0,2,0,0,0,2,0,0,0
 740,2011,"Japan","Asia",1,0,1,0,1,0,0,0,0,1,0,0
@@ -3235,7 +3521,7 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 750,2000,"India","Asia",16,1,1,1,1,0,0,1,0,4,1,1
 750,2001,"India","Asia",9,0,0,3,6,0,0,0,2,5,2,2
 750,2002,"India","Asia",4,0,0,1,2,0,0,1,2,2,0,0
-750,2003,"India","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+750,2003,"India","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 750,2004,"India","Asia",5,0,0,1,2,0,0,1,1,2,1,1
 750,2005,"India","Asia",7,1,0,0,3,0,0,0,0,0,2,4
 750,2006,"India","Asia",14,2,3,0,4,1,0,0,4,4,2,1
@@ -3248,26 +3534,26 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 750,2013,"India","Asia",10,0,0,2,7,1,0,0,3,5,1,1
 750,2014,"India","Asia",16,0,0,1,10,1,0,5,8,5,0,0
 760,1990,"Bhutan","Asia",7,0,0,0,1,0,0,0,0,0,1,1
-760,1991,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,1992,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,1993,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,1994,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,1995,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,1996,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,1997,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,1998,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,1991,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,1992,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,1993,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,1994,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,1995,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,1996,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,1997,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,1998,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 760,1999,"Bhutan","Asia",1,0,0,0,1,0,0,1,1,0,0,0
-760,2000,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2001,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2002,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2003,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2004,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2005,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2006,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2007,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2008,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2009,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-760,2010,"Bhutan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+760,2000,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2001,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2002,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2003,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2004,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2005,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2006,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2007,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2008,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2009,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+760,2010,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 760,2011,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 760,2012,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 760,2013,"Bhutan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
@@ -3275,7 +3561,7 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 770,1990,"Pakistan","Asia",5,0,0,0,4,0,0,1,1,2,2,2
 770,1991,"Pakistan","Asia",3,0,0,0,3,0,0,0,1,1,0,1
 770,1992,"Pakistan","Asia",8,0,0,0,5,0,0,0,3,1,1,1
-770,1993,"Pakistan","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+770,1993,"Pakistan","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 770,1994,"Pakistan","Asia",10,0,0,0,3,0,0,0,0,1,2,2
 770,1995,"Pakistan","Asia",3,0,0,1,2,0,0,0,2,0,1,1
 770,1996,"Pakistan","Asia",5,0,0,1,1,1,1,0,2,1,1,1
@@ -3298,9 +3584,9 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 770,2013,"Pakistan","Asia",16,0,0,0,7,0,2,3,5,3,0,0
 770,2014,"Pakistan","Asia",199,0,0,1,2,1,3,0,0,6,1,1
 771,1990,"Bangladesh","Asia",16,0,0,0,5,0,5,0,0,0,6,10
-771,1991,"Bangladesh","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+771,1991,"Bangladesh","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 771,1992,"Bangladesh","Asia",6,0,0,0,6,0,0,0,0,3,0,3
-771,1993,"Bangladesh","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+771,1993,"Bangladesh","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 771,1994,"Bangladesh","Asia",14,1,0,0,10,0,2,0,5,3,2,5
 771,1995,"Bangladesh","Asia",25,0,0,2,1,0,10,0,2,1,3,9
 771,1996,"Bangladesh","Asia",7,0,0,0,3,0,3,0,1,0,4,5
@@ -3324,31 +3610,31 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 771,2014,"Bangladesh","Asia",72,6,5,13,45,3,5,4,38,15,5,6
 775,1990,"Myanmar","Asia",64,0,0,0,3,0,0,0,2,0,1,1
 775,1991,"Myanmar","Asia",2,0,0,0,2,0,0,0,2,0,0,0
-775,1992,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,1993,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,1994,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,1995,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,1992,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,1993,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,1994,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,1995,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 775,1996,"Myanmar","Asia",13,0,0,3,5,0,0,0,7,1,0,0
 775,1997,"Myanmar","Asia",2,0,0,0,1,0,0,0,1,0,0,0
 775,1998,"Myanmar","Asia",2,0,0,0,2,0,0,0,2,0,0,0
-775,1999,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2000,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2001,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2002,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2003,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2004,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2005,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2006,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,1999,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2000,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2001,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2002,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2003,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2004,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2005,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2006,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 775,2007,"Myanmar","Asia",27,0,0,1,7,13,0,0,18,0,3,1
-775,2008,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2009,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-775,2010,"Myanmar","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+775,2008,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2009,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+775,2010,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 775,2011,"Myanmar","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 775,2012,"Myanmar","Asia",19,0,1,0,0,1,0,1,2,0,0,0
 775,2013,"Myanmar","Asia",1,0,0,0,0,0,0,1,0,1,0,0
 775,2014,"Myanmar","Asia",21,0,6,1,11,1,1,0,16,0,0,0
-780,1990,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-780,1991,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,1990,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+780,1991,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 780,1992,"Sri Lanka","Asia",4,0,0,0,3,0,0,1,2,2,0,0
 780,1993,"Sri Lanka","Asia",1,0,0,1,0,0,0,0,0,1,0,0
 780,1994,"Sri Lanka","Asia",3,0,0,0,3,0,0,0,1,1,1,1
@@ -3359,13 +3645,13 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 780,1999,"Sri Lanka","Asia",3,0,0,1,2,0,0,0,2,1,0,0
 780,2000,"Sri Lanka","Asia",3,0,0,0,1,0,0,0,1,0,0,0
 780,2001,"Sri Lanka","Asia",9,0,0,0,4,0,0,1,3,1,1,1
-780,2002,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,2002,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 780,2003,"Sri Lanka","Asia",2,0,0,0,2,0,0,0,2,0,0,0
-780,2004,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,2004,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 780,2005,"Sri Lanka","Asia",15,0,0,0,4,1,0,0,5,0,0,0
-780,2006,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-780,2007,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-780,2008,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+780,2006,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+780,2007,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+780,2008,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 780,2009,"Sri Lanka","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 780,2010,"Sri Lanka","Asia",3,0,0,0,3,0,0,0,2,1,0,0
 780,2011,"Sri Lanka","Asia",0,0,0,0,0,0,0,0,0,0,0,0
@@ -3397,13 +3683,13 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 790,2012,"Nepal","Asia",6,0,0,0,5,0,2,1,3,3,0,0
 790,2013,"Nepal","Asia",6,0,0,0,5,0,1,3,3,2,0,0
 790,2014,"Nepal","Asia",1,0,0,0,0,1,0,0,0,1,0,0
-800,1990,"Thailand","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+800,1990,"Thailand","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 800,1991,"Thailand","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 800,1992,"Thailand","Asia",10,0,0,0,0,0,4,0,3,0,1,1
 800,1993,"Thailand","Asia",2,0,2,0,0,0,0,0,2,0,0,0
 800,1994,"Thailand","Asia",2,0,0,0,2,0,0,0,2,0,0,0
-800,1995,"Thailand","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-800,1996,"Thailand","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+800,1995,"Thailand","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+800,1996,"Thailand","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 800,1997,"Thailand","Asia",120,0,4,0,0,0,1,0,5,0,0,0
 800,1998,"Thailand","Asia",13,1,2,0,2,0,0,0,3,2,0,0
 800,1999,"Thailand","Asia",7,1,2,0,0,0,0,0,3,0,0,0
@@ -3422,86 +3708,86 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 800,2012,"Thailand","Asia",56,0,0,0,5,0,1,0,4,1,0,0
 800,2013,"Thailand","Asia",31,1,0,0,21,0,15,0,19,4,0,0
 800,2014,"Thailand","Asia",29,0,0,0,12,2,4,0,12,3,1,1
-811,1990,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,1990,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 811,1991,"Cambodia","Asia",8,0,0,0,1,0,2,0,0,0,3,3
-811,1992,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-811,1993,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,1992,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+811,1993,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 811,1994,"Cambodia","Asia",17,0,0,0,1,0,0,0,0,0,1,1
-811,1995,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,1995,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 811,1996,"Cambodia","Asia",1,1,0,0,0,0,0,0,1,0,0,0
 811,1997,"Cambodia","Asia",2,1,0,0,1,0,0,0,2,0,0,0
 811,1998,"Cambodia","Asia",33,0,0,0,5,0,0,0,2,2,1,1
 811,1999,"Cambodia","Asia",1,1,0,0,0,0,0,0,1,0,0,0
 811,2000,"Cambodia","Asia",3,1,1,0,1,0,0,0,3,0,0,0
-811,2001,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-811,2002,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2001,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+811,2002,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 811,2003,"Cambodia","Asia",8,0,0,0,1,1,0,0,1,0,2,2
 811,2004,"Cambodia","Asia",3,0,1,1,0,0,0,0,3,0,0,0
-811,2005,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2005,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 811,2006,"Cambodia","Asia",7,0,1,0,1,0,0,0,2,0,0,0
 811,2007,"Cambodia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
-811,2008,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-811,2009,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-811,2010,"Cambodia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+811,2008,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+811,2009,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+811,2010,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 811,2011,"Cambodia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 811,2012,"Cambodia","Asia",3,1,1,0,1,0,0,0,2,0,1,1
 811,2013,"Cambodia","Asia",10,3,0,1,4,0,1,0,4,0,3,3
 811,2014,"Cambodia","Asia",8,3,0,0,4,0,1,0,6,0,2,1
-812,1990,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,1991,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,1992,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,1993,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,1994,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,1995,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,1996,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,1997,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,1998,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,1990,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,1991,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,1992,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,1993,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,1994,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,1995,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,1996,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,1997,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,1998,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 812,1999,"Laos","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 812,2000,"Laos","Asia",1,0,0,0,1,0,0,0,1,0,0,0
-812,2001,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2002,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2003,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2004,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2005,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2006,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2007,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2008,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2009,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-812,2010,"Laos","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+812,2001,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2002,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2003,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2004,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2005,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2006,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2007,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2008,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2009,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+812,2010,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 812,2011,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 812,2012,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 812,2013,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 812,2014,"Laos","Asia",0,0,0,0,0,0,0,0,0,0,0,0
-816,1990,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-816,1991,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-816,1992,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1990,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+816,1991,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+816,1992,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,1993,"Vietnam","Asia",2,0,0,0,2,0,0,1,2,0,0,0
-816,1994,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-816,1995,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1994,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+816,1995,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,1996,"Vietnam","Asia",3,0,2,0,0,0,0,0,0,2,0,0
 816,1997,"Vietnam","Asia",6,0,1,0,0,2,1,0,0,2,0,0
-816,1998,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-816,1999,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,1998,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+816,1999,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,2000,"Vietnam","Asia",136,0,1,0,1,0,1,0,1,0,0,0
 816,2001,"Vietnam","Asia",90,0,1,0,0,0,0,1,0,1,0,0
-816,2002,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-816,2003,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2002,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+816,2003,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,2004,"Vietnam","Asia",2,0,1,0,0,0,0,1,1,0,0,0
-816,2005,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2005,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,2006,"Vietnam","Asia",52,2,0,0,0,0,0,0,1,1,0,0
-816,2007,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2007,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,2008,"Vietnam","Asia",33,0,2,0,0,0,0,1,2,0,0,0
-816,2009,"Vietnam","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+816,2009,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,2010,"Vietnam","Asia",1,0,0,1,0,0,0,0,1,0,0,0
 816,2011,"Vietnam","Asia",5,0,0,0,1,0,0,0,0,1,0,0
 816,2012,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,2013,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 816,2014,"Vietnam","Asia",0,0,0,0,0,0,0,0,0,0,0,0
-820,1990,"Malaysia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-820,1991,"Malaysia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-820,1992,"Malaysia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+820,1990,"Malaysia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+820,1991,"Malaysia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+820,1992,"Malaysia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 820,1993,"Malaysia","Asia",2,1,0,0,1,0,0,0,2,0,0,0
-820,1994,"Malaysia","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+820,1994,"Malaysia","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 820,1995,"Malaysia","Asia",61,1,0,0,2,0,0,0,3,0,0,0
 820,1996,"Malaysia","Asia",4,0,0,0,3,0,0,0,2,1,0,0
 820,1997,"Malaysia","Asia",4,0,0,0,4,0,0,0,4,0,0,0
@@ -3522,27 +3808,27 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 820,2012,"Malaysia","Asia",2,0,1,0,1,0,0,0,2,0,0,0
 820,2013,"Malaysia","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 820,2014,"Malaysia","Asia",5,0,0,0,3,2,0,1,3,1,0,0
-830,1990,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1991,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1992,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1993,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1994,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1995,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1996,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1997,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1998,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,1999,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2000,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,1990,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1991,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1992,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1993,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1994,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1995,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1996,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1997,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1998,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,1999,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2000,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 830,2001,"Singapore","Asia",1,0,0,1,0,0,0,0,0,1,0,0
-830,2002,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2003,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2004,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2005,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2006,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2007,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2008,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2009,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-830,2010,"Singapore","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+830,2002,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2003,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2004,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2005,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2006,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2007,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2008,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2009,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+830,2010,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 830,2011,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 830,2012,"Singapore","Asia",2,2,0,0,0,0,0,0,2,0,0,0
 830,2013,"Singapore","Asia",0,0,0,0,0,0,0,0,0,0,0,0
@@ -3550,24 +3836,24 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 840,1990,"Philippines","Asia",5,0,0,0,3,1,1,0,4,1,0,0
 840,1991,"Philippines","Asia",3,0,0,0,1,0,2,0,3,0,0,0
 840,1992,"Philippines","Asia",1,0,0,0,0,0,1,0,1,0,0,0
-840,1993,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-840,1994,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,1993,"Philippines","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+840,1994,"Philippines","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 840,1995,"Philippines","Asia",3,0,0,0,1,1,0,1,3,0,0,0
 840,1996,"Philippines","Asia",17,0,0,0,2,1,1,0,3,1,0,0
 840,1997,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
-840,1998,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,1998,"Philippines","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 840,1999,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 840,2000,"Philippines","Asia",14,0,0,0,2,0,5,0,7,0,0,0
 840,2001,"Philippines","Asia",10,0,0,0,0,1,2,0,2,1,0,0
-840,2002,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-840,2003,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,2002,"Philippines","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+840,2003,"Philippines","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 840,2004,"Philippines","Asia",1,0,0,0,0,0,0,1,1,0,0,0
 840,2005,"Philippines","Asia",3,0,0,0,0,0,3,0,3,0,0,0
 840,2006,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
-840,2007,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,2007,"Philippines","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 840,2008,"Philippines","Asia",2,0,0,0,0,0,2,0,2,0,0,0
 840,2009,"Philippines","Asia",1,0,0,0,0,0,1,0,1,0,0,0
-840,2010,"Philippines","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+840,2010,"Philippines","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 840,2011,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 840,2012,"Philippines","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 840,2013,"Philippines","Asia",3,0,0,0,3,0,0,0,3,0,0,0
@@ -3598,37 +3884,37 @@ ccode,year,country,regionnm,protestdays,labor,land,police,political,prices,remov
 850,2013,"Indonesia","Asia",5,2,0,0,3,2,0,0,4,1,0,0
 850,2014,"Indonesia","Asia",6,0,0,0,5,1,0,0,5,1,0,0
 860,2002,"Timor Leste","Asia",1,0,0,1,0,0,0,0,0,0,1,1
-860,2003,"Timor Leste","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+860,2003,"Timor Leste","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 860,2004,"Timor Leste","Asia",3,0,0,0,2,0,0,0,1,1,0,0
 860,2005,"Timor Leste","Asia",2,0,0,0,0,0,1,0,1,0,0,0
 860,2006,"Timor Leste","Asia",9,0,0,0,1,0,1,0,1,0,1,1
 860,2007,"Timor Leste","Asia",4,0,0,0,1,0,0,0,0,1,0,0
 860,2008,"Timor Leste","Asia",3,0,0,0,1,0,0,0,1,0,0,0
-860,2009,"Timor Leste","Asia",0,0,0,0,0,0,0,0,1,0,0,0
-860,2010,"Timor Leste","Asia",0,0,0,0,0,0,0,0,1,0,0,0
+860,2009,"Timor Leste","Asia",0,0,0,0,0,0,0,0,0,0,0,0
+860,2010,"Timor Leste","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 860,2011,"Timor Leste","Asia",1,0,0,0,1,0,0,0,1,0,0,0
 860,2012,"Timor Leste","Asia",2,1,0,0,1,0,0,0,1,1,0,0
 860,2013,"Timor Leste","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 860,2014,"Timor Leste","Asia",0,0,0,0,0,0,0,0,0,0,0,0
 910,1990,"Papua New Guinea","Oceania",4,0,1,0,1,0,1,0,2,1,0,0
 910,1991,"Papua New Guinea","Oceania",43,0,0,0,2,0,0,0,0,2,0,0
-910,1992,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,1992,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,0,0,0,0
 910,1993,"Papua New Guinea","Oceania",1,0,0,0,0,0,1,0,1,0,0,0
-910,1994,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,1994,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,0,0,0,0
 910,1995,"Papua New Guinea","Oceania",1,0,0,0,1,0,0,0,1,0,0,0
 910,1996,"Papua New Guinea","Oceania",1,0,0,1,0,0,0,0,1,0,0,0
 910,1997,"Papua New Guinea","Oceania",3,0,0,0,0,0,2,0,0,2,0,0
 910,1998,"Papua New Guinea","Oceania",1,0,0,1,0,0,0,0,1,0,0,0
-910,1999,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,1999,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,0,0,0,0
 910,2000,"Papua New Guinea","Oceania",2,1,0,1,0,0,0,0,2,0,0,0
 910,2001,"Papua New Guinea","Oceania",18,0,0,1,4,0,0,0,3,2,0,0
-910,2002,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
-910,2003,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,2002,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,0,0,0,0
+910,2003,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,0,0,0,0
 910,2004,"Papua New Guinea","Oceania",2,0,0,1,1,0,0,0,2,0,0,0
 910,2005,"Papua New Guinea","Oceania",5,3,0,1,1,0,0,0,4,0,1,1
-910,2006,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
-910,2007,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
-910,2008,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,1,0,0,0
+910,2006,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,0,0,0,0
+910,2007,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,0,0,0,0
+910,2008,"Papua New Guinea","Oceania",0,0,0,0,0,0,0,0,0,0,0,0
 910,2009,"Papua New Guinea","Oceania",1,0,0,0,1,0,0,0,1,0,0,0
 910,2010,"Papua New Guinea","Oceania",2,0,0,0,1,0,1,0,1,1,0,0
 910,2011,"Papua New Guinea","Oceania",1,0,0,0,1,0,0,0,1,0,0,0

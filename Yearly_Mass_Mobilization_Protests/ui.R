@@ -89,15 +89,15 @@ br(), br(),
 ##  current plot.
 ##
 downloadButton('downloadData', "Download these data"),
-br(), br(),
+br(), br()#,
 
 ##
 ##  Create a 'Replication code' button where
 ##  user can download the code used to generate
 ##  the current plot.
 ##
-helpText(a("Replication code on", href="https://github.com/KyleMackey/MassMobilization"),
-         img(src = "GitHub_Logo.png", height = 44, width = 44))
+#helpText(a("Replication code on", href="https://github.com/KyleMackey/MassMobilization"),
+#         img(src = "GitHub_Logo.png", height = 44, width = 44))
 ),
 
 ##

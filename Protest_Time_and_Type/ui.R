@@ -43,7 +43,7 @@ shinyUI(fluidPage(
 ## 
 ##  Application title
 ##
-titlePanel("Types of Protests"),
+titlePanel("Types of Violence"),
   
 
 ##
@@ -67,7 +67,12 @@ br(),
 sliderInput("yearslider", "Choose Year",
             min = 1990, max = 2014, 
             value = c(1990, 2014),
-            format = "0000", animate=TRUE),
+            format = "0000", 
+            animate=animationOptions(interval = 1000, 
+                                     loop = TRUE, 
+                                     playButton = "Play", 
+                                     pauseButton = "Pause")
+            ),
 br(),
     
 ##
@@ -79,15 +84,15 @@ downloadButton('downloadData', "Download these data"),
 br(), br(),
 
 helpText("Note: Downloads user-selected region and year range."),
-br(),
+br()#,
     
 ##
 ##  Create a 'Replication code' button where
 ##  user can download the code used to generate
 ##  the current plot.
 ##
-helpText(a("Replication code on", href="https://github.com/KyleMackey/MassMobilization"),
-         img(src = "GitHub_Logo.png", height = 44, width = 44))
+#helpText(a("Replication code on", href="https://github.com/KyleMackey/MassMobilization/tree/master/Protest_Time_and_Type"),
+#         img(src = "GitHub_Logo.png", height = 44, width = 44))
 ),
   
 
@@ -113,7 +118,7 @@ tabsetPanel(
            ##
            ##  Select which demand you want to look at
            ##
-           selectInput("demand", "Choose Demand:",
+           selectInput("demand", "Type of Demand:",
                        c("Land" = 'land',
                          "Labor" = 'labor',
                          "Police Brutality" = 'police',
@@ -134,7 +139,7 @@ tabsetPanel(
            ##
            ##  Select which demand you want to look at
            ##
-           selectInput("tvio", "Choose Violence:",
+           selectInput("tvio", "Type of Violence:",
                        c("Nonviolent" = 'nonviolent',
                          "Protester Violence" = 'protester_violence',
                          "State Violence" = 'state_violence',
