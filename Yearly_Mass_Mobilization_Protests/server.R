@@ -180,12 +180,12 @@ temp2 <- subset(temp, temp$country == input$country)
 ##  Plot a pointrange plot of yearly protest duration for the 
 ##  user selected country
 ##
-dp <- ggplot(temp2, aes(x=year, y=duration_mean)) +
+dp <- ggplot(temp2, aes(x=year, y=ln_duration_mean)) +
         ggtitle(input$country) +
         geom_rug(aes(x=year), col='black', size=0.5, sides="b") +
         geom_point(size=4) +
         labs(y = "Protest Duration", x = "Year") +
-        coord_cartesian(ylim = c(-0.12 ,(max(temp2$duration_mean)+0.75))) 
+        coord_cartesian(ylim = c(-0.12 ,(max(temp2$ln_duration_mean)+0.75))) 
   
   
 ##
@@ -193,12 +193,12 @@ dp <- ggplot(temp2, aes(x=year, y=duration_mean)) +
 ##  plot only violent protests.
 ##
 if(input$violent) {
-dp <- ggplot(temp2, aes(x=year, y=v_duration_mean)) +
+dp <- ggplot(temp2, aes(x=year, y=ln_v_duration_mean)) +
             ggtitle(input$country) +
             geom_rug(aes(x=year), col='black', size=0.5, sides="b") +
             geom_point(size=4) +
             labs(y = "Protest Duration", x = "Year") +
-            coord_cartesian(ylim = c(-0.12 ,(max(temp2$v_duration_mean)+0.75))) 
+            coord_cartesian(ylim = c(-0.12 ,(max(temp2$ln_v_duration_mean)+0.75))) 
 }
   
 
@@ -221,10 +221,10 @@ dp <- dp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
 ##  Note: user will not be able to adjust the fit of the world trend 
 ##  in the user interface.
 ##
-if(input$world) {
-dp <- dp + stat_smooth(data=d_temp, aes(x=d_year, y=d_mean_dur), colour="red", se=FALSE, size=1)  + 
-            theme(legend.direction = "horizontal", legend.position = "bottom")
-}  
+#if(input$world) {
+#dp <- dp + stat_smooth(data=temp2, aes(x=year, y=ln_v_duration_mean), colour="red", se=FALSE, size=1)  + 
+#            theme(legend.direction = "horizontal", legend.position = "bottom")
+#}  
   
 
 ##
