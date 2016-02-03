@@ -1,4 +1,4 @@
-country,year,protestnumber,demand_labor,demand_land,demand_policebrutality,demand_political,demand_price,demand_removal,demand_social,protesterviolence,ln_duration_min,ln_duration_max,ln_duration_mean,ln_duration_median,ln_duration_p25,ln_duration_p75,ln_v_duration_min,ln_v_duration_max,ln_v_duration_mean,ln_v_duration_median,ln_v_duration_p25,ln_v_duration_p75,year_dur_mean
+country,year,protestnumber,demand_labor,demand_land,demand_policebrutality,demand_political,demand_price,demand_removal,demand_social,protesterviolence,ln_duration_min,ln_duration_max,ln_duration_mean,ln_duration_median,ln_duration_p25,ln_duration_p75,ln_v_duration_min,ln_v_duration_max,ln_v_duration_mean,ln_v_duration_median,ln_v_duration_p25,ln_v_duration_p75,year_world_dur_mean
 "Afghanistan",1990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1929783
 "Afghanistan",1991,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1056315
 "Afghanistan",1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1427766

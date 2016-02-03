@@ -221,10 +221,10 @@ dp <- dp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
 ##  Note: user will not be able to adjust the fit of the world trend 
 ##  in the user interface.
 ##
-#if(input$world) {
-#dp <- dp + stat_smooth(data=temp2, aes(x=year, y=ln_v_duration_mean), colour="red", se=FALSE, size=1)  + 
-#            theme(legend.direction = "horizontal", legend.position = "bottom")
-#}  
+if(input$world) {
+dp <- dp + stat_smooth(data=temp2, aes(x=year, y=year_dur_mean), colour="red", se=FALSE, size=1)  + 
+            theme(legend.direction = "horizontal", legend.position = "bottom")
+}  
   
 
 ##
