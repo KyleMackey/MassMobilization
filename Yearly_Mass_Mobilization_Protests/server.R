@@ -222,7 +222,7 @@ dp <- dp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
 ##  in the user interface.
 ##
 if(input$world) {
-dp <- dp + stat_smooth(data=temp2, aes(x=year, y=year_dur_mean), colour="red", se=FALSE, size=1)  + 
+dp <- dp + stat_smooth(data=temp2, aes(x=year, y=year_world_dur_mean), colour="red", se=FALSE, size=1)  + 
             theme(legend.direction = "horizontal", legend.position = "bottom")
 }  
   
