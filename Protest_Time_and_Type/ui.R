@@ -29,8 +29,6 @@ url <- "https://raw.githubusercontent.com/KyleMackey/MassMobilization/master/Pro
 protest.data2 <- getURL(url)                
 mm <- read.csv(textConnection(protest.data2))
 
-#mm <- read.csv("/Users/kylemackey/Desktop/MM_Website/Working/Applications/MM_App_3/data/mm_App3.csv")
-
 temp <- data.frame(mm) 
 
 

@@ -118,7 +118,7 @@ md <- ggplot(temp1, aes(x=factor(country))) +
 ##  Land  
 ##
 if(input$demand=='land'){
-  md <- md + geom_bar(aes(y=land), stat="identity") +
+  md <- md + geom_bar(aes(y=demand_land), stat="identity") +
           ggtitle(paste("Land Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
                         input$yearslider[1], "-", input$yearslider[2], ")")) 
 }
@@ -127,7 +127,7 @@ if(input$demand=='land'){
 ##  Labor
 ##
 if(input$demand=='labor'){
-  md <- md + geom_bar(aes(y=labor), stat="identity") +
+  md <- md + geom_bar(aes(y=demand_labor), stat="identity") +
           ggtitle(paste("Labor Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
                         input$yearslider[1], "-", input$yearslider[2], ")")) 
 }
@@ -136,7 +136,7 @@ if(input$demand=='labor'){
 ##  Police
 ##
 if(input$demand=='police'){
-  md <- md + geom_bar(aes(y=police), stat="identity") +
+  md <- md + geom_bar(aes(y=demand_policebrutality), stat="identity") +
             ggtitle(paste("Police Brutality Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
                           input$yearslider[1], "-", input$yearslider[2], ")")) 
 }
@@ -145,7 +145,7 @@ if(input$demand=='police'){
 ##  Political
 ##
 if(input$demand=='political'){
-  md <- md + geom_bar(aes(y=political), stat="identity") +
+  md <- md + geom_bar(aes(y=demand_political), stat="identity") +
             ggtitle(paste("Political Behavior, Process Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
                           input$yearslider[1], "-", input$yearslider[2], ")")) 
 }
@@ -154,7 +154,7 @@ if(input$demand=='political'){
 ##  Prices
 ##
 if(input$demand=='prices'){
-  md <- md + geom_bar(aes(y=prices), stat="identity") +
+  md <- md + geom_bar(aes(y=demand_price), stat="identity") +
             ggtitle(paste("Price and Wage Dispute Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
                           input$yearslider[1], "-", input$yearslider[2], ")")) 
 }
@@ -163,7 +163,7 @@ if(input$demand=='prices'){
 ##  Remove
 ##
 if(input$demand=='remove'){
-  md <- md + geom_bar(aes(y=remove), stat="identity") +
+  md <- md + geom_bar(aes(y=demand_removal), stat="identity") +
             ggtitle(paste("Removal of Politician Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
                           input$yearslider[1], "-", input$yearslider[2], ")")) 
 }
@@ -172,7 +172,7 @@ if(input$demand=='remove'){
 ##  Social
 ##
 if(input$demand=='social'){
-  md <- md + geom_bar(aes(y=social), stat="identity") +
+  md <- md + geom_bar(aes(y=demand_social), stat="identity") +
             ggtitle(paste("Social Restrictions Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
                           input$yearslider[1], "-", input$yearslider[2], ")")) 
 }
