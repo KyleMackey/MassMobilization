@@ -7,9 +7,9 @@
 ##    Author:   KM                                              ##
 ##    Purpose:  Reactive plot of each country's time in the     ##
 ##              street, protester demands, and type of violence.##
-##    Updated:  June 19, 2015                                   ##
+##    Updated:  Feb 04, 2016                                    ##
 ##                                                              ##
-##    Requires: mm_App3.csv                                     ##
+##    Requires: Protest_Time_and_Type.csv                       ##
 ##              server.R                                        ##
 ##                                                              ##
 ##==============================================================##
@@ -82,16 +82,9 @@ downloadButton('downloadData', "Download these data"),
 br(), br(),
 
 helpText("Note: Downloads user-selected region and year range."),
-br()#,
-    
-##
-##  Create a 'Replication code' button where
-##  user can download the code used to generate
-##  the current plot.
-##
-#helpText(a("Replication code on", href="https://github.com/KyleMackey/MassMobilization/tree/master/Protest_Time_and_Type"),
-#         img(src = "GitHub_Logo.png", height = 44, width = 44))
-),
+br()
+
+), # sidebarPanel end
   
 
 ##
@@ -104,11 +97,9 @@ mainPanel(
 tabsetPanel(
   tabPanel("Time in Street", plotOutput("timeinstreet") ,
                
-           br(), br(),                     # This introduces line breaks that move the img file further down the mainPanel
-           img(src = "Binghamton.png",     # This inserts the Binghamton University logo in the mainPanel
-               height = 200, 
-               width = 200), 
-           align="center"                  # This aligns the .PNG in the center of the mainPanel
+           br(), br(),                      # This introduces line breaks that move the img file 
+                                            # further down the mainPanel
+           align="center"                   # This aligns the .PNG in the center of the mainPanel
   ), # tabPanel end
       
   tabPanel("Demands", plotOutput("typedemand") ,
@@ -125,10 +116,8 @@ tabsetPanel(
                          "Remove Politician" = 'remove',
                          "Social Restrictions" = 'social')),
                
-            br(), br(),                     # This introduces line breaks that move the img file further down the mainPanel   
-            img(src = "Binghamton.png",     # This inserts the Binghamton University logo in the mainPanel
-                height = 200, 
-                width = 200), 
+            br(), br(),                     # This introduces line breaks that move the img file 
+                                            # further down the mainPanel   
             align="center"                  # This aligns the .PNG in the center of the mainPanel
   ), # tabPanel end
       
@@ -143,10 +132,8 @@ tabsetPanel(
                          "State Violence" = 'state_violence',
                          "Both Violence" = 'both_violence')),
                 
-            br(), br(),                     # This introduces line breaks that move the img file further down the mainPanel   
-            img(src = "Binghamton.png",     # This inserts the Binghamton University logo in the mainPanel
-                height = 200, 
-                width = 200), 
+            br(), br(),                     # This introduces line breaks that move the img file 
+                                            # further down the mainPanel   
             align="center"                  # This aligns the .PNG in the center of the mainPanel
   ) # tabPanel end
 ) # tabsetPanel end

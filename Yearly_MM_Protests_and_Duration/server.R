@@ -1,14 +1,15 @@
 ##==============================================================##
 ##                                                              ##
-##    Project:  Mass Mobilization Yearly Protests and Duration  ##
+##    Project:  Mass Mobilization Yearly Protests and           ##
+##              Yearly Protest Duration                         ##
 ##                                                              ##
 ##    File:     server.R                                        ##
 ##    Author:   KM                                              ##
 ##    Purpose:  Reactive plot of each country's yearly protests ##
 ##              and yearly protest duration.                    ##
-##    Updated:  May 28, 2015                                    ##
+##    Updated:  Feb 04, 2016                                    ##
 ##                                                              ##
-##    Requires: MM_protestnum.dta                               ##
+##    Requires: protestnum.csv                                  ##
 ##              ui.R                                            ##
 ##                                                              ##
 ##==============================================================##
@@ -58,11 +59,11 @@ temp <- data.frame(mm)
 ##
 w_year <- seq(1990,2014,1)
 w_mean_protest <- matrix(NA, nrow=25, ncol=1, 
-                                dimnames = list(NULL, "w_mean_protest"))	
+                        dimnames = list(NULL, "w_mean_protest"))	
 w_temp <- data.frame(w_year, w_mean_protest)
 
 for(i in 1:25){
-  w_temp$w_mean_protest[i] <- mean(temp$protestnum[temp$year==i+1989])
+    w_temp$w_mean_protest[i] <- mean(temp$protestnum[temp$year==i+1989])
 }
 
 
@@ -71,11 +72,11 @@ for(i in 1:25){
 ##
 d_year <- seq(1990,2014,1)
 d_mean_dur <- matrix(NA, nrow=25, ncol=1, 
-                         dimnames = list(NULL, "d_mean_dur"))  
+                    dimnames = list(NULL, "d_mean_dur"))  
 d_temp <- data.frame(d_year, d_mean_dur)
 
 for(i in 1:25){
-  d_temp$d_mean_dur[i] <- mean(temp$v_duration_mean[temp$year==i+1989])
+    d_temp$d_mean_dur[i] <- mean(temp$v_duration_mean[temp$year==i+1989])
 }
 
 
@@ -119,14 +120,14 @@ yp <- ggplot(temp1, aes(x=year, y=protestnumber)) +
 ##  plot only violent protests.
 ##
 if(input$violent) {
-yp <- ggplot(temp1, aes(x=year, y=protesterviolence)) +
-              ggtitle(input$country) +
-              geom_rug(aes(x=year), col='black', size=0.5, sides="b") +
-              geom_point(size = 4) +
-              labs(y = "Violent Protests", x = "Year") +
-              scale_y_continuous(breaks = seq(0, (max(temp1$protesterviolence)), by = 2)) +
-              scale_x_continuous(breaks = seq((min(temp1$year)), (max(temp1$year)), by = 5)) +
-              coord_cartesian(ylim = c(0.25 ,(max(temp1$protesterviolence)+0.75)), 
+    yp <- ggplot(temp1, aes(x=year, y=protesterviolence)) +
+                ggtitle(input$country) +
+                geom_rug(aes(x=year), col='black', size=0.5, sides="b") +
+                geom_point(size = 4) +
+                labs(y = "Violent Protests", x = "Year") +
+                scale_y_continuous(breaks = seq(0, (max(temp1$protesterviolence)), by = 2)) +
+                scale_x_continuous(breaks = seq((min(temp1$year)), (max(temp1$year)), by = 5)) +
+                coord_cartesian(ylim = c(0.25 ,(max(temp1$protesterviolence)+0.75)), 
                               xlim = c((min(temp1$year)-0.5), (max(temp1$year)+0.5))) 
 }
 
@@ -138,8 +139,8 @@ yp <- ggplot(temp1, aes(x=year, y=protesterviolence)) +
 ##  fit in the user interface
 ##
 if(input$trend) {
-yp <- yp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
-              theme(legend.direction = "horizontal", legend.position = "bottom")
+    yp <- yp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
+                        theme(legend.direction = "horizontal", legend.position = "bottom")
 }
 
 
@@ -151,8 +152,8 @@ yp <- yp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
 ##  user interface.
 ##
 if(input$world) {
-yp <- yp + stat_smooth(data=w_temp, aes(x=w_year, y=w_mean_protest), colour="red", se=FALSE, size=1)  + 
-              theme(legend.direction = "horizontal", legend.position = "bottom")
+    yp <- yp + stat_smooth(data=w_temp, aes(x=w_year, y=w_mean_protest), colour="red", se=FALSE, size=1)  + 
+                          theme(legend.direction = "horizontal", legend.position = "bottom")
 }  
  
 
@@ -181,11 +182,11 @@ temp2 <- subset(temp, temp$country == input$country)
 ##  user selected country
 ##
 dp <- ggplot(temp2, aes(x=year, y=ln_duration_mean)) +
-        ggtitle(input$country) +
-        geom_rug(aes(x=year), col='black', size=0.5, sides="b") +
-        geom_point(size=4) +
-        labs(y = "Protest Duration", x = "Year") +
-        coord_cartesian(ylim = c(-0.12 ,(max(temp2$ln_duration_mean)+0.75))) 
+            ggtitle(input$country) +
+            geom_rug(aes(x=year), col='black', size=0.5, sides="b") +
+            geom_point(size=4) +
+            labs(y = "Protest Duration", x = "Year") +
+            coord_cartesian(ylim = c(-0.12 ,(max(temp2$ln_duration_mean)+0.75))) 
   
   
 ##
@@ -193,12 +194,12 @@ dp <- ggplot(temp2, aes(x=year, y=ln_duration_mean)) +
 ##  plot only violent protests.
 ##
 if(input$violent) {
-dp <- ggplot(temp2, aes(x=year, y=ln_v_duration_mean)) +
-            ggtitle(input$country) +
-            geom_rug(aes(x=year), col='black', size=0.5, sides="b") +
-            geom_point(size=4) +
-            labs(y = "Protest Duration", x = "Year") +
-            coord_cartesian(ylim = c(-0.12 ,(max(temp2$ln_v_duration_mean)+0.75))) 
+    dp <- ggplot(temp2, aes(x=year, y=ln_v_duration_mean)) +
+                ggtitle(input$country) +
+                geom_rug(aes(x=year), col='black', size=0.5, sides="b") +
+                geom_point(size=4) +
+                labs(y = "Protest Duration", x = "Year") +
+                coord_cartesian(ylim = c(-0.12 ,(max(temp2$ln_v_duration_mean)+0.75))) 
 }
   
 
@@ -209,8 +210,8 @@ dp <- ggplot(temp2, aes(x=year, y=ln_v_duration_mean)) +
 ##  fit in the user interface
 ##
 if(input$trend) {
-dp <- dp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
-            theme(legend.direction = "horizontal", legend.position = "bottom")
+    dp <- dp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
+                          theme(legend.direction = "horizontal", legend.position = "bottom")
 }
   
 
@@ -222,8 +223,8 @@ dp <- dp + stat_smooth(se=FALSE, size=1, span = input$countryspan) +
 ##  in the user interface.
 ##
 if(input$world) {
-dp <- dp + stat_smooth(data=temp2, aes(x=year, y=year_world_dur_mean), colour="red", se=FALSE, size=1)  + 
-            theme(legend.direction = "horizontal", legend.position = "bottom")
+    dp <- dp + stat_smooth(data=temp2, aes(x=year, y=year_world_dur_mean), colour="red", se=FALSE, size=1)  + 
+                          theme(legend.direction = "horizontal", legend.position = "bottom")
 }  
   
 
@@ -237,10 +238,10 @@ print(dp)
 ##  Download these data
 ##
 output$downloadData <- downloadHandler(
-          filename = function() { paste(input$country, '.csv', sep='') },
-                      content = function(file) {
-                        write.csv(subset(mm, mm$country == input$country), file)
-                      }
+                            filename = function() { paste(input$country, '.csv', sep='') },
+                            content = function(file) {
+                                      write.csv(subset(mm, mm$country == input$country), file)
+                            }
 )
 
 

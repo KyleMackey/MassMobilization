@@ -7,9 +7,9 @@
 ##    Author:   KM                                              ##
 ##    Purpose:  Reactive plot of each country's time in the     ##
 ##              street, protester demands, and type of violence.##
-##    Updated:  June 19, 2015                                   ##
+##    Updated:  Feb 04, 2016                                    ##
 ##                                                              ##
-##    Requires: mm_App3.dta                                     ##
+##    Requires: Protest_Time_and_Type.csv                       ##
 ##              ui.R                                            ##
 ##                                                              ##
 ##==============================================================##
@@ -71,7 +71,9 @@ output$timeinstreet <- renderPlot({
 ##
 ##  Subset out the data that the user selects in the app
 ##
-temp1 <- subset(temp, temp$regionnm == input$regionnm & temp$year %in% seq(input$yearslider[1], input$yearslider[2], 1))
+temp1 <- subset(temp, 
+                temp$regionnm == input$regionnm & temp$year %in% seq(input$yearslider[1], 
+                                                                     input$yearslider[2], 1))
 
 
 ##
@@ -79,7 +81,10 @@ temp1 <- subset(temp, temp$regionnm == input$regionnm & temp$year %in% seq(input
 ##  user selected region
 ##
 tis <- ggplot(temp1, aes(x=factor(country), y=protestdays)) +
-        ggtitle(paste("Time in the Street", "\n", "(", paste(input$regionnm, ":", sep=""), input$yearslider[1], "-", input$yearslider[2], ")")) +
+        ggtitle(paste("Time in the Street", "\n", "(", 
+                      paste(input$regionnm, ":", sep=""), 
+                      input$yearslider[1], "-", 
+                      input$yearslider[2], ")")) +
         geom_bar(stat="identity") +
         labs(y = "Days", x = " ") +
         theme(axis.text.x = element_text(angle = 90, hjust = 1))
@@ -103,7 +108,9 @@ output$typedemand <- renderPlot({
 ##
 ##  Subset out the data that the user selects in the app
 ##
-temp1 <- subset(temp, temp$regionnm == input$regionnm & temp$year %in% seq(input$yearslider[1], input$yearslider[2], 1))
+temp1 <- subset(temp, 
+                temp$regionnm == input$regionnm & temp$year %in% seq(input$yearslider[1], 
+                                                                     input$yearslider[2], 1))
  
   
 ##
@@ -118,63 +125,76 @@ md <- ggplot(temp1, aes(x=factor(country))) +
 ##  Land  
 ##
 if(input$demand=='land'){
-  md <- md + geom_bar(aes(y=demand_land), stat="identity") +
-          ggtitle(paste("Land Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                        input$yearslider[1], "-", input$yearslider[2], ")")) 
+    md <- md + geom_bar(aes(y=demand_land), stat="identity") +
+              ggtitle(paste("Land Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
+                            input$yearslider[1], "-", 
+                            input$yearslider[2], ")")) 
 }
   
 ##
 ##  Labor
 ##
 if(input$demand=='labor'){
-  md <- md + geom_bar(aes(y=demand_labor), stat="identity") +
-          ggtitle(paste("Labor Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                        input$yearslider[1], "-", input$yearslider[2], ")")) 
+    md <- md + geom_bar(aes(y=demand_labor), stat="identity") +
+              ggtitle(paste("Labor Protest", "\n", "(", 
+                            paste(input$regionnm, ":", sep=""), 
+                            input$yearslider[1], "-", 
+                            input$yearslider[2], ")")) 
 }
   
 ##
 ##  Police
 ##
 if(input$demand=='police'){
-  md <- md + geom_bar(aes(y=demand_policebrutality), stat="identity") +
-            ggtitle(paste("Police Brutality Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                          input$yearslider[1], "-", input$yearslider[2], ")")) 
+    md <- md + geom_bar(aes(y=demand_policebrutality), stat="identity") +
+                ggtitle(paste("Police Brutality Protest", "\n", "(", 
+                              paste(input$regionnm, ":", sep=""), 
+                              input$yearslider[1], "-", 
+                              input$yearslider[2], ")")) 
 }
   
 ##
 ##  Political
 ##
 if(input$demand=='political'){
-  md <- md + geom_bar(aes(y=demand_political), stat="identity") +
-            ggtitle(paste("Political Behavior, Process Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                          input$yearslider[1], "-", input$yearslider[2], ")")) 
+    md <- md + geom_bar(aes(y=demand_political), stat="identity") +
+                ggtitle(paste("Political Behavior, Process Protest", "\n", "(", 
+                              paste(input$regionnm, ":", sep=""), 
+                              input$yearslider[1], "-", 
+                              input$yearslider[2], ")")) 
 }
   
 ##
 ##  Prices
 ##
 if(input$demand=='prices'){
-  md <- md + geom_bar(aes(y=demand_price), stat="identity") +
-            ggtitle(paste("Price and Wage Dispute Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                          input$yearslider[1], "-", input$yearslider[2], ")")) 
+    md <- md + geom_bar(aes(y=demand_price), stat="identity") +
+                ggtitle(paste("Price and Wage Dispute Protest", "\n", "(", 
+                              paste(input$regionnm, ":", sep=""), 
+                              input$yearslider[1], "-", 
+                              input$yearslider[2], ")")) 
 }
   
 ##
 ##  Remove
 ##
 if(input$demand=='remove'){
-  md <- md + geom_bar(aes(y=demand_removal), stat="identity") +
-            ggtitle(paste("Removal of Politician Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                          input$yearslider[1], "-", input$yearslider[2], ")")) 
+    md <- md + geom_bar(aes(y=demand_removal), stat="identity") +
+                ggtitle(paste("Removal of Politician Protest", "\n", "(", 
+                              paste(input$regionnm, ":", sep=""), 
+                              input$yearslider[1], "-", 
+                              input$yearslider[2], ")")) 
 }
   
 ##
 ##  Social
 ##
 if(input$demand=='social'){
-  md <- md + geom_bar(aes(y=demand_social), stat="identity") +
-            ggtitle(paste("Social Restrictions Protest", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                          input$yearslider[1], "-", input$yearslider[2], ")")) 
+    md <- md + geom_bar(aes(y=demand_social), stat="identity") +
+                ggtitle(paste("Social Restrictions Protest", "\n", "(", 
+                              paste(input$regionnm, ":", sep=""), 
+                              input$yearslider[1], "-", 
+                              input$yearslider[2], ")")) 
 }
     
 ##
@@ -195,7 +215,9 @@ output$typeviolence <- renderPlot({
 ##
 ##  Subset out the data that the user selects in the app
 ##
-temp1 <- subset(temp, temp$regionnm == input$regionnm & temp$year %in% seq(input$yearslider[1], input$yearslider[2], 1))
+temp1 <- subset(temp, 
+                temp$regionnm == input$regionnm & temp$year %in% seq(input$yearslider[1], 
+                                                                     input$yearslider[2], 1))
   
   
 ##
@@ -210,36 +232,44 @@ vio <- ggplot(temp1, aes(x=factor(country))) +
 ##  Nonviolent
 ##
 if(input$tvio=='nonviolent'){
-  vio <- vio + geom_bar(aes(y=nonviolent), stat="identity") +
-          ggtitle(paste("Nonviolent Protests", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                        input$yearslider[1], "-", input$yearslider[2], ")")) 
+    vio <- vio + geom_bar(aes(y=nonviolent), stat="identity") +
+              ggtitle(paste("Nonviolent Protests", "\n", "(", 
+                            paste(input$regionnm, ":", sep=""), 
+                            input$yearslider[1], "-", 
+                            input$yearslider[2], ")")) 
 }
   
 ##
 ##  Protester Violence
 ##
 if(input$tvio=='protester_violence'){
-  vio <- vio + geom_bar(aes(y=protester_violence), stat="identity") +
-          ggtitle(paste("Protester Violence", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                        input$yearslider[1], "-", input$yearslider[2], ")"))  
+   vio <- vio + geom_bar(aes(y=protester_violence), stat="identity") +
+              ggtitle(paste("Protester Violence", "\n", "(", 
+                            paste(input$regionnm, ":", sep=""), 
+                            input$yearslider[1], "-", 
+                            input$yearslider[2], ")"))  
 }
   
 ##
 ##  State Violence
 ##
 if(input$tvio=='state_violence'){
-  vio <- vio + geom_bar(aes(y=state_violence), stat="identity") +
-          ggtitle(paste("State Violence", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                        input$yearslider[1], "-", input$yearslider[2], ")"))     
+    vio <- vio + geom_bar(aes(y=state_violence), stat="identity") +
+              ggtitle(paste("State Violence", "\n", "(", 
+                            paste(input$regionnm, ":", sep=""), 
+                            input$yearslider[1], "-", 
+                            input$yearslider[2], ")"))     
 }
   
 ##
 ##  Both Violence
 ##
 if(input$tvio=='both_violence'){
-vio <- vio + geom_bar(aes(y=both_violence), stat="identity") +
-          ggtitle(paste("Protester and State Violence", "\n", "(", paste(input$regionnm, ":", sep=""), 
-                        input$yearslider[1], "-", input$yearslider[2], ")")) 
+    vio <- vio + geom_bar(aes(y=both_violence), stat="identity") +
+              ggtitle(paste("Protester and State Violence", "\n", "(", 
+                            paste(input$regionnm, ":", sep=""), 
+                            input$yearslider[1], "-", 
+                            input$yearslider[2], ")")) 
 }
 
   
@@ -255,9 +285,12 @@ print(vio)
 ##  Download these data
 ##
 output$downloadData <- downloadHandler(
-      filename = function() { paste(input$regionnm, "_", input$yearslider[1], "-", input$yearslider[2], '.csv', sep='') },
+      filename = function() { paste(input$regionnm, "_", 
+                                    input$yearslider[1], "-", 
+                                    input$yearslider[2], '.csv', 
+                                    sep='') },
       content = function(file) {
-        write.csv(subset(mm, mm$regionnm == input$regionnm), file)
+                write.csv(subset(mm, mm$regionnm == input$regionnm), file)
     }
 )
      

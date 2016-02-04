@@ -39,32 +39,32 @@ shinyUI(fluidPage(
 ##  Application title
 ##
 titlePanel(paste("Protests over Time", (min(temp$year)), " - ", (max(temp$year)))),
-
+  
 ##
 ##  Sidebar panel
 ##
 sidebarPanel(
-  
+    
 ##
 ##  Select which country you want to look at
 ##
 selectInput("country", "Choose Country:",
             choices=as.character(unique(mm$country))),
 br(),
-
-
+    
+    
 ##
 ##  Violent/non-violent protests (user optional)
 ##
 checkboxInput("violent", "Violent Protests", FALSE),
 br(),
-
+  
 ##
 ##  Fit a line through the data points (user optional)
 ##
 checkboxInput("trend", "Show Country Trend", FALSE),
 br(),
-
+    
 ##
 ##  Determine the fit of the line (user optional)
 ##
@@ -75,14 +75,14 @@ sliderInput("countryspan",
             value = 0.75,
             step= 0.05),
 br(), br(),
-
+    
 ##
 ##  Create a checkbox to select the world trend 
 ##  in protests
 ##
 checkboxInput("world", "Show World Trend", FALSE),
 br(), br(),
-
+    
 ##
 ##  Create a 'Download these data' button where
 ##  user can download the data used to make the
@@ -90,15 +90,9 @@ br(), br(),
 ##
 downloadButton('downloadData', "Download these data"),
 br(), br()#,
-
-##
-##  Create a 'Replication code' button where
-##  user can download the code used to generate
-##  the current plot.
-##
-#helpText(a("Replication code on", href="https://github.com/KyleMackey/MassMobilization"),
-#         img(src = "GitHub_Logo.png", height = 44, width = 44))
-),
+    
+), #sidebarPanel end
+  
 
 ##
 ##  This is the main plot frame, where I
@@ -106,27 +100,15 @@ br(), br()#,
 ##  and post an image for University branding.
 ##
 mainPanel( 
-
-tabsetPanel(
-  tabPanel("Yearly Protests", plotOutput("plot") ,
-
-br(), br(),                     # This introduces line breaks that move the img file further down the mainPanel
-img(src = "Binghamton.png",     # This inserts the Binghamton University logo in the mainPanel
-    height = 200, 
-    width = 200), 
-align="center"                  # This aligns the .PNG in the center of the mainPanel
-), # tabPanel end
-
-tabPanel( "Protest Duration", plotOutput("plot_dur") ,
-          
-br(), br(),                     # This introduces line breaks that move the img file further down the mainPanel   
-img(src = "Binghamton.png",     # This inserts the Binghamton University logo in the mainPanel
-    height = 200, 
-    width = 200), 
-align="center"                  # This aligns the .PNG in the center of the mainPanel
-) # tabPanel end
-) # tabsetPanel end
+    
+  tabsetPanel(
+      tabPanel("Yearly Protests", plotOutput("plot")
+      ), # tabPanel end
+      
+      tabPanel( "Protest Duration", plotOutput("plot_dur")
+      ) # tabPanel end
+  ) # tabsetPanel end
 ) # mainPanel end
-
+  
 ) # shinyUI end
 ) # fluidPage end
