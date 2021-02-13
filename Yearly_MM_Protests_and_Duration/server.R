@@ -223,9 +223,9 @@ if(input$trend) {
 ##  in the user interface.
 ##
 if(input$world) {
-    dp <- dp + stat_smooth(data=temp2, aes(x=year, y=year_world_dur_mean), colour="red", se=FALSE, size=1)  + 
-                          theme(legend.direction = "horizontal", legend.position = "bottom")
-}  
+      dp <- dp + stat_smooth(data=d_temp, aes(x=d_year, y=d_mean_dur), colour="red", se=FALSE, size=1)  + 
+        theme(legend.direction = "horizontal", legend.position = "bottom")
+    } 
   
 
 ##
